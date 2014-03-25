@@ -1,0 +1,21 @@
+{
+  "nodes":[
+    {"name":"0 MS: wall","group":1},
+    {"name":"1 Pr1: wall","group":1},
+    {"name":"2 Pr2: hill","group":1},
+    {"name":"3 A1: hill","group":1},
+    {"name": "4 Sp: montecillo", "group": 1},
+    {"name":"5 B1: wall","group":1},
+    {"name":"6 F1: wall","group":1},
+    {"name":"7 Fr: rocher","group":1}
+  ],
+  "links":[
+    {"source":1,"target":0,"value":1},
+    {"source":2,"target":1,"value":2},
+    {"source":3,"target":2,"value":3},
+    {"source":4,"target":3,"value":4},
+    {"source":5,"target":1,"value":5},
+    {"source":6,"target":5,"value":6},
+    {"source":7,"target":5,"value":7}
+  ]
+}

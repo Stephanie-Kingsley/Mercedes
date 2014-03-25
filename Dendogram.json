@@ -1,0 +1,25 @@
+{
+ "name": "MS: wall",
+ "children": [
+{"name": "Proof 1: wall",
+"children": [
+{"name": "B1: wall",
+"children": [
+{"name": "F1: wall"},
+{"name": "Fr: rocher"},
+{"name": "Ger"}
+]
+},
+{"name": "Proof 2: hill",
+"children": [
+{"name": "A1: hill",
+"children": [
+{"name": "Span: montecillo"}
+]
+}
+]
+}
+]
+}
+ ]
+}
