@@ -58,6 +58,18 @@
         </p>
     </xsl:template>
     
+    <xsl:template match="tei:lb">
+        <br>
+            <xsl:apply-templates/>    
+        </br>
+    </xsl:template>
+    
+    <xsl:template match="tei:quote">
+        <blockquote>
+            <xsl:apply-templates/>    
+        </blockquote>
+    </xsl:template>
+    
     <xsl:template match="tei:app">
         <span class="app"><xsl:apply-templates /></span>
     </xsl:template>
