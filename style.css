@@ -15,11 +15,14 @@ text-align: left;}
 .A1 { display: none;}
 .B1 { display: none;}
 .F1 { display: none;}
-.K { display: inline; color: red}
+.K { display: inline;}
 header {
 	font-family: Century, Times, Garamond;
 	text-align: left;
 }
+
+#rev {color:red;}
+#orth {color:green;}
 
 blockquote {float:left;}
 

@@ -73,7 +73,7 @@
     <xsl:template match="tei:app">
         <span class="app"><xsl:apply-templates /></span>
     </xsl:template>
-    
+        
     <xsl:template match="tei:rdg">
         <xsl:variable name="class">
         <xsl:value-of select="translate(@wit, '#','')"/>
