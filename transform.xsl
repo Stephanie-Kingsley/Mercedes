@@ -77,8 +77,7 @@
     <xsl:template match="tei:rdg">
         <xsl:variable name="class">
         <xsl:value-of select="translate(@wit, '#','')"/>
-        </xsl:variable>
-        <span class="rdg {$class}"><xsl:apply-templates /></span>
+        </xsl:variable><span class="rdg {$class}"><xsl:apply-templates /></span>
     </xsl:template>
     
     

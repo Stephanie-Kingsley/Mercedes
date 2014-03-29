@@ -27,18 +27,19 @@
                     <witness xml:id="A1">First American</witness>
                     <witness xml:id="B1">First British</witness>
                     <witness xml:id="F1">First Paris</witness>
+                    <witness xml:id="P1">Proof Set 1</witness>
+                    <witness xml:id="P2">Proof Set 2</witness>
                 </listWit>
             </div>
         </front>
         <body>
 <p>Preface</p>
-           <p>So much has been written of late 
+           <p>So much has been written of late years
 <app>
-   <rdg wit="#MS">years--and well written, too--touching</rdg>
-   <rdg wit="#B1 #F1">years touching</rdg>
-   <rdg wit="#A1 #K">years, touching</rdg>
-</app> 
-the discovery of America, that it would not be at all surprising should there exist a disposition in a certain class of readers to deny the accuracy of
+   <rdg wit="#MS">--and well written, too--</rdg>
+   <rdg wit="#B1 #F1"> </rdg>
+   <rdg wit="#A1 #K">, </rdg>
+</app>touching the discovery of America, that it would not be at all surprising should there exist a disposition in a certain class of readers to deny the accuracy of
 <app>
    <rdg wit="#MS #K"></rdg>
    <rdg wit="#A1 #B1 #F1"> all</rdg>
@@ -46,11 +47,11 @@ the discovery of America, that it would not be at all surprising should there ex
 <app>
    <rdg wit="#MS">of</rdg>
    <rdg wit="#A1 #B1 #F1 #K">in</rdg>
-</app> this 
+</app> this
 <app>
-   <rdg wit="#MS #A1 #K">work.</rdg>
-   <rdg wit="#B1 #F1">Work.</rdg>
-</app>  Some may refer to history, with a 
+   <rdg wit="#MS #A1 #K">work</rdg>
+   <rdg wit="#B1 #F1">Work</rdg>
+</app>.  Some may refer to history, with a 
 <app>
    <rdg wit="#MS">desire</rdg>
    <rdg wit="#A1 #B1 #F1 #K">view</rdg>
@@ -78,22 +79,22 @@ the discovery of America, that it would not be at all surprising should there ex
 <app>
    <rdg wit="#MS #A1 #K">any thing</rdg>
    <rdg wit="B1 #F1">anything</rdg>
-</app> either unreasonable or 
+</app> either unreasonable or unusual
 <app>
-   <rdg wit="#MS #K">unusual,</rdg>
-   <rdg wit="#A1 #B1 #F1">unusual</rdg>
-</app> in this course, as perhaps the greater portion of that which is daily and 
+   <rdg wit="#MS #K">, </rdg>
+   <rdg wit="#A1 #B1 #F1"> </rdg>
+</app>in this course, as perhaps the greater portion of that which is daily and hourly
 <app>
-   <rdg wit="#MS #K">hourly,</rdg>
-   <rdg wit="#A1 #B1 #F1">hourly</rdg>
+   <rdg wit="#MS #K">,</rdg>
+   <rdg wit="#A1 #B1 #F1"></rdg>
 </app> offered to the credence of the 
 <app>
    <rdg wit="#MS #A1 #K">American</rdg>
    <rdg wit="#B1 #F1"></rdg>
-</app> public, rests on the same species of 
+</app> public, rests on the same species of testimony
 <app>
-   <rdg wit="#MS #K">testimony, </rdg>
-   <rdg wit="#A1 #B1 #F1">testimony,--</rdg>
+   <rdg wit="#MS #K">, </rdg>
+   <rdg wit="#A1 #B1 #F1">,--</rdg>
 </app>with the trifling difference that we state truths, with a profession of fiction, while the great moral caterers of the age state fiction with the profession of truth.  If any advantage can be fairly obtained over us, in consequence of this trifling discrepancy, we must 
 <app>
    <rdg wit="#MS #K">fain</rdg>
@@ -101,22 +102,26 @@ the discovery of America, that it would not be at all surprising should there ex
 </app> submit.
 </p>
 <p>
-There is one point, notwithstanding, concerning which it may be well to be 
+There is one point, notwithstanding, concerning which it may be well to be frank
 <app>
-   <rdg wit="#MS #K">frank,</rdg>
-   <rdg wit="#A1 #B1 #F1">frank</rdg>
-</app> at once.  The narrative of the &quot;Voyage to 
+   <rdg wit="#MS #K">,</rdg>
+   <rdg wit="#A1 #B1 #F1"></rdg>
+</app> at once.  The narrative of the &quot;Voyage to Cathay
 <app>
-   <rdg wit="#MS #A1 #K">Cathay,&quot;</rdg>
-   <rdg wit="#B1 #F1">Cathay&quot;</rdg>
-</app> has been written with the journal of the Admiral before 
+   <rdg wit="#MS #A1 #K">,</rdg>
+   <rdg wit="#B1 #F1"></rdg>
+</app>&quot; has been written with the journal of the Admiral before us
 <app>
-   <rdg wit="#MS #A1 #B1 #K">us; or,</rdg>
-   <rdg wit="#F1">us, or</rdg>
-</app> rather with all of that 
+   <rdg wit="#MS #A1 #B1 #K">;</rdg>
+   <rdg wit="#F1">,</rdg>
+</app> or 
 <app>
-   <rdg wit="#MS #K">journal,</rdg>
-   <rdg wit="#A1 #B1 #F1">journal</rdg>
+   <rdg wit="#MS #A1 #B1 #K">,</rdg>
+   <rdg wit="#F1"></rdg>
+</app>rather with all of that journal
+<app>
+   <rdg wit="#MS #K">,</rdg>
+   <rdg wit="#A1 #B1 #F1"></rdg>
 </app> 
 <app>
    <rdg wit="#MS">that</rdg>
@@ -125,11 +130,11 @@ There is one point, notwithstanding, concerning which it may be well to be
 <app>
    <rdg wit="#MS #K">meager</rdg>
    <rdg wit="#A1 #B1 #F1">meagre</rdg>
-</app> editor.  Nothing is plainer than the general fact that this person did not always understand his 
+</app> editor.  Nothing is plainer than the general fact that this person did not always understand his author
 <app>
-   <rdg wit="#MS A1 #K">author, and</rdg>
-   <rdg wit="#B1 #F1">author; and</rdg>
-</app> in one particular circumstance he has written so obscurely, as not a little to embarass even a novelist, whose functions naturally include an entire familiarity with the thoughts, emotions, characters, and, occasionally, with the unknown fates of the subjects of his pen.  The nautical day formerly commenced at 
+   <rdg wit="#MS A1 #K">,</rdg>
+   <rdg wit="#B1 #F1">;</rdg>
+</app> and in one particular circumstance he has written so obscurely, as not a little to embarass even a novelist, whose functions naturally include an entire familiarity with the thoughts, emotions, characters, and, occasionally, with the unknown fates of the subjects of his pen.  The nautical day formerly commenced at 
 <app>
    <rdg wit="#MS #K">Meridian</rdg>
    <rdg wit="#A1 #B1 #F1">meridian</rdg>
@@ -139,12 +144,16 @@ There is one point, notwithstanding, concerning which it may be well to be
    <rdg wit="#B1 #F1">;</rdg>
 </app> and
 <app>
-   <rdg wit="#MS #A1 #K">with all our native ingenuity and high professional prerogatives</rdg>
-   <rdg wit="#B1 #F1">, with all our native ingenuity and high professional prerogatives,</rdg>
-</app> we have not been able to discover whether the editor of the journal has adopted that mode of counting time, or whether he has condescended to use the more vulgar and irrational practice of landsmen.  It is our opinion, however, that in the spirit of impartiality which becomes an 
+   <rdg wit="#MS #A1 #K"></rdg>
+   <rdg wit="#B1 #F1">,</rdg>
+</app>with all our native ingenuity and high professional prerogatives
 <app>
-   <rdg wit="#MS #K">historian</rdg>
-   <rdg wit="#A1 #B1 #F1">historian,</rdg>
+   <rdg wit="#MS #A1 #K"></rdg>
+   <rdg wit="#B1 #F1">,</rdg>
+</app> we have not been able to discover whether the editor of the journal has adopted that mode of counting time, or whether he has condescended to use the more vulgar and irrational practice of landsmen.  It is our opinion, however, that in the spirit of impartiality which becomes an historian
+<app>
+   <rdg wit="#MS #K"></rdg>
+   <rdg wit="#A1 #B1 #F1">,</rdg>
    </app> he has adopted both.  
 <app>
    <rdg wit="#MS #A1 #K">This little peculiarity might possibly embarrass a</rdg>
@@ -154,11 +163,11 @@ There is one point, notwithstanding, concerning which it may be well to be
    <rdg wit="#MS">very accurate</rdg>
    <rdg wit="#B1 #F1"></rdg>
    <rdg wit="#A1 #K">superficial</rdg>
-</app> 
+</app> critic
 <app>
-   <rdg wit="#MS #K">critic,</rdg>
+   <rdg wit="#MS #K">,</rdg>
    <rdg wit="#B1 #F1"></rdg>
-   <rdg wit="#A1">critic;</rdg>
+   <rdg wit="#A1">;</rdg>
 </app> 
 <app>
    <rdg wit="#MS #A1 #K">but accurate critics being so very common, we feel no concern on this head, well knowing that they will be much more apt to wink at these minor inconsistencies, than to pass over an error of the press, or a comma with a broken tail.  As we wish to live on good terms with this useful class of our</rdg>
@@ -213,10 +222,10 @@ There is one point, notwithstanding, concerning which it may be well to be
 </app> 
 </p>
 
-<p>As respects the minor characters of this work, very little need be said.  Every one knows that Columbus had seamen in  his vessels, and that he brought some of the natives of the islands he had 
+           <p>As respects the minor characters of this work, very little need be said.  Every one knows that Columbus had seamen in  his vessels, and that he brought some of the natives of the islands he had discovered
 <app>
-   <rdg wit="#MS #A1 #K">discovered,</rdg>
-   <rdg wit="#B1 #F1">discovered</rdg>
+   <rdg wit="#MS #A1 #K">,</rdg>
+   <rdg wit="#B1 #F1"></rdg>
 </app> back with him to Spain.  The reader is now made 
 <app>
    <rdg wit="#MS"></rdg>
@@ -230,10 +239,10 @@ There is one point, notwithstanding, concerning which it may be well to be
    <rdg wit="#MS">be</rdg>
    <rdg wit="#A1 #K">be possibly</rdg>
    <rdg wit="#B1 #F1">possibly be</rdg>
-</app> by the perusal of any work previously 
+</app> by the perusal of any work previously written
 <app>
-   <rdg wit="#MS">written</rdg>
-   <rdg wit="#A1 #B1 #F1 #K">written.</rdg>
+   <rdg wit="#MS"></rdg>
+   <rdg wit="#A1 #B1 #F1 #K">.</rdg>
 </app>  As for the 
 <app>
    <rdg wit="#MS">little</rdg>
@@ -256,12 +265,12 @@ There is one point, notwithstanding, concerning which it may be well to be
    <rdg wit="#A1 #B1 #F1 #K"></rdg>
 </app> future investigations unnecessary.
 </p>
-<p>
+<p>CHAPTER 
 <app>
-   <rdg wit="#A1">CHAPTER VII.</rdg>
-   <rdg wit="#B1">CHAPTER III.</rdg>
-   <rdg wit="#MS #F1 #K">CHAPTER XXIII.</rdg>
-</app>
+   <rdg wit="#A1">VII</rdg>
+   <rdg wit="#B1">III</rdg>
+   <rdg wit="#MS #F1 #K">XXIII</rdg>
+</app>.
 </p>
 <quote>&quot;Thou 
 <app>
@@ -275,20 +284,20 @@ There is one point, notwithstanding, concerning which it may be well to be
    <rdg wit="#F1">fancy&apos;s</rdg>
    <rdg wit="#A1">fancy&apos;s</rdg>
 </app> eye<lb/>
-An animated 
+An animated blossom
 <app>
-   <rdg wit="#K #MS #A1">blossom</rdg>
-   <rdg wit="#B1">blossom,</rdg>
-   <rdg wit="#F1">blossom,</rdg>
+   <rdg wit="#K #MS #A1"></rdg>
+   <rdg wit="#B1">,</rdg>
+   <rdg wit="#F1">,</rdg>
 </app> born in air;<lb/>
 Which breathes and bourgeons in the golden sky, <lb/>
 And sheds its odours there.&quot; 
 </quote>
-<p>           
+<p>Sutermeister
 <app>
-   <rdg wit="#MS #F1 #B1">Sutermeister.</rdg>
-   <rdg wit="#A1">Sutermeister</rdg>
-   <rdg wit="#K">Sutermeister</rdg>
+   <rdg wit="#MS #F1 #B1">.</rdg>
+   <rdg wit="#A1"></rdg>
+   <rdg wit="#K"></rdg>
 </app></p>
 <p>
 Notwithstanding his native resolution, and an indifference to danger that amounted to recklessness, Luis did not find himself alone with the Haytians 
@@ -296,10 +305,10 @@ Notwithstanding his native resolution, and an indifference to danger that amount
    <rdg wit="#K #MS #A1">,</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#F1"></rdg>
-</app> 
+</app> without
 <app>
-   <rdg wit="#K #MS">without at least</rdg>
-   <rdg wit="#A1 #B1 #F1">without, at least,</rdg>
+   <rdg wit="#K #MS"> at least</rdg>
+   <rdg wit="#A1 #B1 #F1">, at least,</rdg>
 </app> 
 a lively consciousness of the novelty of his situation.  Still 
 <app>
@@ -373,12 +382,12 @@ Our hero would not have been a true lover, had he remained indifferent to the gl
 </app> 
 &quot;I take it 
 <app>
-   <rdg wit="#MS">it, for granted Senor</rdg>
-   <rdg wit="#B1">it for granted, Senor</rdg>
-   <rdg wit="#F1">it for granted, Senor</rdg>
-   <rdg wit="#A1">it for granted, Senor</rdg>
-   <rdg wit="#K">it for granted, Senor</rdg>
-</app> Conde, that 
+   <rdg wit="#MS">, for granted</rdg>
+   <rdg wit="#B1">for granted,</rdg>
+   <rdg wit="#F1">for granted,</rdg>
+   <rdg wit="#A1">for granted,</rdg>
+   <rdg wit="#K">for granted,</rdg>
+</app> Senor Conde, that 
 <app>
    <rdg wit="#MS">Your</rdg>
    <rdg wit="#B1">your</rdg>
@@ -518,11 +527,11 @@ Our hero would not have been a true lover, had he remained indifferent to the gl
    <rdg wit="#F1">honour</rdg>
 </app> that is in store for them, and 
 <app>
-   <rdg wit="#K">and least of all </rdg>
-   <rdg wit="MS">and least of all </rdg>
-   <rdg wit="#A1">and least of all, </rdg>
-   <rdg wit="#B1">and, least of all, </rdg>
-   <rdg wit="#F1">and, least of all, </rdg>
+   <rdg wit="#K">least of all </rdg>
+   <rdg wit="MS">least of all </rdg>
+   <rdg wit="#A1">least of all, </rdg>
+   <rdg wit="#B1">, least of all, </rdg>
+   <rdg wit="#F1">, least of all, </rdg>
 </app>
 <app>
    <rdg wit="#K #MS">His</rdg>
@@ -540,12 +549,12 @@ Our hero would not have been a true lover, had he remained indifferent to the gl
    <rdg wit="#F1">head of the canoe</rdg>
 </app> towards yonder river&apos;s mouth, and seem bent on landing.&quot;</p>
 <p>
-By this time, indeed, the natives had coasted as far as they intended, and were turning in towards the entrance of a small stream, which, taking its rise among the noble mountains that were grouped inland, found its way through  a smiling valley to the ocean.  This stream was neither broad nor deep, but it contained far more than water sufficient for any craft used by the natives.  Its banks were fringed with 
+   By this time, indeed, the natives had coasted as far as they intended, and were turning in towards the entrance of a small stream, which, taking its rise among the noble mountains that were grouped inland, found its way through  a smiling valley to the ocean.  This stream was neither broad nor deep, but it contained far more than water sufficient for any craft used by the natives.  Its banks were fringed with bushes
 <app>
-   <rdg wit="#MS #K">bushes, and</rdg>
-   <rdg wit="#A1">bushes; and</rdg>
-   <rdg wit="#B1">bushes; and,</rdg>
-   <rdg wit="#F1">bushes, and,</rdg>
+   <rdg wit="#MS #K">, and</rdg>
+   <rdg wit="#A1">; and</rdg>
+   <rdg wit="#B1">; and,</rdg>
+   <rdg wit="#F1">, and,</rdg>
 </app> as they glided up it, Luis saw fifty sites where he thought he 
 <app>
    <rdg wit="#K #MS">would</rdg>
@@ -579,16 +588,10 @@ By this time, indeed, the natives had coasted as far as they intended, and were 
 <p>
 As the canoe shut in the coast, by entering between the two points that formed the river&apos;s mouth, Sancho pointed out to the young noble 
 <app>
-   <rdg wit="#K #MS">,</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#A1"></rdg>
-   <rdg wit="#F1"></rdg>
-</app> a small fleet of canoes 
-<app>
-   <rdg wit="#K #MS"> </rdg>
-   <rdg wit="#B1">,</rdg>
-   <rdg wit="#A1">,</rdg>
-   <rdg wit="#F1">,</rdg>
+   <rdg wit="#K #MS">, a small fleet of canoes</rdg>
+   <rdg wit="#B1">a small fleet of canoes,</rdg>
+   <rdg wit="#A1">a small fleet of canoes,</rdg>
+   <rdg wit="#F1">a small fleet of canoes,</rdg>
 </app> that was coming down before the wind from the eastward, apparently bound, like so many more they had seen that day, to the 
 <app>
    <rdg wit="#K #MS">Bay</rdg>
@@ -610,17 +613,11 @@ As the canoe shut in the coast, by entering between the two points that formed t
    <rdg wit="#K"></rdg>
 </app> drew from under a light cotton robe 
 <app>
-   <rdg wit="#K #MS"> </rdg>
-   <rdg wit="#B1">,</rdg>
-   <rdg wit="#A1">,</rdg>
-   <rdg wit="#F1">,</rdg>
-</app> that he occasionally wore 
-<app>
-   <rdg wit="#MS">;</rdg>
-   <rdg wit="#B1">,</rdg>
-   <rdg wit="#A1">,</rdg>
-   <rdg wit="#F1">,</rdg>
-   <rdg wit="#K">,</rdg>
+   <rdg wit="#K">that he occasionally wore</rdg>
+   <rdg wit="#MS">that he occasionally wore;</rdg>
+   <rdg wit="#B1">,that he occasionally wore,</rdg>
+   <rdg wit="#A1">,that he occasionally wore,</rdg>
+   <rdg wit="#F1">,that he occasionally wore,</rdg>
 </app> a thin circlet of pure gold, which he placed upon his head, in the manner of a coronet.  This Luis knew was a token that he was a 
 <app>
    <rdg wit="#K #MS #A1">cacique</rdg>
@@ -632,14 +629,7 @@ As the canoe shut in the coast, by entering between the two points that formed t
    <rdg wit="#B1">arose</rdg>
    <rdg wit="#A1">arose</rdg>
    <rdg wit="#F1">arose</rdg>
-</app> to 
-<app>
-   <rdg wit="#MS">salue</rdg>
-   <rdg wit="#B1">salute</rdg>
-   <rdg wit="#A1">salute</rdg>
-   <rdg wit="#F1">salute</rdg>
-   <rdg wit="#K">salute</rdg>
-</app> him at this evidence of his rank, an act that was imitated by all of the Haytians also.  From this assumption of state, Luis rightly imagined that 
+</app> to salute him at this evidence of his rank, an act that was imitated by all of the Haytians also.  From this assumption of state, Luis rightly imagined that 
 <app>
    <rdg wit="#MS">Mattineo,</rdg>
    <rdg wit="#B1">Mattinao</rdg>
@@ -652,7 +642,7 @@ As the canoe shut in the coast, by entering between the two points that formed t
    <rdg wit="#B1">will</rdg>
    <rdg wit="#A1">will</rdg>
    <rdg wit="#F1">will</rdg>
-</app> .  From the moment that 
+</app>.  From the moment that 
 <app>
    <rdg wit="#K #MS">this</rdg>
    <rdg wit="#B1">the</rdg>
@@ -672,12 +662,8 @@ As the canoe shut in the coast, by entering between the two points that formed t
    <rdg wit="#K">their</rdg>
 </app> imperfect means of communication would allow.  He often pronounced the word, 
 <app>
-   <rdg wit="#MS #F1 #B1 #A1"> </rdg>
-   <rdg wit="#K">&quot;</rdg>
-</app> Ozema 
-<app>
-   <rdg wit="#MS #F1 #B1 #A1">,</rdg>
-   <rdg wit="#K">,&quot;</rdg>
+   <rdg wit="#MS #F1 #B1 #A1">Ozema,</rdg>
+   <rdg wit="#K">&quot;Ozema,&quot;</rdg>
 </app> and Luis inferred from the manner in which he used it, that it was the name of a 
 <app>
    <rdg wit="#K #MS">favorite</rdg>
@@ -711,14 +697,7 @@ The canoe ascended the river several miles, until it reached one of those tropic
    <rdg wit="#A1">;</rdg>
    <rdg wit="#F1">;</rdg>
    <rdg wit="#K">;</rdg>
-</app> the 
-<app>
-   <rdg wit="#MS">the</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#A1"></rdg>
-   <rdg wit="#F1"></rdg>
-   <rdg wit="#K"></rdg>
-</app> flowers bloomed 
+</app> the flowers bloomed 
 <app>
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1"></rdg>
@@ -743,7 +722,7 @@ The canoe ascended the river several miles, until it reached one of those tropic
    <rdg wit="#K">and palatable</rdg>
 </app> fruits.</p>
 <p>
-Mattinao was received  by his people 
+Mattinao was received by his people 
 <app>
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1"></rdg>
@@ -777,16 +756,10 @@ Mattinao was received  by his people
    <rdg wit="#F1">visiters</rdg>
 </app> from heaven.  This 
 <app>
-   <rdg wit="#K #MS"> </rdg>
-   <rdg wit="#B1">,</rdg>
-   <rdg wit="#A1">,</rdg>
-   <rdg wit="#F1">,</rdg>
-</app> probably 
-<app>
-   <rdg wit="#K #MS"> </rdg>
-   <rdg wit="#B1">,</rdg>
-   <rdg wit="#A1">,</rdg>
-   <rdg wit="#F1">,</rdg>
+   <rdg wit="#K #MS">probably</rdg>
+   <rdg wit="#B1">, probably,</rdg>
+   <rdg wit="#A1">, probably,</rdg>
+   <rdg wit="#F1">, probably,</rdg>
 </app> was not the opinion of the more elevated in rank, for, even in the savage state, the vulgar mind is far from being that of the 
 <app>
    <rdg wit="#K #MS">favored</rdg>
@@ -817,14 +790,7 @@ Mattinao was received  by his people
    <rdg wit="#A1">;</rdg>
    <rdg wit="#F1">;</rdg>
    <rdg wit="#K">;</rdg>
-</app> leaving the Count of Llera more especially to the care of Mattinao, and the principal 
-<app>
-   <rdg wit="#MS">man,</rdg>
-   <rdg wit="#B1">men</rdg>
-   <rdg wit="#A1">men</rdg>
-   <rdg wit="#F1">men</rdg>
-   <rdg wit="#K">men</rdg>
-</app> of his tribe.  Owing to 
+</app> leaving the Count of Llera more especially to the care of Mattinao, and the principal men of his tribe.  Owing to 
 <app>
    <rdg wit="#MS">the</rdg>
    <rdg wit="#B1">this</rdg>
@@ -840,15 +806,10 @@ Mattinao was received  by his people
    <rdg wit="#K"></rdg>
 </app> Sancho being led away by the 
 <app>
-   <rdg wit="#K #MS #A1">oi polloi</rdg>
-   <rdg wit="#B1">[GREEK</rdg>
-   <rdg wit="#F1">[GREEK</rdg>
-</app> 
-<app>
-   <rdg wit="#K #MS">,</rdg>
-   <rdg wit="#B1">]</rdg>
-   <rdg wit="#A1"></rdg>
-   <rdg wit="#F1">]</rdg>
+   <rdg wit="#K #MS">oi polloi,</rdg>
+   <rdg wit="#B1">[GREEK]</rdg>
+   <rdg wit="#A1">oi polloi</rdg>
+   <rdg wit="#F1">[GREEK]</rdg>
 </app> to a sort of square in the centre of the village, leaving Don Luis in the habitation of the Cacique.</p>
 <p>
 No sooner did Mattinao find himself in the company of our hero, and 
@@ -867,12 +828,8 @@ No sooner did Mattinao find himself in the company of our hero, and
    <rdg wit="#K"></rdg>
 </app> of his confidential chiefs, than the name of 
 <app>
-   <rdg wit="#MS #F1 #B1 #A1"> </rdg>
-   <rdg wit="#K">&quot;</rdg>
-</app> Ozema 
-<app>
-   <rdg wit="#MS #F1 #B1 #A1"> </rdg>
-   <rdg wit="#K">&quot;</rdg>
+   <rdg wit="#MS #F1 #B1 #A1">Ozema</rdg>
+   <rdg wit="#K">&quot;Ozema&quot;</rdg>
 </app> was repeated eagerly among the Indians.  A rapid conversation followed, a messenger was 
 <app>
    <rdg wit="#K #MS">despatched</rdg>
@@ -910,14 +867,7 @@ Mattinao led the way
    <rdg wit="#A1">through</rdg>
    <rdg wit="#F1">through</rdg>
    <rdg wit="#K">through</rdg>
-</app> a wilderness of sweets, where tropical plants luxuriated beneath the branches of 
-<app>
-   <rdg wit="#MS">threes</rdg>
-   <rdg wit="#B1">trees</rdg>
-   <rdg wit="#A1">trees</rdg>
-   <rdg wit="#F1">trees</rdg>
-   <rdg wit="#K">trees</rdg>
-</app> loaded with luscious fruits, holding his course 
+</app> a wilderness of sweets, where tropical plants luxuriated beneath the branches of trees loaded with luscious fruits, holding his course 
 <app>
    <rdg wit="#MS">along</rdg>
    <rdg wit="#B1">by</rdg>
@@ -928,20 +878,17 @@ Mattinao led the way
 <app>
    <rdg wit="#K #MS">foot-path</rdg>
    <rdg wit="#B1">footpath</rdg>
-   <rdg wit="#A1">foot</rdg>
+   <rdg wit="#A1">foot-path</rdg>
    <rdg wit="#F1">footpath</rdg>
 </app> 
 <app>
    <rdg wit="#MS">that</rdg>
    <rdg wit="#B1">which</rdg>
    <rdg wit="#F1">which</rdg>
-   <rdg wit="#A1">?</rdg>
+   <rdg wit="#A1">which</rdg>
    <rdg wit="#K">which</rdg>
 </app> 
-<app>
-   <rdg wit="#K #MS #F1 #B1"></rdg>
-   <rdg wit="#A1">path which</rdg>
-</app> lay on the banks of a torrent that flowed from a ravine, and poured its waters into the river below.  The distance he went might have been half a mile.  Here he reached a cluster of rustic dwellings that occupied a lovely terrace on a 
+lay on the banks of a torrent that flowed from a ravine, and poured its waters into the river below.  The distance he went might have been half a mile.  Here he reached a cluster of rustic dwellings that occupied a lovely terrace on a 
 <app>
    <rdg wit="#K #MS">hill side</rdg>
    <rdg wit="#B1">hill-side</rdg>
@@ -953,17 +900,13 @@ Mattinao led the way
    <rdg wit="#B1">where</rdg>
    <rdg wit="#A1">where</rdg>
    <rdg wit="#F1">where</rdg>
-</app> they overlooked the larger town 
+</app> they overlooked the larger
 <app>
-   <rdg wit="#MS #F1 #B1 #A1"> </rdg>
-   <rdg wit="#K">,</rdg>
-</app> below 
-<app>
-   <rdg wit="#MS">,</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#A1"></rdg>
-   <rdg wit="#F1"></rdg>
-   <rdg wit="#K"></rdg>
+   <rdg wit="#MS">town below,</rdg>
+   <rdg wit="#B1">town below</rdg>
+   <rdg wit="#A1">town below</rdg>
+   <rdg wit="#F1">town below</rdg>
+   <rdg wit="#K">town, below</rdg>
 </app> the river, and 
 <app>
    <rdg wit="#MS"> </rdg>
@@ -971,26 +914,12 @@ Mattinao led the way
    <rdg wit="#A1">commanded</rdg>
    <rdg wit="#F1">commanded</rdg>
    <rdg wit="#K">commanded</rdg>
-</app> a view of the distant ocean.  Luis saw at a glance that this sweet retreat was devoted to the 
-<app>
-   <rdg wit="#MS">the</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#A1"></rdg>
-   <rdg wit="#F1"></rdg>
-   <rdg wit="#K"></rdg>
-</app> uses of the gentler sex, and he doubted not that it formed a species of seraglio, set apart for the wives of the young 
+</app> a view of the distant ocean.  Luis saw at a glance that this sweet retreat was devoted to the uses of the gentler sex, and he doubted not that it formed a species of seraglio, set apart for the wives of the young 
 <app>
    <rdg wit="#MS #F1 #B1">Cacique</rdg>
    <rdg wit="#A1">cacique</rdg>
    <rdg wit="#K">cacique</rdg>
-</app> .  He was led into one 
-<app>
-   <rdg wit="#MS"> </rdg>
-   <rdg wit="#B1">of</rdg>
-   <rdg wit="#A1">of</rdg>
-   <rdg wit="#F1">of</rdg>
-   <rdg wit="#K">of</rdg>
-</app> the principal dwellings, where the simple 
+</app> .  He was led into one of the principal dwellings, where the simple 
 <app>
    <rdg wit="#K #MS #A1"> </rdg>
    <rdg wit="#B1">,</rdg>
@@ -1045,14 +974,7 @@ Mattinao had
    <rdg wit="#K #MS #A1">cacique</rdg>
    <rdg wit="#B1">Cacique</rdg>
    <rdg wit="#F1">Cacique</rdg>
-</app> arose, and by a courteous gesture, such as might have become 
-<app>
-   <rdg wit="#MS">amaster</rdg>
-   <rdg wit="#B1">a master</rdg>
-   <rdg wit="#A1">a master</rdg>
-   <rdg wit="#F1">a master</rdg>
-   <rdg wit="#K">a master</rdg>
-</app> of ceremonies in the court of Isabella, he 
+</app> arose, and by a courteous gesture, such as might have become a master of ceremonies in the court of Isabella, he 
 <app>
    <rdg wit="#MS"> </rdg>
    <rdg wit="#B1">again</rdg>
@@ -1070,14 +992,10 @@ Mattinao had
 <app>
    <rdg wit="#MS">anti-room</rdg>
    <rdg wit="#B1">anteroom</rdg>
-   <rdg wit="#A1">ante</rdg>
+   <rdg wit="#A1">ante-room</rdg>
    <rdg wit="#F1">anteroom</rdg>
    <rdg wit="#K">anteroom</rdg>
-</app> 
-<app>
-   <rdg wit="#K #MS #F1 #B1"></rdg>
-   <rdg wit="#A1">?room</rdg>
-</app>.  Here they remained but a minute 
+</app>  Here they remained but a minute 
 <app>
    <rdg wit="#MS">,</rdg>
    <rdg wit="#B1">;</rdg>
@@ -1090,27 +1008,18 @@ Mattinao had
    <rdg wit="#A1">cacique</rdg>
 </app> , after a short parley with a female, removing a curtain ingeniously made of 
 <app>
-   <rdg wit="#MS #F1">sea</rdg>
+   <rdg wit="#MS #F1">sea weed</rdg>
    <rdg wit="#B1">sea-weed</rdg>
+   <rdg wit="#F1">sea-weed</rdg>
    <rdg wit="#A1">sea-weed</rdg>
    <rdg wit="#K">sea-weed</rdg>
-</app> 
+</app>, and leading the way to an inner apartment.  It had but a single occupant, whose character Luis fancied to be announced in the use of the single word 
 <app>
-   <rdg wit="#K #MS #B1 #A1"></rdg>
-   <rdg wit="#F1">?</rdg>
-</app> 
-<app>
-   <rdg wit="#MS #F1">weed</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#A1"></rdg>
-   <rdg wit="#K"></rdg>
-</app> , and leading the way to an inner apartment.  It had but a single occupant, whose character Luis fancied to be announced in the use of the single word &quot;Ozema 
-<app>
-   <rdg wit="#MS">&quot;,</rdg>
-   <rdg wit="#B1">,&quot;</rdg>
-   <rdg wit="#A1">,&quot;</rdg>
-   <rdg wit="#F1">,&quot;</rdg>
-   <rdg wit="#K">,&quot;</rdg>
+   <rdg wit="#MS">&quot;Ozema&quot;,</rdg>
+   <rdg wit="#B1">&quot;Ozema,&quot;</rdg>
+   <rdg wit="#A1">&quot;Ozema,&quot;</rdg>
+   <rdg wit="#F1">&quot;Ozema,&quot;</rdg>
+   <rdg wit="#K">&quot;Ozema,&quot;</rdg>
 </app> that the 
 <app>
    <rdg wit="#K #MS #F1 #B1">Cacique</rdg>
@@ -1124,15 +1033,10 @@ Mattinao had
    <rdg wit="#K">could</rdg>
 </app> have made his reverence to a 
 <app>
-   <rdg wit="#MS">highborn</rdg>
+   <rdg wit="#MS #K">high born</rdg>
    <rdg wit="#B1">high-born</rdg>
    <rdg wit="#A1">high-born</rdg>
    <rdg wit="#F1">high-born</rdg>
-   <rdg wit="#K">high</rdg>
-</app> 
-<app>
-   <rdg wit="#MS #F1 #B1 #A1"></rdg>
-   <rdg wit="#K">born</rdg>
 </app> damsel of Spain; then, recovering himself, he fastened one long 
 <app>
    <rdg wit="#K #MS">,</rdg>
@@ -1165,28 +1069,22 @@ Mattinao had
    <rdg wit="#K">;</rdg>
 </app> while the trembling young thing 
 <app>
-   <rdg wit="#MS">wo</rdg>
-   <rdg wit="#B1">, who</rdg>
-   <rdg wit="#A1">, who</rdg>
-   <rdg wit="#F1">, who</rdg>
-   <rdg wit="#K">, who</rdg>
-</app> was the subject of all this wonder, 
+   <rdg wit="#MS"></rdg>
+   <rdg wit="#B1">,</rdg>
+   <rdg wit="#A1">,</rdg>
+   <rdg wit="#F1">,</rdg>
+   <rdg wit="#K">,</rdg>
+</app> who was the subject of all this wonder, 
 <app>
    <rdg wit="#K #MS #A1">shrunk</rdg>
    <rdg wit="#B1">shrank</rdg>
    <rdg wit="#F1">shrank</rdg>
 </app> back a step, blushed, laughed, and muttered in her soft low musical voice, &quot;Mercedes,&quot; as the innocent take up 
 <app>
-   <rdg wit="#K #MS">,</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#A1"></rdg>
-   <rdg wit="#F1"></rdg>
-</app> and renew 
-<app>
-   <rdg wit="#K #MS">,</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#A1"></rdg>
-   <rdg wit="#F1"></rdg>
+   <rdg wit="#K #MS">, and renew,</rdg>
+   <rdg wit="#B1"> and renew</rdg>
+   <rdg wit="#A1"> and renew</rdg>
+   <rdg wit="#F1"> and renew</rdg>
 </app> any source of their harmless pleasures.  She then stood, with her arms folded meekly on her bosom, resembling a statue of wonder.  But it may be necessary to explain 
 <app>
    <rdg wit="#K #MS">,</rdg>
@@ -1209,14 +1107,7 @@ All
    <rdg wit="#A1">the</rdg>
    <rdg wit="#F1">the</rdg>
    <rdg wit="#K">the</rdg>
-</app> accounts agree in 
-<app>
-   <rdg wit="#MS">ascribing</rdg>
-   <rdg wit="#B1">describing</rdg>
-   <rdg wit="#A1">describing</rdg>
-   <rdg wit="#F1">describing</rdg>
-   <rdg wit="#K">describing</rdg>
-</app> the 
+</app> accounts agree in describing the 
 <app>
    <rdg wit="#K #MS">Aborigines</rdg>
    <rdg wit="#B1">aborigines</rdg>
@@ -1248,14 +1139,7 @@ All
 <app>
    <rdg wit="#K #MS #F1 #B1">Cacique</rdg>
    <rdg wit="#A1">cacique</rdg>
-</app>, was his only sister
-<app>
-   <rdg wit="#MS"></rdg>
-   <rdg wit="#B1">.</rdg>
-   <rdg wit="#A1">.</rdg>
-   <rdg wit="#F1">.</rdg>
-   <rdg wit="#K">.</rdg>
-</app> According to the laws of Hayti
+</app>, was his only sister.  According to the laws of Hayti
 <app>
    <rdg wit="#MS"></rdg>
    <rdg wit="#B1">,</rdg>
@@ -1279,26 +1163,13 @@ All
    <rdg wit="#K #MS #A1">circumstances</rdg>
    <rdg wit="#B1">circumstance</rdg>
    <rdg wit="#F1">circumstance</rdg>
-</app> that the true royal line, if a term so dignified can be applied to  a state of society so simple, was reduced to these two individuals, Ozema had been more than usually fostered by the tribe, leaving her free from care, and as little 
+</app> that the true royal line, if a term so dignified can be applied to  a state of society so simple, was reduced to these two individuals, Ozema had been more than usually fostered by the tribe, leaving her free from care, and as little exposed to hardships, as at all comported with the condition of her people.  She had reached her eighteenth year, without having experienced any of those troubles and exposures which are 
 <app>
-   <rdg wit="#MS">explosed</rdg>
-   <rdg wit="#B1">exposed</rdg>
-   <rdg wit="#A1">exposed</rdg>
-   <rdg wit="#F1">exposed</rdg>
-   <rdg wit="#K">exposed</rdg>
-</app> to hardships, as at all comported with the condition of her people.  She had reached her eighteenth year, without having experienced any of those troubles and exposures which are 
-<app>
-   <rdg wit="#K #MS">,</rdg>
+   <rdg wit="#K #MS">, more or less,</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#A1"></rdg>
    <rdg wit="#F1"></rdg>
-</app> more or less 
-<app>
-   <rdg wit="#K #MS">,</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#A1"></rdg>
-   <rdg wit="#F1"></rdg>
-</app> the inevitable companions of savage life; though it was remarked  by the Spaniards, that all  the Indians they had  yet seen 
+</app> the inevitable companions of savage life; though it was remarked  by the Spaniards, that all the Indians they had yet seen 
 <app>
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1"></rdg>
@@ -1317,14 +1188,7 @@ All
    <rdg wit="#B1">,</rdg>
    <rdg wit="#A1">,</rdg>
    <rdg wit="#F1">,</rdg>
-</app> might be supposed to lend the female form, under the advantages of a mild climate, a 
-<app>
-   <rdg wit="#MS">healfthful</rdg>
-   <rdg wit="#B1">healthful</rdg>
-   <rdg wit="#A1">healthful</rdg>
-   <rdg wit="#F1">healthful</rdg>
-   <rdg wit="#K">healthful</rdg>
-</app> and simple diet, and 
+</app> might be supposed to lend the female form, under the advantages of a mild climate, a healthful and simple diet, and 
 <app>
    <rdg wit="#MS"> </rdg>
    <rdg wit="#B1">perfect</rdg>
@@ -1343,7 +1207,7 @@ All
    <rdg wit="#K #MS #A1">divine creator</rdg>
    <rdg wit="#B1">Divine Creator</rdg>
    <rdg wit="#F1">Divine Creator</rdg>
-</app> , modest, artless, timid 
+</app>, modest, artless, timid 
 <app>
    <rdg wit="#K #MS"> </rdg>
    <rdg wit="#B1">,</rdg>
@@ -1376,21 +1240,7 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
 <app>
    <rdg wit="#K #MS #F1 #B1">,</rdg>
    <rdg wit="#A1"></rdg>
-</app> herself, formed no exception to the general rule.  A cincture of Indian cloth, woven in gay colours, circled her slender waist, and fell nearly as low as her knees; a robe of spotless cotton, inartificially made, but white as the driven snow, and of a texture so fine that it might have shamed many of the 
-<app>
-   <rdg wit="#MS">manufacturers</rdg>
-   <rdg wit="#B1">manufactures</rdg>
-   <rdg wit="#A1">manufactures</rdg>
-   <rdg wit="#F1">manufactures</rdg>
-   <rdg wit="#K">manufactures</rdg>
-</app> of our own 
-<app>
-   <rdg wit="#MS">day</rdg>
-   <rdg wit="#B1">days</rdg>
-   <rdg wit="#A1">days</rdg>
-   <rdg wit="#F1">days</rdg>
-   <rdg wit="#K">days</rdg>
-</app> , fell like a scarf across a shoulder, and was loosely united at the opposite side, dropping in folds nearly to the ground.  Sandals 
+</app> herself, formed no exception to the general rule.  A cincture of Indian cloth, woven in gay colours, circled her slender waist, and fell nearly as low as her knees; a robe of spotless cotton, inartificially made, but white as the driven snow, and of a texture so fine that it might have shamed many of the manufactures of our own days, fell like a scarf across a shoulder, and was loosely united at the opposite side, dropping in folds nearly to the ground.  Sandals 
 <app>
    <rdg wit="#K #MS"> </rdg>
    <rdg wit="#B1">,</rdg>
@@ -1414,14 +1264,7 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#B1">ankles</rdg>
    <rdg wit="#A1">ankles</rdg>
    <rdg wit="#F1">ankles</rdg>
-</app> that were as faultless as those of the Venus of Naples.  In that region, the fineness of the 
-<app>
-   <rdg wit="#MS">the</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#A1"></rdg>
-   <rdg wit="#F1"></rdg>
-   <rdg wit="#K"></rdg>
-</app> hair was thought the test of birth, with better reason than 
+</app> that were as faultless as those of the Venus of Naples.  In that region, the fineness of the hair was thought the test of birth, with better reason than 
 <app>
    <rdg wit="#MS"> </rdg>
    <rdg wit="#B1">many imagine</rdg>
@@ -1550,14 +1393,7 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#K #MS #A1">finesse</rdg>
    <rdg wit="#B1">fineness</rdg>
    <rdg wit="#F1">fineness</rdg>
-</app> and delicacy; that her features and 
-<app>
-   <rdg wit="#MS">bfow</rdg>
-   <rdg wit="#B1">brow</rdg>
-   <rdg wit="#A1">brow</rdg>
-   <rdg wit="#F1">brow</rdg>
-   <rdg wit="#K">brow</rdg>
-</app> were nobler; her eye more illuminated by the intelligence within; her smile more radiant with thought and the feelings of 
+</app> and delicacy; that her features and brow were nobler; her eye more illuminated by the intelligence within; her smile more radiant with thought and the feelings of 
 <app>
    <rdg wit="#K #MS #B1 #A1">a</rdg>
    <rdg wit="#F1"></rdg>
@@ -1586,14 +1422,7 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#B1">Nevertheless</rdg>
    <rdg wit="#A1">Nevertheless</rdg>
    <rdg wit="#F1">Nevertheless</rdg>
-</app> , in mere beauty, 
-<app>
-   <rdg wit="#MS">of</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#A1"></rdg>
-   <rdg wit="#F1"></rdg>
-   <rdg wit="#K"></rdg>
-</app> in youth, and tint, and outline, the disparity was scarcely perceptible, while the 
+</app>, in mere beauty, in youth, and tint, and outline, the disparity was scarcely perceptible, while the 
 <app>
    <rdg wit="#MS">resemblence</rdg>
    <rdg wit="#B1">resemblance</rdg>
@@ -1602,24 +1431,13 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#K">resemblance</rdg>
 </app> was striking 
 <app>
-   <rdg wit="#K #MS #B1">,</rdg>
-   <rdg wit="#A1">; and</rdg>
-   <rdg wit="#F1">; and</rdg>
+   <rdg wit="#K">; and</rdg>
+   <rdg wit="#MS">, and</rdg>
+   <rdg wit="#B1">; and,</rdg>
+   <rdg wit="#A1">; and,</rdg>
+   <rdg wit="#F1">; and,</rdg>
 </app> 
-<app>
-   <rdg wit="#MS #F1 #A1"></rdg>
-   <rdg wit="#B1">;</rdg>
-   <rdg wit="#K">;</rdg>
-</app>  
-<app>
-   <rdg wit="#K #MS #B1">and</rdg>
-   <rdg wit="#A1"></rdg>
-   <rdg wit="#F1"></rdg>
-</app> 
-<app>
-   <rdg wit="#K #MS #F1 #A1"></rdg>
-   <rdg wit="#B1">,</rdg>
-</app> on the score of animation, native frankness, ingenuousness, and all that witchery which ardent and undisguised feeling lends to woman, many might have preferred the confiding abandon of  the beautiful young Indian 
+on the score of animation, native frankness, ingenuousness, and all that witchery which ardent and undisguised feeling lends to woman, many might have preferred the confiding abandon of  the beautiful young Indian 
 <app>
    <rdg wit="#K #MS"> </rdg>
    <rdg wit="#B1">,</rdg>
@@ -1635,16 +1453,12 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
 <app>
    <rdg wit="#K #MS #B1 #A1">enthusiasm</rdg>
    <rdg wit="#F1">euthusiasm</rdg>
-</app> , in the other was merely the 
+</app>, in the other was merely the 
 <app>
    <rdg wit="#K #MS">out-pourings</rdg>
-   <rdg wit="#B1">out</rdg>
+   <rdg wit="#B1">out?pourings</rdg>
    <rdg wit="#A1">outpourings</rdg>
    <rdg wit="#F1">outpourings</rdg>
-</app> 
-<app>
-   <rdg wit="#K #MS #F1 #A1"></rdg>
-   <rdg wit="#B1">?pourings</rdg>
 </app> of unguided impulses, which, however feminine in their origin, were but little regulated in their indulgence.</p>
 <p>&quot;Mercedes!&quot; exclaimed our hero, when this vision of Indian loveliness unexpectedly broke on his sight.
  <app>
@@ -1671,20 +1485,13 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#F1">also</rdg>
    <rdg wit="#K">also</rdg>
 </app> mistook for an expression of admiration, in her own low, melodious voice.</p>
-<p>Conversation being out of the question, there remained  nothing 
+<p>Conversation being out of the question, there remained nothing 
 <app>
-   <rdg wit="#MS">but</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#A1"></rdg>
-   <rdg wit="#F1"></rdg>
-   <rdg wit="#K"></rdg>
-</app> for the parties 
-<app>
-   <rdg wit="#MS"> </rdg>
-   <rdg wit="#B1">but</rdg>
-   <rdg wit="#A1">but</rdg>
-   <rdg wit="#F1">but</rdg>
-   <rdg wit="#K">but</rdg>
+   <rdg wit="#MS">but for the parties</rdg>
+   <rdg wit="#B1">for the parties but</rdg>
+   <rdg wit="#A1">for the parties but</rdg>
+   <rdg wit="#F1">for the parties but</rdg>
+   <rdg wit="#K">but for the parties</rdg>
 </app> to express 
 <app>
    <rdg wit="#MS">thier</rdg>
@@ -1694,24 +1501,17 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#K">their</rdg>
 </app> feelings by signs and acts of amity.  Luis had not come 
 <app>
-   <rdg wit="#MS">unprovided with presents,</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#A1"></rdg>
-   <rdg wit="#F1"></rdg>
-   <rdg wit="#K"></rdg>
-</app> on his little expedition 
-<app>
-   <rdg wit="#MS">.</rdg>
-   <rdg wit="#B1">unprovided with presents</rdg>
-   <rdg wit="#A1">unprovided with presents</rdg>
-   <rdg wit="#F1">unprovided with presents</rdg>
-   <rdg wit="#K">unprovided with presents</rdg>
+   <rdg wit="#MS">unprovided with presents, on his little expedition.</rdg>
+   <rdg wit="#B1">on his little expedition unprovided with presents.</rdg>
+   <rdg wit="#A1">on his little expedition unprovided with presents.</rdg>
+   <rdg wit="#F1">on his little expedition unprovided with presents.</rdg>
+   <rdg wit="#K">on his little expedition unprovided with presents.</rdg>
 </app>  Anticipating an interview with the wife of the 
 <app>
    <rdg wit="#K #MS #A1">cacique</rdg>
    <rdg wit="#B1">Cacique</rdg>
    <rdg wit="#F1">Cacique</rdg>
-</app> , he had brought up  from the village below 
+</app>, he had brought up  from the village below 
 <app>
    <rdg wit="#K #MS #A1">,</rdg>
    <rdg wit="#B1"></rdg>
@@ -1723,14 +1523,9 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#F1">; but</rdg>
 </app> the moment he beheld the vision that actually stood before him, they all seemed unworthy of such a being.  In one of his onsets against the Moors, he had brought off a turban of rich but light cloth, and he had kept it as a trophy, occasionally wearing it 
 <app>
-   <rdg wit="#K #MS #A1">,</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#F1"></rdg>
-</app> in his visits to the shore 
-<app>
-   <rdg wit="#K #MS #A1">,</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#F1"></rdg>
+   <rdg wit="#K #MS #A1">, in his visits to the shore,</rdg>
+   <rdg wit="#B1"> in his visits to the shore</rdg>
+   <rdg wit="#F1"> in his visits to the shore</rdg>
 </app> out of pure caprice, and as a sort of ornament that might well impose on the 
 <app>
    <rdg wit="#K #MS">simple minded</rdg>
@@ -1746,22 +1541,17 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#K">their</rdg>
 </app> whims 
 <app>
-   <rdg wit="#K #MS">,</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#A1"></rdg>
-   <rdg wit="#F1"></rdg>
-</app> in this manner 
-<app>
-   <rdg wit="#K #MS #A1">,</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#F1"></rdg>
+   <rdg wit="#K #MS">, in this manner,</rdg>
+   <rdg wit="#B1">in this manner</rdg>
+   <rdg wit="#A1"> in this manner,</rdg>
+   <rdg wit="#F1">in this manner</rdg>
 </app> when far from the observations of those to whom they habitually defer.  This turban was on his head 
 <app>
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#A1"></rdg>
    <rdg wit="#F1"></rdg>
-</app>  at the moment he entered the apartment of Ozema, and 
+</app> at the moment he entered the apartment of Ozema, and 
 <app>
    <rdg wit="#K #MS"> </rdg>
    <rdg wit="#B1">,</rdg>
@@ -1769,14 +1559,9 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#F1">,</rdg>
 </app> overcome with the delight of finding so unexpected a resemblance, and 
 <app>
-   <rdg wit="#K #MS #A1">,</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#F1"></rdg>
-</app> possibly 
-<app>
-   <rdg wit="#K #MS #A1">,</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#F1"></rdg>
+   <rdg wit="#K #MS #A1">, possibly,</rdg>
+   <rdg wit="#B1">possibly</rdg>
+   <rdg wit="#F1">possibly</rdg>
 </app> excited by so 
 <app>
    <rdg wit="#MS">unlooked for</rdg>
@@ -1812,22 +1597,18 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#K #MS #A1">,&quot;</rdg>
    <rdg wit="#B1">&quot;</rdg>
    <rdg wit="#F1">&quot;</rdg>
-</app> again and again, and manifested her pleasure with all the warmth of a generous and ingenuous nature.  If we were to say that this display of Ozema was altogether free from the 
+</app> again and again, and manifested her pleasure with all the warmth of a generous and ingenuous nature.  If we were to say that this display of Ozema was altogether free from the child-like rapture that was 
 <app>
-   <rdg wit="#K #MS #F1 #B1">child-like</rdg>
-   <rdg wit="#A1">child?like</rdg>
-</app> rapture that was 
-<app>
-   <rdg wit="#K #MS"> </rdg>
-   <rdg wit="#B1">,</rdg>
-   <rdg wit="#A1">,</rdg>
-   <rdg wit="#F1">,</rdg>
-</app> perhaps 
+   <rdg wit="#K #MS"> perhaps</rdg>
+   <rdg wit="#B1">, perhaps,</rdg>
+   <rdg wit="#A1">, perhaps,</rdg>
+   <rdg wit="#F1">, perhaps,</rdg>
+</app> 
 <app>
    <rdg wit="#K #MS">unseparable</rdg>
-   <rdg wit="#B1">, inseparable</rdg>
-   <rdg wit="#A1">, inseparable</rdg>
-   <rdg wit="#F1">, inseparable</rdg>
+   <rdg wit="#B1">inseparable</rdg>
+   <rdg wit="#A1">inseparable</rdg>
+   <rdg wit="#F1">inseparable</rdg>
 </app> from her ignorance, it would be attributing to her benighted condition the experience and regulated feelings of 
 <app>
    <rdg wit="#MS">an</rdg>
@@ -1835,14 +1616,7 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#A1"></rdg>
    <rdg wit="#F1"></rdg>
    <rdg wit="#K"></rdg>
-</app> advanced civilization; but, notwithstanding the guileless simplicity with which she betrayed her emotions, her delight was not without much of the dignity and tone that usually 
-<app>
-   <rdg wit="#MS">mask</rdg>
-   <rdg wit="#B1">mark</rdg>
-   <rdg wit="#A1">mark</rdg>
-   <rdg wit="#F1">mark</rdg>
-   <rdg wit="#K">mark</rdg>
-</app> the conduct of the superior classes all over the world.  Luis fancied it as graceful as it was naive and charming.  He 
+</app> advanced civilization; but, notwithstanding the guileless simplicity with which she betrayed her emotions, her delight was not without much of the dignity and tone that usually mark the conduct of the superior classes all over the world.  Luis fancied it as graceful as it was naive and charming.  He 
 <app>
    <rdg wit="#K #MS">endeavored</rdg>
    <rdg wit="#B1">endeavoured</rdg>
@@ -1861,7 +1635,7 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#A1">grateful pleasure</rdg>
    <rdg wit="#F1">grateful pleasure</rdg>
    <rdg wit="#K">grateful pleasure</rdg>
-</app> , that Mercedes could not fail to exhibit.  While thoughts  like these were passing through his mind, the Indian girl laid aside her own less enticing robe, without a thought of shame, and then she folded her faultless form in the cloth of the turban.  This 
+</app>, that Mercedes could not fail to exhibit.  While thoughts  like these were passing through his mind, the Indian girl laid aside her own less enticing robe, without a thought of shame, and then she folded her faultless form in the cloth of the turban.  This 
 <app>
    <rdg wit="#K #MS">act</rdg>
    <rdg wit="#B1"></rdg>
@@ -1909,23 +1683,23 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#F1"></rdg>
 </app> with suitable eagerness, nor did he 
 <app>
-   <rdg wit="#MS">refraining</rdg>
+   <rdg wit="#MS">refrain</rdg>
    <rdg wit="#B1">refrain</rdg>
    <rdg wit="#A1">refrain</rdg>
    <rdg wit="#F1">refrain</rdg>
    <rdg wit="#K">refrain</rdg>
-</app> from  using the Castilian gallantry of kissing the pretty hand  from which he took the 
+</app> from using the Castilian gallantry of kissing the pretty hand  from which he took the 
 <app>
    <rdg wit="#K #MS">bawbles</rdg>
    <rdg wit="#B1">bauble</rdg>
    <rdg wit="#A1">bauble</rdg>
    <rdg wit="#F1">bauble</rdg>
-</app> .</p>
+</app>.</p>
 <p>The 
 <app>
    <rdg wit="#K #MS #F1 #B1">Cacique</rdg>
    <rdg wit="#A1">cacique</rdg>
-</app> , who had been a pleased spectator of all that passed, now signed for the 
+</app>, who had been a pleased spectator of all that passed, now signed for the 
 <app>
    <rdg wit="#K #MS #F1 #B1">Count</rdg>
    <rdg wit="#A1">count</rdg>
@@ -1938,14 +1712,9 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#K">Don Luis</rdg>
 </app>  was introduced to other young females, and to two or three children, the former of whom 
 <app>
-   <rdg wit="#K #MS #A1">,</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#F1"></rdg>
-</app> he soon discovered 
-<app>
-   <rdg wit="#K #MS #A1">,</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#F1"></rdg>
+   <rdg wit="#K #MS #A1">, he soon discovered,</rdg>
+   <rdg wit="#B1">he soon discovered</rdg>
+   <rdg wit="#F1">he soon discovered</rdg>
 </app> were the wives of Mattinao, and the latter his offspring.  By dint of gestures, a few words, and such other means of explanation as were resorted to between the Spaniards and the natives, he now succeeded in ascertaining the real affinity which existed  between the 
 <app>
    <rdg wit="#K #MS #A1">cacique</rdg>
@@ -1964,20 +1733,13 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#B1">;</rdg>
    <rdg wit="#A1">;</rdg>
    <rdg wit="#F1">;</rdg>
-</app> and he was fain to refer the 
+</app> and he was fain to refer the feeling
 <app>
-   <rdg wit="#K #MS #A1">feeling--perhaps justly--to</rdg>
-   <rdg wit="#B1">feeling, perhaps justly, to</rdg>
-   <rdg wit="#F1">feeling, perhaps justly, to</rdg>
-</app> a sort of jealous sensitiveness that grew out of her resemblance to Mercedes.</p>
-<p>The remainder of that, and the whole of the 
-<app>
-   <rdg wit="#MS">those</rdg>
-   <rdg wit="#B1">three</rdg>
-   <rdg wit="#A1">three</rdg>
-   <rdg wit="#F1">three</rdg>
-   <rdg wit="#K">three</rdg>
-</app> following days, were passed by Luis 
+   <rdg wit="#K #MS #A1">--perhaps justly--</rdg>
+   <rdg wit="#B1">, perhaps justly, </rdg>
+   <rdg wit="#F1">, perhaps justly, </rdg>
+</app> to a sort of jealous sensitiveness that grew out of her resemblance to Mercedes.</p>
+<p>The remainder of that, and the whole of the three following days, were passed by Luis 
 <app>
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1"></rdg>
@@ -1994,7 +1756,7 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#K #MS #A1">cacique</rdg>
    <rdg wit="#B1">Cacique</rdg>
    <rdg wit="#F1">Cacique</rdg>
-</app> , in this, the 
+</app>, in this, the 
 <app>
    <rdg wit="#K #MS">favorite</rdg>
    <rdg wit="#B1">favourite</rdg>
@@ -2006,7 +1768,7 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#B1">anything</rdg>
    <rdg wit="#A1">anything</rdg>
    <rdg wit="#F1">anything</rdg>
-</app> , a subject of greater interest to all his hosts 
+</app>, a subject of greater interest to all his hosts 
 <app>
    <rdg wit="#K #MS #A1">,</rdg>
    <rdg wit="#B1"></rdg>
@@ -2035,14 +1797,7 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#K #MS #A1">,</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#F1"></rdg>
-</app> did Luis lie stretched on fragrant mats near this artless and lovely creature, studying the wayward 
-<app>
-   <rdg wit="#MS">expressions</rdg>
-   <rdg wit="#B1">expression</rdg>
-   <rdg wit="#A1">expression</rdg>
-   <rdg wit="#F1">expression</rdg>
-   <rdg wit="#K">expression</rdg>
-</app> of her features, in the fond hope of seeing stronger and stronger resemblances to Mercedes, and sometimes losing himself in that which was peculiarly her own.  In the course of the time passed 
+</app> did Luis lie stretched on fragrant mats near this artless and lovely creature, studying the wayward expression of her features, in the fond hope of seeing stronger and stronger resemblances to Mercedes, and sometimes losing himself in that which was peculiarly her own.  In the course of the time passed 
 <app>
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1"></rdg>
@@ -2075,7 +1830,7 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#A1">beautiful</rdg>
    <rdg wit="#F1">beautiful</rdg>
    <rdg wit="#K">beautiful</rdg>
-</app> sister  succeeded better in making him 
+</app> sister succeeded better in making him 
 <app>
    <rdg wit="#MS">comprehend</rdg>
    <rdg wit="#B1">understand</rdg>
@@ -2091,14 +1846,7 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
 <app>
    <rdg wit="#K #MS #F1 #B1">Cacique</rdg>
    <rdg wit="#A1">cacique</rdg>
-</app> himself.  To Ozema, 
-<app>
-   <rdg wit="#MS">the</rdg>
-   <rdg wit="#B1">then</rdg>
-   <rdg wit="#A1">then</rdg>
-   <rdg wit="#F1">then</rdg>
-   <rdg wit="#K">then</rdg>
-</app> , Luis put most of his questions 
+</app> himself.  To Ozema, then, Luis put most of his questions 
 <app>
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1">;</rdg>
@@ -2122,7 +1870,7 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#B1">countrymen</rdg>
    <rdg wit="#A1">countrymen</rdg>
    <rdg wit="#F1">countrymen</rdg>
-</app> , than had been accomplished by the communications of the two previous months.  She caught the Spanish words  with a readiness that seemed instinctive, pronouncing them with an accent that only rendered 
+</app>, than had been accomplished by the communications of the two previous months.  She caught the Spanish words  with a readiness that seemed instinctive, pronouncing them with an accent that only rendered 
 <app>
    <rdg wit="#MS">the</rdg>
    <rdg wit="#B1">them</rdg>
@@ -2154,14 +1902,7 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#B1"></rdg>
    <rdg wit="#A1"></rdg>
    <rdg wit="#F1"></rdg>
-</app> in which most laymen had a deep reverence for religion, whether they  actually submitted to its purifying 
-<app>
-   <rdg wit="#MS">influencec</rdg>
-   <rdg wit="#B1">influence</rdg>
-   <rdg wit="#A1">influence</rdg>
-   <rdg wit="#F1">influence</rdg>
-   <rdg wit="#K">influence</rdg>
-</app> 
+</app> in which most laymen had a deep reverence for religion, whether they  actually submitted to its purifying influence
 <app>
    <rdg wit="#K #MS #A1">,</rdg>
    <rdg wit="#B1"></rdg>
@@ -2170,12 +1911,8 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
 <app>
    <rdg wit="#K #MS">free-thinkers</rdg>
    <rdg wit="#B1">Freethinkers</rdg>
-   <rdg wit="#A1">free</rdg>
+   <rdg wit="#A1">free?thinkers</rdg>
    <rdg wit="#F1">Freethinkers</rdg>
-</app> 
-<app>
-   <rdg wit="#K #MS #F1 #B1"></rdg>
-   <rdg wit="#A1">?thinkers</rdg>
 </app> 
 <app>
    <rdg wit="#K #MS #A1">,</rdg>
@@ -2200,16 +1937,9 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#K #MS #A1">churchmen,</rdg>
    <rdg wit="#B1">Churchmen</rdg>
    <rdg wit="#F1">Churchmen</rdg>
-</app> themselves; who often used the 
+</app> themselves; who often used the cowl as a hood to conceal 
 <app>
-   <rdg wit="#MS">corss</rdg>
-   <rdg wit="#B1">cowl</rdg>
-   <rdg wit="#A1">cowl</rdg>
-   <rdg wit="#F1">cowl</rdg>
-   <rdg wit="#K">cowl</rdg>
-</app> as a hood to conceal 
-<app>
-   <rdg wit="#MS">thire</rdg>
+   <rdg wit="#MS">thier</rdg>
    <rdg wit="#B1">their</rdg>
    <rdg wit="#A1">their</rdg>
    <rdg wit="#F1">their</rdg>
@@ -2240,7 +1970,7 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#MS #F1 #B1"> </rdg>
    <rdg wit="#A1">,</rdg>
    <rdg wit="#K">,</rdg>
-</app> eyes of the girl, listening to her earnest efforts  to make him comprehend her meaning, 
+</app> eyes of the girl, listening to her earnest efforts to make him comprehend her meaning, 
 <app>
    <rdg wit="#MS"> </rdg>
    <rdg wit="#B1">that</rdg>
@@ -2262,14 +1992,7 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#B1"></rdg>
    <rdg wit="#A1"></rdg>
    <rdg wit="#F1"></rdg>
-</app> the importance of ascertaining, if possible, the position of 
-<app>
-   <rdg wit="#MS"> </rdg>
-   <rdg wit="#B1">the</rdg>
-   <rdg wit="#A1">the</rdg>
-   <rdg wit="#F1">the</rdg>
-   <rdg wit="#K">the</rdg>
-</app> mines 
+</app> the importance of ascertaining, if possible, the position of the mines 
 <app>
    <rdg wit="#K #MS #A1">,</rdg>
    <rdg wit="#B1">;</rdg>
@@ -2307,30 +2030,17 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#K #MS #A1">,</rdg>
    <rdg wit="#B1">;</rdg>
    <rdg wit="#F1">;</rdg>
-</app> and being exceedingly athletic and active, he 
-<app>
-   <rdg wit="#MS">calmly</rdg>
-   <rdg wit="#B1">easily</rdg>
-   <rdg wit="#A1">easily</rdg>
-   <rdg wit="#F1">easily</rdg>
-   <rdg wit="#K">easily</rdg>
-</app> bore away the palm from his friend Mattinao.  The young 
+</app> and being exceedingly athletic and active, he easily bore away the palm from his friend Mattinao.  The young 
 <app>
    <rdg wit="#K #MS #A1">cacique</rdg>
    <rdg wit="#B1">Cacique</rdg>
    <rdg wit="#F1">Cacique</rdg>
 </app> manifested neither jealousy 
 <app>
-   <rdg wit="#K #MS">,</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#A1"></rdg>
-   <rdg wit="#F1"></rdg>
-</app> nor disappointment 
-<app>
-   <rdg wit="#K #MS">,</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#A1"></rdg>
-   <rdg wit="#F1"></rdg>
+   <rdg wit="#K #MS">, nor disappointment,</rdg>
+   <rdg wit="#B1">nor disappointment</rdg>
+   <rdg wit="#A1">nor disappointment</rdg>
+   <rdg wit="#F1">nor disappointment</rdg>
 </app> at this result, while his sister laughed and clapped her hands with delight, when he was outdone, even at his own sports, by the greater strength 
 <app>
    <rdg wit="#K #MS">,</rdg>
@@ -2351,12 +2061,12 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#K #MS #A1">,</rdg>
    <rdg wit="#B1">;</rdg>
    <rdg wit="#F1">;</rdg>
-</app> but Ozema answered with smiling taunts, and Luis thought her, at such moments, more beautiful than even imagination could 
+</app> but Ozema answered with smiling taunts, and Luis thought her, at such moments, more beautiful than even imagination could draw
 <app>
-   <rdg wit="#K #MS #A1">draw, and</rdg>
-   <rdg wit="#B1">draw--and</rdg>
-   <rdg wit="#F1">draw--and</rdg>
-</app> perhaps with justice; for her cheeks were flushed, her eyes became as brilliant as ornaments of jet, and the teeth that were visible between lips like cherries, resembled rows of ivory.  We have said that the eyes of Ozema were black, differing in this particular, from the deep-blue melancholy orbs of the enthusiastic Mercedes 
+   <rdg wit="#K #MS #A1">, </rdg>
+   <rdg wit="#B1">--</rdg>
+   <rdg wit="#F1">--</rdg>
+</app>and perhaps with justice; for her cheeks were flushed, her eyes became as brilliant as ornaments of jet, and the teeth that were visible between lips like cherries, resembled rows of ivory.  We have said that the eyes of Ozema were black, differing in this particular, from the deep-blue melancholy orbs of the enthusiastic Mercedes 
 <app>
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1">;</rdg>
@@ -2364,23 +2074,13 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#F1">;</rdg>
 </app> but still they were alike, so often uttering the same feelings, more especially touching matters in which Luis was concerned.  More than once 
 <app>
-   <rdg wit="#K #MS #A1">,</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#F1"></rdg>
-</app> during the trial of strength 
-<app>
-   <rdg wit="#K #MS #A1">,</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#F1"></rdg>
+   <rdg wit="#K #MS #A1">, during the trial of strength,</rdg>
+   <rdg wit="#B1">during the trial of strength</rdg>
+   <rdg wit="#F1">during the trial of strength</rdg>
 </app> did the young man fancy that the expression of the rapture which fairly danced in the eyes of Ozema, was the very counterpart of 
 <app>
-   <rdg wit="#K #MS #B1 #A1">that of</rdg>
+   <rdg wit="#K #MS #B1 #A1">that of the</rdg>
    <rdg wit="#F1">the</rdg>
-</app> 
-<app>
-   <rdg wit="#K #MS #F1"></rdg>
-   <rdg wit="#B1">the</rdg>
-   <rdg wit="#A1">the</rdg>
 </app> deep-seated delight which had so often beamed on him, from the glances of Mercedes in the tourney; and, at such times 
 <app>
    <rdg wit="#K #MS #A1">,</rdg>
@@ -2393,65 +2093,18 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#A1">the</rdg>
    <rdg wit="#F1">the</rdg>
    <rdg wit="#K">the</rdg>
-</app> two  was so strong 
+</app> two was so
+   <app>
+      <rdg wit="#K">strong, as—after some allowances had been made for dress and other sufficiently striking circumstances—almost to render them identical.</rdg>
+      <rdg wit="#MS">strong as, after some allowances had been made for dress and other sufficiently striking circumstances almost to render them identical.</rdg>
+      <rdg wit="#A1 #B1 #F1">strong as, after some allowance had been made for dress and other sufficiently striking circumstances, to render them almost identical.</rdg>
+   </app></p>
+<p>The reader is not to suppose from this, that our hero was actually inconstant to his ancient love.  Far from it.  Mercedes was too deeply enshrined in his heart
 <app>
-   <rdg wit="#K #MS #B1">,</rdg>
-   <rdg wit="#A1">as</rdg>
-   <rdg wit="#F1">as</rdg>
-</app> 
-<app>
-   <rdg wit="#K #MS #F1 #A1"></rdg>
-   <rdg wit="#B1"></rdg>
-</app>  
-<app>
-   <rdg wit="#MS #B1">as</rdg>
-   <rdg wit="#A1"></rdg>
-   <rdg wit="#F1"></rdg>
-   <rdg wit="#K">as--after</rdg>
-</app> 
-<app>
-   <rdg wit="#K #MS #F1 #A1"></rdg>
+   <rdg wit="#K #MS #A1">--</rdg>
    <rdg wit="#B1">,</rdg>
-</app>  
-<app>
-   <rdg wit="#MS #F1 #B1 #A1">after</rdg>
-   <rdg wit="#K"></rdg>
-</app> some 
-<app>
-   <rdg wit="#MS">allowances</rdg>
-   <rdg wit="#B1">allowance</rdg>
-   <rdg wit="#A1">allowance</rdg>
-   <rdg wit="#F1">allowance</rdg>
-   <rdg wit="#K">allowance</rdg>
-</app> had been made for dress and other sufficiently striking 
-<app>
-   <rdg wit="#MS #F1 #B1 #A1">circumstances</rdg>
-   <rdg wit="#K">circumstances--to</rdg>
-</app> 
-<app>
-   <rdg wit="#MS">almost</rdg>
-   <rdg wit="#B1">,</rdg>
-   <rdg wit="#A1">,</rdg>
    <rdg wit="#F1">,</rdg>
-   <rdg wit="#K"></rdg>
-</app> 
-<app>
-   <rdg wit="#MS #F1 #B1 #A1">to</rdg>
-   <rdg wit="#K"></rdg>
-</app> render them 
-<app>
-   <rdg wit="#MS"> </rdg>
-   <rdg wit="#B1">almost</rdg>
-   <rdg wit="#A1">almost</rdg>
-   <rdg wit="#F1">almost</rdg>
-   <rdg wit="#K">almost</rdg>
-</app> identical.</p>
-<p>The reader is not to suppose from this, that our hero was actually inconstant to his ancient love.  Far from it.  Mercedes was too deeply enshrined  in his 
-<app>
-   <rdg wit="#K #MS #A1">heart--and</rdg>
-   <rdg wit="#B1">heart, and</rdg>
-   <rdg wit="#F1">heart, and</rdg>
-</app> Luis, with all his faults, was as warm-hearted 
+</app>and Luis, with all his faults, was as warm-hearted 
 <app>
    <rdg wit="#K #MS #B1 #A1">and</rdg>
    <rdg wit="#F1">aud</rdg>
@@ -2462,29 +2115,18 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#A1">cavalier</rdg>
    <rdg wit="#F1">cavalier</rdg>
    <rdg wit="#K">cavalier</rdg>
-</app> as 
+</app> as breathed
 <app>
-   <rdg wit="#K #MS #A1">breathed--to</rdg>
-   <rdg wit="#B1">breathed, to</rdg>
-   <rdg wit="#F1">breathed, to</rdg>
-</app> be so easily dispossessed.  But he was young, distant from her he had so long adored, and was 
-<app>
-   <rdg wit="#MS #F1 #B1 #A1"> </rdg>
-   <rdg wit="#K">,</rdg>
-</app> 
+   <rdg wit="#K #MS #A1">--</rdg>
+   <rdg wit="#B1">breathed, </rdg>
+   <rdg wit="#F1">breathed, </rdg>
+</app>to be so easily dispossessed.  But he was young, distant from her he had so long adored, and was,
 <app>
    <rdg wit="#K #MS">withall</rdg>
-   <rdg wit="#B1">,</rdg>
-   <rdg wit="#A1">,</rdg>
-   <rdg wit="#F1">,</rdg>
-</app> 
-<app>
-   <rdg wit="#MS"></rdg>
-   <rdg wit="#B1">withal,</rdg>
-   <rdg wit="#A1">withal,</rdg>
-   <rdg wit="#F1">withal,</rdg>
-   <rdg wit="#K">,</rdg>
-</app> not altogether insensible to admiration 
+   <rdg wit="#B1">withal</rdg>
+   <rdg wit="#A1">withal</rdg>
+   <rdg wit="#F1">withal</rdg>
+</app>, not altogether insensible to admiration 
 <app>
    <rdg wit="#K #MS #A1"> </rdg>
    <rdg wit="#B1">,</rdg>
@@ -2495,31 +2137,12 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#B1">Indian girl</rdg>
    <rdg wit="#A1">Indian girl</rdg>
    <rdg wit="#F1">Indian girl</rdg>
-</app> .  Had there been the least immodest glance, 
+</app>.  Had there been the least immodest glance, any proof that art or design lay at the bottom of Ozema&apos;s conduct, he would 
 <app>
-   <rdg wit="#MS">a</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#A1"></rdg>
-   <rdg wit="#F1"></rdg>
-   <rdg wit="#K"></rdg>
-</app> any proof that art or design lay at the bottom of Ozema&apos;s conduct, he would 
-<app>
-   <rdg wit="#K #MS #A1"> </rdg>
-   <rdg wit="#B1">,</rdg>
-   <rdg wit="#F1">,</rdg>
-</app> at once 
-<app>
-   <rdg wit="#K #MS #A1"> </rdg>
-   <rdg wit="#B1">,</rdg>
-   <rdg wit="#F1">,</rdg>
-</app> have taken the alarm, and been completely disenthralled from his temporary delusion; but, on the 
-<app>
-   <rdg wit="#MS">contray</rdg>
-   <rdg wit="#B1">contrary</rdg>
-   <rdg wit="#A1">contrary</rdg>
-   <rdg wit="#F1">contrary</rdg>
-   <rdg wit="#K">contrary</rdg>
-</app> , all was so frank and natural with this artless girl; when she most betrayed the hold he had taken of her imagination, it was done with a simplicity so obvious, a naivete so irrepressible, and an ingenuousness so clearly the 
+   <rdg wit="#K #MS #A1">at once</rdg>
+   <rdg wit="#B1">, at once,</rdg>
+   <rdg wit="#F1">, at once,</rdg>
+</app> have taken the alarm, and been completely disenthralled from his temporary delusion; but, on the contrary, all was so frank and natural with this artless girl; when she most betrayed the hold he had taken of her imagination, it was done with a simplicity so obvious, a naivete so irrepressible, and an ingenuousness so clearly the 
 <app>
    <rdg wit="#K #MS">fruits</rdg>
    <rdg wit="#B1">fruit</rdg>
@@ -2527,22 +2150,17 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#F1">fruit</rdg>
 </app> of innocence, that it was impossible to suspect artifice.  In a word, our hero merely showed that he was human, by yielding 
 <app>
-   <rdg wit="#MS">to</rdg>
+   <rdg wit="#K #MS #A1"></rdg>
    <rdg wit="#B1">,</rdg>
-   <rdg wit="#A1">in</rdg>
    <rdg wit="#F1">,</rdg>
-   <rdg wit="#K">in</rdg>
 </app> 
 <app>
-   <rdg wit="#K #MS #A1"></rdg>
+   <rdg wit="#MS">to</rdg>
    <rdg wit="#B1">in</rdg>
+   <rdg wit="#A1">in</rdg>
    <rdg wit="#F1">in</rdg>
-</app> a certain degree 
-<app>
-   <rdg wit="#K #MS #A1"> </rdg>
-   <rdg wit="#B1">,</rdg>
-   <rdg wit="#F1">,</rdg>
-</app> to a fascination that, under the circumstances, might well have made 
+   <rdg wit="#K">in</rdg>
+</app> a certain degree to a fascination that, under the circumstances, might well have made 
 <app>
    <rdg wit="#K #MS">far</rdg>
    <rdg wit="#B1"></rdg>
@@ -2550,69 +2168,24 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#F1"></rdg>
 </app> deeper inroads on the faith 
 <app>
-   <rdg wit="#K #MS #B1"> </rdg>
-   <rdg wit="#A1">even</rdg>
-   <rdg wit="#F1">even</rdg>
-</app> 
-<app>
-   <rdg wit="#K #MS #F1 #A1">of</rdg>
-   <rdg wit="#B1"></rdg>
-</app>  
-<app>
-   <rdg wit="#K #MS #B1">even</rdg>
-   <rdg wit="#A1">men</rdg>
-   <rdg wit="#F1">men</rdg>
-</app>  
-<app>
-   <rdg wit="#MS">man</rdg>
-   <rdg wit="#B1">of</rdg>
-   <rdg wit="#A1"></rdg>
-   <rdg wit="#F1"></rdg>
-   <rdg wit="#K">men</rdg>
-</app> 
-<app>
-   <rdg wit="#K #MS #F1 #A1"></rdg>
-   <rdg wit="#B1">men</rdg>
+   <rdg wit="#K #MS">of even men</rdg>
+   <rdg wit="#A1 #B1 #F1">even of men</rdg>
 </app> who enjoyed much better reputations for stability of purpose.</p>
 <p>In situations of so much novelty 
 <app>
    <rdg wit="#K #MS #A1">,</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#F1"></rdg>
-</app> time flies swiftly, and Luis himself was 
-<app>
-   <rdg wit="#MS">astounded</rdg>
-   <rdg wit="#B1">astonished</rdg>
-   <rdg wit="#A1">astonished</rdg>
-   <rdg wit="#F1">astonished</rdg>
-   <rdg wit="#K">astonished</rdg>
-</app> when, 
-<app>
-   <rdg wit="#MS">in</rdg>
-   <rdg wit="#B1">on</rdg>
-   <rdg wit="#A1">on</rdg>
-   <rdg wit="#F1">on</rdg>
-   <rdg wit="#K">on</rdg>
-</app> looking back, he remembered that he had now been several days with Mattinao, most of which period 
+</app> time flies swiftly, and Luis himself was astonished when, on looking back, he remembered that he had now been several days with Mattinao, most of which period 
 <app>
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#A1"></rdg>
    <rdg wit="#F1"></rdg>
-</app> had actually been 
+</app> had actually been passed in what might not inaptly
 <app>
-   <rdg wit="#MS">parried</rdg>
-   <rdg wit="#B1">passed</rdg>
-   <rdg wit="#A1">passed</rdg>
-   <rdg wit="#F1">passed</rdg>
-   <rdg wit="#K">passed</rdg>
-</app> in what might not inaptly 
-<app>
-   <rdg wit="#MS #F1 #B1 #A1"> </rdg>
-   <rdg wit="#K">have</rdg>
-</app> 
-<app>
-   <rdg wit="#K #MS">been</rdg>
+   <rdg wit="#K #MS">have been</rdg>
+   <rdg wit="#MS">been</rdg>
    <rdg wit="#B1">be</rdg>
    <rdg wit="#A1">be</rdg>
    <rdg wit="#F1">be</rdg>
@@ -2620,73 +2193,36 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
 <app>
    <rdg wit="#K #MS #F1 #B1">Cacique</rdg>
    <rdg wit="#A1">cacique</rdg>
-</app> . Sancho of the 
+</app>. Sancho of the 
 <app>
-   <rdg wit="#K #MS">Ship Yard</rdg>
-   <rdg wit="#B1">Ship-yard</rdg>
+   <rdg wit="#K #MS">Ship Yard Gate</rdg>
+   <rdg wit="#B1">Ship-yard Gate</rdg>
    <rdg wit="#A1">ship-yard gate</rdg>
-   <rdg wit="#F1">Ship-yard</rdg>
-</app> 
-<app>
-   <rdg wit="#K #MS #F1 #B1">Gate</rdg>
-   <rdg wit="#A1"></rdg>
+   <rdg wit="#F1">Ship-yard Gate</rdg>
 </app> had not been 
 <app>
-   <rdg wit="#K #MS">,</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#A1"></rdg>
-   <rdg wit="#F1"></rdg>
-</app> in the least 
-<app>
-   <rdg wit="#K #MS">,</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#A1"></rdg>
-   <rdg wit="#F1"></rdg>
+   <rdg wit="#K #MS">, in the least,</rdg>
+   <rdg wit="#B1">in the least</rdg>
+   <rdg wit="#A1">in the least</rdg>
+   <rdg wit="#F1">in the least</rdg>
 </app> neglected all this time.  He had been a hero, in his own circle, as well as the young noble, nor had he been at all forgetful of his duty on the 
 <app>
    <rdg wit="#K #MS #B1 #A1">subject</rdg>
    <rdg wit="#F1">subjet</rdg>
-</app> of searching for gold.  Though he had neither acquired a 
+</app> of searching for gold.  Though he had neither acquired a single word of the Haytian language, nor taught a syllable of Spanish to even one of the laughing nymphs who surrounded him, he had decorated the persons of many of them with 
 <app>
-   <rdg wit="#MS">signle</rdg>
-   <rdg wit="#B1">single</rdg>
-   <rdg wit="#A1">single</rdg>
-   <rdg wit="#F1">single</rdg>
-   <rdg wit="#K">single</rdg>
-</app> word of the Haytian language, nor taught a syllable of Spanish to even one of the laughing nymphs who surrounded him, he had decorated the persons of many of them with 
+   <rdg wit="#MS">hawks&apos; bells</rdg>
+   <rdg wit="#B1">hawk&apos;s-bells</rdg>
+   <rdg wit="#A1">hawk&apos;s-bells</rdg>
+   <rdg wit="#F1">hawk&apos;s-bells</rdg>
+   <rdg wit="#K">hawk&apos;s-bells</rdg>
+</app>, and had contrived to abstract from them, in return, every ornament that resembled the precious metal, which they possessed.  This transfer 
 <app>
-   <rdg wit="#MS">hawks</rdg>
-   <rdg wit="#B1">hawk</rdg>
-   <rdg wit="#A1">hawk</rdg>
-   <rdg wit="#F1">hawk</rdg>
-   <rdg wit="#K">hawk</rdg>
-</app> &apos; 
-<app>
-   <rdg wit="#MS">bells</rdg>
-   <rdg wit="#B1">s-bells</rdg>
-   <rdg wit="#A1">s-bells</rdg>
-   <rdg wit="#F1">s-bells</rdg>
-   <rdg wit="#K">s-bells</rdg>
-</app> , and had contrived to abstract from them, in return, every ornament that resembled the precious metal, which they possessed.  This transfer 
-<app>
-   <rdg wit="#K #MS"> </rdg>
-   <rdg wit="#B1">,</rdg>
-   <rdg wit="#A1">,</rdg>
-   <rdg wit="#F1">,</rdg>
-</app> no doubt 
-<app>
-   <rdg wit="#K #MS"> </rdg>
-   <rdg wit="#B1">,</rdg>
-   <rdg wit="#A1">,</rdg>
-   <rdg wit="#F1">,</rdg>
-</app> was honestly effected, however, having been made 
-<app>
-   <rdg wit="#MS">in</rdg>
-   <rdg wit="#B1">on</rdg>
-   <rdg wit="#A1">on</rdg>
-   <rdg wit="#F1">on</rdg>
-   <rdg wit="#K">on</rdg>
-</app> that 
+   <rdg wit="#K #MS">no doubt</rdg>
+   <rdg wit="#B1">,no doubt,</rdg>
+   <rdg wit="#A1">, no doubt,</rdg>
+   <rdg wit="#F1">, no doubt,</rdg>
+</app> was honestly effected, however, having been made on that 
 <app>
    <rdg wit="#K #MS">favorite</rdg>
    <rdg wit="#B1">favourite</rdg>
@@ -2716,14 +2252,7 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#A1">perceive thou</rdg>
    <rdg wit="#F1">perceive thou</rdg>
    <rdg wit="#K">perceive thou</rdg>
-</app> hast not forgotten thy passion for doblas, friend Sancho,&quot; said Luis, laughing, as the old seaman exhibited the store of dust and golden plates 
-<app>
-   <rdg wit="#MS">plates</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#A1"></rdg>
-   <rdg wit="#F1"></rdg>
-   <rdg wit="#K"></rdg>
-</app> he had collected; &quot;there is sufficient of the metal 
+</app> hast not forgotten thy passion for doblas, friend Sancho,&quot; said Luis, laughing, as the old seaman exhibited the store of dust and golden plates he had collected; &quot;there is sufficient of the metal 
 <app>
    <rdg wit="#MS"> </rdg>
    <rdg wit="#B1">in thy sack</rdg>
@@ -2755,20 +2284,13 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#A1">hawk&apos;s-bells</rdg>
    <rdg wit="#F1">hawk&apos;s-bells</rdg>
    <rdg wit="#K">hawk&apos;s-bells</rdg>
-</app> , that cost but a handful of maravedis.  By the 
+</app>, that cost but a handful of maravedis.  By the 
 <app>
    <rdg wit="#K #MS">Mass</rdg>
    <rdg wit="#B1">mass</rdg>
    <rdg wit="#A1">mass</rdg>
    <rdg wit="#F1">mass</rdg>
-</app> ! this is a most just and holy trade, and such as it becomes us Christians to carry on.  Here are these savages, they think 
-<app>
-   <rdg wit="#MS">nor</rdg>
-   <rdg wit="#B1">no</rdg>
-   <rdg wit="#A1">no</rdg>
-   <rdg wit="#F1">no</rdg>
-   <rdg wit="#K">no</rdg>
-</app> more of gold 
+</app>! this is a most just and holy trade, and such as it becomes us Christians to carry on.  Here are these savages, they think no more of gold 
 <app>
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1"></rdg>
@@ -2780,13 +2302,13 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#B1">excellency</rdg>
    <rdg wit="#A1">excellency</rdg>
    <rdg wit="#F1">excellency</rdg>
-</app> thinks of a dead Moor, and to be revenged on them, I hold a hawk&apos; 
+</app> thinks of a dead Moor, and to be revenged on them, I hold a 
 <app>
-   <rdg wit="#MS">s bell</rdg>
-   <rdg wit="#B1">s-bell</rdg>
-   <rdg wit="#A1">s-bell</rdg>
-   <rdg wit="#F1">s-bell</rdg>
-   <rdg wit="#K">s-bell</rdg>
+   <rdg wit="#MS">hawk&apos;s bell</rdg>
+   <rdg wit="#B1">hawk&apos;s-bell</rdg>
+   <rdg wit="#A1">hawk&apos;s-bell</rdg>
+   <rdg wit="#F1">hawk&apos;s-bell</rdg>
+   <rdg wit="#K">hawk&apos;s-bell</rdg>
 </app> just as cheap.  Let them think as poorly as they please of 
 <app>
    <rdg wit="#MS">thier</rdg>
@@ -2796,18 +2318,11 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#K">their</rdg>
 </app> ornaments and yellow dust, they will find me just as willing to part with the twenty 
 <app>
-   <rdg wit="#MS">hawks</rdg>
-   <rdg wit="#B1">hawk</rdg>
-   <rdg wit="#A1">hawk</rdg>
-   <rdg wit="#F1">hawk</rdg>
-   <rdg wit="#K">hawk</rdg>
-</app> &apos; 
-<app>
-   <rdg wit="#MS">bells</rdg>
-   <rdg wit="#B1">s-bells</rdg>
-   <rdg wit="#A1">s-bells</rdg>
-   <rdg wit="#F1">s-bells</rdg>
-   <rdg wit="#K">s-bells</rdg>
+   <rdg wit="#MS">hawks&apos; bells</rdg>
+   <rdg wit="#B1">hawk&apos;s-bells</rdg>
+   <rdg wit="#A1">hawk&apos;s-bells</rdg>
+   <rdg wit="#F1">hawk&apos;s-bells</rdg>
+   <rdg wit="#K">hawk&apos;s-bells</rdg>
 </app> that remain.  Let them barter away, they will find me as ready as they possibly can be 
 <app>
    <rdg wit="#MS"> </rdg>
@@ -2824,18 +2339,12 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#F1">bauble</rdg>
 </app> that copper so easily purchaseth?  Remember thou art a Castilian, and henceforth give two 
 <app>
-   <rdg wit="#K #MS">hawks</rdg>
-   <rdg wit="#B1">hawk</rdg>
-   <rdg wit="#A1">hawk</rdg>
-   <rdg wit="#F1">hawk</rdg>
-</app> &apos; 
-<app>
-   <rdg wit="#MS">bells</rdg>
-   <rdg wit="#B1">s-bells</rdg>
-   <rdg wit="#A1">s-bells</rdg>
-   <rdg wit="#F1">s-bells</rdg>
-   <rdg wit="#K">-bells</rdg>
-</app> , where thou hast hitherto given but one.&quot;</p>
+   <rdg wit="#MS">hawks&apos; bells</rdg>
+   <rdg wit="#B1">hawk&apos;s-bells</rdg>
+   <rdg wit="#A1">hawk&apos;s-bells</rdg>
+   <rdg wit="#F1">hawk&apos;s-bells</rdg>
+   <rdg wit="#K">hawk&apos;s-bells</rdg>
+</app>, where thou hast hitherto given but one.&quot;</p>
 <p>&quot;I never forget my birth, Senor, for happily the 
 <app>
    <rdg wit="#K #MS">Ship Yard</rdg>
@@ -2889,7 +2398,7 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#F1">,</rdg>
 </app> and 
 <app>
-   <rdg wit="#MS">great</rdg>
+   <rdg wit="#MS">greek</rdg>
    <rdg wit="#B1">Greek</rdg>
    <rdg wit="#A1">Greek</rdg>
    <rdg wit="#F1">Greek</rdg>
@@ -2913,11 +2422,7 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#B1">,</rdg>
    <rdg wit="#A1">,</rdg>
    <rdg wit="#F1">,</rdg>
-</app> nothing is plainer than the 
-<app>
-   <rdg wit="#K #MS #F1 #A1">fact</rdg>
-   <rdg wit="#B1">[beg of line]act</rdg>
-</app> that 
+</app> nothing is plainer than the fact that 
 <app>
    <rdg wit="#K #MS #A1">every thing</rdg>
    <rdg wit="#B1">everything</rdg>
@@ -2929,28 +2434,15 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#B1">commerce</rdg>
    <rdg wit="#A1">commerce</rdg>
    <rdg wit="#F1">commerce</rdg>
-</app> , &quot; 
+</app>, &quot; 
 <app>
    <rdg wit="#K #MS #B1 #A1">then</rdg>
    <rdg wit="#F1">Then</rdg>
 </app> 
 <app>
-   <rdg wit="#K #MS #B1"></rdg>
-   <rdg wit="#A1">it</rdg>
-   <rdg wit="#F1">it</rdg>
-</app>  
-<app>
-   <rdg wit="#K #MS #F1 #A1">is</rdg>
-   <rdg wit="#B1"></rdg>
-</app>  
-<app>
-   <rdg wit="#K #MS #B1">it</rdg>
-   <rdg wit="#A1"></rdg>
-   <rdg wit="#F1"></rdg>
-</app> 
-<app>
-   <rdg wit="#K #MS #F1 #A1"></rdg>
-   <rdg wit="#B1">is</rdg>
+   <rdg wit="#MS">is it</rdg>
+   <rdg wit="#K">is it</rdg>
+   <rdg wit="#A1 #B1 #F1">it is</rdg>
 </app> just to deceive the child and the idiot.&quot;</p>
 <p>&quot;God forbid, and especially St. Andrew 
 <app>
@@ -2964,13 +2456,13 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#B1">anything</rdg>
    <rdg wit="#A1">anything</rdg>
    <rdg wit="#F1">anything</rdg>
-</app> so wicked.  Hawk&apos; 
+</app> so wicked. 
 <app>
-   <rdg wit="#MS">s bells</rdg>
-   <rdg wit="#B1">s-bells</rdg>
-   <rdg wit="#A1">s-bells</rdg>
-   <rdg wit="#F1">s-bells</rdg>
-   <rdg wit="#K">s-bells</rdg>
+   <rdg wit="#MS">Hawk&apos;s bells</rdg>
+   <rdg wit="#B1">Hawk&apos;s-bells</rdg>
+   <rdg wit="#A1">Hawk&apos;s-bells</rdg>
+   <rdg wit="#F1">Hawk&apos;s-bells</rdg>
+   <rdg wit="#K">Hawk&apos;s-bells</rdg>
 </app> are of more account than gold, in Hayti, Senor, and happening to know it, I am willing to part with the precious things for the dross.  You see 
 <app>
    <rdg wit="#K #MS">,</rdg>
@@ -2997,20 +2489,13 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#A1">,</rdg>
    <rdg wit="#F1">,</rdg>
    <rdg wit="#K">,</rdg>
-</app> her new subjects, as to prevent their ever 
+</app> her new subjects, as to prevent their ever going into the shipping business
 <app>
-   <rdg wit="#MS">giving</rdg>
-   <rdg wit="#B1">going</rdg>
-   <rdg wit="#A1">going</rdg>
-   <rdg wit="#F1">going</rdg>
-   <rdg wit="#K">going</rdg>
-</app> into the shipping business, 
-<app>
-   <rdg wit="#K #MS">a</rdg>
-   <rdg wit="#B1">--a</rdg>
-   <rdg wit="#A1">--a</rdg>
-   <rdg wit="#F1">--a</rdg>
-</app> most laborious and dangerous calling, as we both well know.&quot;</p>
+   <rdg wit="#K #MS">, </rdg>
+   <rdg wit="#B1">,--</rdg>
+   <rdg wit="#A1">,--</rdg>
+   <rdg wit="#F1">,--</rdg>
+</app>a most laborious and dangerous calling, as we both well know.&quot;</p>
 <p>&quot;And why art thou so particular in desiring this 
 <app>
    <rdg wit="#K #MS">favor</rdg>
@@ -3034,13 +2519,13 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#B1">trade</rdg>
    <rdg wit="#A1">trade</rdg>
    <rdg wit="#F1">trade</rdg>
-</app> , which ought to be as free and unencumbered as possible.  Here, now, if we Spaniards come to Hayti, we sell one hawk&apos; 
+</app> , which ought to be as free and unencumbered as possible.  Here, now, if we Spaniards come to Hayti, we sell one 
 <app>
-   <rdg wit="#MS">s bell,</rdg>
-   <rdg wit="#B1">s-bell</rdg>
-   <rdg wit="#A1">s-bell</rdg>
-   <rdg wit="#F1">s-bell</rdg>
-   <rdg wit="#K">s-bell</rdg>
+   <rdg wit="#MS">hawk&apos;s bell,</rdg>
+   <rdg wit="#B1">hawk&apos;s-bell</rdg>
+   <rdg wit="#A1">hawk&apos;s-bell</rdg>
+   <rdg wit="#F1">hawk&apos;s-bell</rdg>
+   <rdg wit="#K">hawk&apos;s-bell</rdg>
 </app> for a dobla in gold 
 <app>
    <rdg wit="#MS">,</rdg>
@@ -3055,21 +2540,14 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#A1">their</rdg>
    <rdg wit="#F1">their</rdg>
    <rdg wit="#K">their</rdg>
-</app> gold would buy a hundred hawk&apos; 
+</app> gold would buy a hundred  
 <app>
-   <rdg wit="#MS">s bells</rdg>
-   <rdg wit="#B1">s-bells</rdg>
-   <rdg wit="#A1">s-bells</rdg>
-   <rdg wit="#F1">s-bells</rdg>
-   <rdg wit="#K">s-bells</rdg>
-</app> !  
-<app>
-   <rdg wit="#MS">No--ho--it</rdg>
-   <rdg wit="#B1">No--no--it</rdg>
-   <rdg wit="#A1">No--no--it</rdg>
-   <rdg wit="#F1">No--no--it</rdg>
-   <rdg wit="#K">No--no--it</rdg>
-</app> is right as it is 
+   <rdg wit="#MS">hawk&apos;s bells</rdg>
+   <rdg wit="#B1">hawk&apos;s-bells</rdg>
+   <rdg wit="#A1">hawk&apos;s-bells</rdg>
+   <rdg wit="#F1">hawk&apos;s-bells</rdg>
+   <rdg wit="#K">hawk&apos;s-bells</rdg>
+</app>!  No--no--it is right as it is 
 <app>
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1">;</rdg>
@@ -3099,7 +2577,7 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#B1">free trade</rdg>
    <rdg wit="#A1">free trade</rdg>
    <rdg wit="#F1">free trade</rdg>
-</app> , the great mystification of modern philanthropists, when  there arose such a cry in the village of Mattinao, as is only heard in moments of extreme jeopardy and sudden terror.  The conversation 
+</app>, the great mystification of modern philanthropists, when  there arose such a cry in the village of Mattinao, as is only heard in moments of extreme jeopardy and sudden terror.  The conversation 
 <app>
    <rdg wit="#K #MS #B1 #A1">took</rdg>
    <rdg wit="#F1">look</rdg>
@@ -3114,14 +2592,7 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#B1">;</rdg>
    <rdg wit="#A1">;</rdg>
    <rdg wit="#F1">;</rdg>
-</app> and so implicit had become the confidence the two Spaniards reposed in their friends, that neither had any 
-<app>
-   <rdg wit="#MS">either</rdg>
-   <rdg wit="#B1">other</rdg>
-   <rdg wit="#A1">other</rdg>
-   <rdg wit="#F1">other</rdg>
-   <rdg wit="#K">other</rdg>
-</app> arms about his person 
+</app> and so implicit had become the confidence the two Spaniards reposed in their friends, that neither had any other arms about his person 
 <app>
    <rdg wit="#K #MS #A1">,</rdg>
    <rdg wit="#B1"></rdg>
@@ -3158,21 +2629,21 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#A1">treachery</rdg>
    <rdg wit="#F1">treachery</rdg>
    <rdg wit="#K">treachery</rdg>
-</app> , Senor?&quot; exclaimed Sancho. &quot;Have these 
+</app>, Senor?&quot; exclaimed Sancho. &quot;Have these 
 <app>
    <rdg wit="#MS">black guards</rdg>
    <rdg wit="#B1">blackguards</rdg>
    <rdg wit="#A1">blackguards</rdg>
    <rdg wit="#F1">blackguards</rdg>
    <rdg wit="#K">blackguards</rdg>
-</app> found out the true value of hawk&apos; 
+</app> found out the true value of  
 <app>
-   <rdg wit="#MS">s bells</rdg>
-   <rdg wit="#B1">s-bells</rdg>
-   <rdg wit="#A1">s-bells</rdg>
-   <rdg wit="#F1">s-bells</rdg>
-   <rdg wit="#K">s-bells</rdg>
-</app> , 
+   <rdg wit="#MS">hawk&apos;s bells</rdg>
+   <rdg wit="#B1">hawk&apos;s-bells</rdg>
+   <rdg wit="#A1">hawk&apos;s-bells</rdg>
+   <rdg wit="#F1">hawk&apos;s-bells</rdg>
+   <rdg wit="#K">hawk&apos;s-bells</rdg>
+</app>, 
 <app>
    <rdg wit="#MS"> </rdg>
    <rdg wit="#B1">after all,</rdg>
@@ -3192,53 +2663,34 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#A1"></rdg>
    <rdg wit="#F1"></rdg>
    <rdg wit="#K"></rdg>
-</app> and all his people are true, Sancho.  This uproar 
+</app> and all his people are true, Sancho.  This uproar hath a different meaning--hark! is not that the cry of  
 <app>
-   <rdg wit="#MS">hat</rdg>
-   <rdg wit="#B1">hath</rdg>
-   <rdg wit="#A1">hath</rdg>
-   <rdg wit="#F1">hath</rdg>
-   <rdg wit="#K">hath</rdg>
-</app> a different meaning--hark! is not that the cry of 
-<app>
-   <rdg wit="#MS">&quot;</rdg>
-   <rdg wit="#B1">&apos;</rdg>
-   <rdg wit="#A1">&apos;</rdg>
-   <rdg wit="#F1">&apos;</rdg>
-   <rdg wit="#K">&apos;</rdg>
-</app> Caonabo 
-<app>
-   <rdg wit="#MS">&quot;?&quot;</rdg>
-   <rdg wit="#B1">?&apos;&quot;</rdg>
-   <rdg wit="#A1">?&apos;&quot;</rdg>
-   <rdg wit="#F1">?&apos;&quot;</rdg>
-   <rdg wit="#K">&apos;?&quot;</rdg>
-</app> </p>
-           <p>&quot;The very same, Senor!  That is the name of the 
+   <rdg wit="#MS">&quot;Caonabo&quot;?&quot;</rdg>
+   <rdg wit="#B1">&apos;Caonabo?&apos;&quot;</rdg>
+   <rdg wit="#A1">&apos;Caonabo?&apos;&quot;</rdg>
+   <rdg wit="#F1">&apos;Caonabo?&apos;&quot;</rdg>
+   <rdg wit="#K">&apos;Caonabo&apos;?&quot;</rdg>
+</app> 
+</p>
+<p>&quot;The very same, Senor!  That is the name of the 
 <app>
    <rdg wit="#K #MS #A1">Carib cacique</rdg>
    <rdg wit="#B1">Carrib Cacique</rdg>
    <rdg wit="#F1">Carrib Cacique</rdg>
-</app> , who is the terror of all these tribes.&quot;</p>
+</app>, who is the terror of all these tribes.&quot;</p>
 <p>&quot;Thy arquebuse, Sancho, if possible; then join me at the dwellings above.  Ozema and the wives of our good friend must be defended, at every hazard!&quot;</p>
 <p>Luis had no sooner given these orders, than he and Sancho separated, the latter running towards the town, which by this time was a scene of wild tumult, while our hero 
 <app>
-   <rdg wit="#K #MS"> </rdg>
-   <rdg wit="#B1">,</rdg>
-   <rdg wit="#A1">,</rdg>
-   <rdg wit="#F1">,</rdg>
-</app> slowly and sullenly 
-<app>
-   <rdg wit="#K #MS"> </rdg>
-   <rdg wit="#B1">,</rdg>
-   <rdg wit="#A1">,</rdg>
-   <rdg wit="#F1">,</rdg>
+   <rdg wit="#K #MS">slowly and sullenly</rdg>
+   <rdg wit="#B1">, slowly and sullenly,</rdg>
+   <rdg wit="#A1">, slowly and sullenly,</rdg>
+   <rdg wit="#F1">, slowly and sullenly,</rdg>
 </app> retired towards the private dwellings of the 
 <app>
    <rdg wit="#K #MS #A1">cacique</rdg>
    <rdg wit="#B1">Cacique</rdg>
    <rdg wit="#F1">Cacique</rdg>
-</app> , occasionally looking back, as if 
+</app>, occasionally looking back, as if 
 <app>
    <rdg wit="#MS">longing</rdg>
    <rdg wit="#B1">he longed</rdg>
@@ -3264,7 +2716,7 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#B1">foot-soldiers</rdg>
    <rdg wit="#A1">foot-soldiers</rdg>
    <rdg wit="#F1">foot-soldiers</rdg>
-</app> , and it is well known that 
+</app>, and it is well known that 
 <app>
    <rdg wit="#K #MS #F1 #A1">solitary</rdg>
    <rdg wit="#B1">soilitary</rdg>
@@ -3325,14 +2777,7 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#A1">of them all</rdg>
    <rdg wit="#F1">of them all</rdg>
    <rdg wit="#K">of them all</rdg>
-</app> , 
-<app>
-   <rdg wit="#MS">thought</rdg>
-   <rdg wit="#B1">though</rdg>
-   <rdg wit="#A1">though</rdg>
-   <rdg wit="#F1">though</rdg>
-   <rdg wit="#K">though</rdg>
-</app> it was apparent that, from some cause, she was an object of particular solicitude with 
+</app>, though it was apparent that, from some cause, she was an object of particular solicitude with 
 <app>
    <rdg wit="#MS">all</rdg>
    <rdg wit="#B1">those</rdg>
@@ -3379,12 +2824,18 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#B1"></rdg>
    <rdg wit="#A1"></rdg>
    <rdg wit="#F1"></rdg>
-</app> in no manner lessened Luis&apos; 
+</app> in no manner lessened  
+   <app>
+      <rdg wit="#K #MS">Luis&apos;</rdg>
+      <rdg wit="#B1">Luis&apos;s</rdg>
+      <rdg wit="#A1">Luis&apos;s</rdg>
+      <rdg wit="#F1">Luis&apos;s</rdg>
+   </app>
 <app>
    <rdg wit="#K #MS">ardor</rdg>
-   <rdg wit="#B1">s ardour</rdg>
-   <rdg wit="#A1">s ardour</rdg>
-   <rdg wit="#F1">s ardour</rdg>
+   <rdg wit="#B1">ardour</rdg>
+   <rdg wit="#A1">ardour</rdg>
+   <rdg wit="#F1">ardour</rdg>
 </app> in the defence.  The moment Ozema caught sight of him, she flew to his side, clasping her hands, and uttering the name of &quot;Caonabo,&quot; in a tone that would have melted a 
 <app>
    <rdg wit="#MS">rock</rdg>
@@ -3423,14 +2874,7 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#K #MS #A1">princess</rdg>
    <rdg wit="#B1">Princess</rdg>
    <rdg wit="#F1">Princess</rdg>
-</app> of his zeal, in the best 
-<app>
-   <rdg wit="#MS">measures</rdg>
-   <rdg wit="#B1">manner</rdg>
-   <rdg wit="#A1">manner</rdg>
-   <rdg wit="#F1">manner</rdg>
-   <rdg wit="#K">manner</rdg>
-</app> he could, by placing the buckler before her throbbing breast, and waving the sword, as in defiance of her enemies 
+</app> of his zeal, in the best manner he could, by placing the buckler before her throbbing breast, and waving the sword, as in defiance of her enemies 
 <app>
    <rdg wit="#MS">.  No</rdg>
    <rdg wit="#B1">: no</rdg>
@@ -3448,14 +2892,7 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#B1">endeavouring</rdg>
    <rdg wit="#A1">endeavouring</rdg>
    <rdg wit="#F1">endeavouring</rdg>
-</app> to find places of concealment.  By this singular and unexpected 
-<app>
-   <rdg wit="#MS">directive</rdg>
-   <rdg wit="#B1">desertion</rdg>
-   <rdg wit="#A1">desertion</rdg>
-   <rdg wit="#F1">desertion</rdg>
-   <rdg wit="#K">desertion</rdg>
-</app> , Luis found himself, for the first time since they had met, alone with Ozema.</p>
+</app> to find places of concealment.  By this singular and unexpected desertion, Luis found himself, for the first time since they had met, alone with Ozema.</p>
 <p>To remain in the house would be to suffer the enemy to approach unseen 
 <app>
    <rdg wit="#K #MS #A1">,</rdg>
@@ -3463,26 +2900,17 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#F1">;</rdg>
 </app> and the shrieks and cries sufficiently announced that 
 <app>
-   <rdg wit="#K #MS #A1">,</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#F1"></rdg>
-</app> each moment 
-<app>
-   <rdg wit="#MS #F1 #B1"> </rdg>
-   <rdg wit="#A1">,</rdg>
-   <rdg wit="#K">,</rdg>
+   <rdg wit="#K">, each moment,</rdg>
+   <rdg wit="#MS">, each moment</rdg>
+   <rdg wit="#A1">, each moment,</rdg>
+   <rdg wit="#B1">each moment</rdg>
+   <rdg wit="#F1">each moment</rdg>
 </app> the danger drew nearer.  Luis 
 <app>
-   <rdg wit="#K #MS">,</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#A1"></rdg>
-   <rdg wit="#F1"></rdg>
-</app> accordingly 
-<app>
-   <rdg wit="#K #MS">,</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#A1"></rdg>
-   <rdg wit="#F1"></rdg>
+   <rdg wit="#K #MS">, accordingly,</rdg>
+   <rdg wit="#B1">accordingly</rdg>
+   <rdg wit="#A1">accordingly</rdg>
+   <rdg wit="#F1">accordingly</rdg>
 </app> made a sign for the girl to follow him, first rolling the turban into a bundle 
 <app>
    <rdg wit="#MS #F1 #B1">,</rdg>
@@ -3502,19 +2930,12 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#A1">arm</rdg>
    <rdg wit="#F1">arm</rdg>
    <rdg wit="#K">arm</rdg>
-</app> , that it might serve her, at need, as a species of shield against the hostile arrows.  While he was thus employed, Ozema&apos;s head fell upon his breast, and the excited girl burst into tears.  This display of weakness, however, lasted but a moment 
+</app>, that it might serve her, at need, as a species of shield against the hostile arrows.  While he was thus employed, Ozema&apos;s head fell upon his breast, and the excited girl burst into tears.  This display of weakness, however, lasted but a moment 
 <app>
    <rdg wit="#K #MS #A1">,</rdg>
    <rdg wit="#B1">;</rdg>
    <rdg wit="#F1">;</rdg>
-</app> when she 
-<app>
-   <rdg wit="#MS">arrested</rdg>
-   <rdg wit="#B1">aroused</rdg>
-   <rdg wit="#A1">aroused</rdg>
-   <rdg wit="#F1">aroused</rdg>
-   <rdg wit="#K">aroused</rdg>
-</app> herself, smiled through her tears, pressed the arm of Luis convulsively 
+</app> when she aroused herself, smiled through her tears, pressed the arm of Luis convulsively 
 <app>
    <rdg wit="#K #MS #F1 #B1">,</rdg>
    <rdg wit="#A1"></rdg>
@@ -3524,24 +2945,13 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#B1"></rdg>
    <rdg wit="#A1"></rdg>
    <rdg wit="#F1"></rdg>
-</app> again 
+</app> again.  They then left the building together.</p>
+<p>Luis soon perceived that his retreat from the house had not been made a moment too soon.  The family of Mattinao had already disappeared, and a strong party of the invaders was in full view, rushing madly  up the grove, silent, but evidently bent on seizing their prey.  He felt Ozema, who clung to his arm, tremble violently, and then he heard her murmuring
 <app>
-   <rdg wit="#K #MS #F1 #A1">.</rdg>
-   <rdg wit="#B1"></rdg>
-</app>  They then left the building together.</p>
-<p>Luis soon perceived that his retreat from the house had not been made a moment too soon.  The family of Mattinao had already disappeared, and a 
-<app>
-   <rdg wit="#MS">large</rdg>
-   <rdg wit="#B1">strong</rdg>
-   <rdg wit="#A1">strong</rdg>
-   <rdg wit="#F1">strong</rdg>
-   <rdg wit="#K">strong</rdg>
-</app> party of the invaders was in full view, rushing madly  up the grove, silent, but evidently bent on seizing their prey.  He felt Ozema, who clung to his arm, tremble violently, and then he heard her 
-<app>
-   <rdg wit="#K #MS">murmuring--</rdg>
-   <rdg wit="#B1">murmuring,--</rdg>
-   <rdg wit="#A1">murmuring,--</rdg>
-   <rdg wit="#F1">murmuring,--</rdg>
+   <rdg wit="#K #MS">--</rdg>
+   <rdg wit="#B1">,--</rdg>
+   <rdg wit="#A1">,--</rdg>
+   <rdg wit="#F1">,--</rdg>
 </app> </p> 
 <p><app>
    <rdg wit="#K #MS">&quot;Caonabo--no--no--no.&quot;</rdg>
@@ -3584,16 +2994,10 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#F1">honourable</rdg>
 </app> and generous, he was human, and 
 <app>
-   <rdg wit="#K #MS"> </rdg>
-   <rdg wit="#B1">,</rdg>
-   <rdg wit="#A1">,</rdg>
-   <rdg wit="#F1">,</rdg>
-</app> consequently 
-<app>
-   <rdg wit="#K #MS"> </rdg>
-   <rdg wit="#B1">,</rdg>
-   <rdg wit="#A1">,</rdg>
-   <rdg wit="#F1">,</rdg>
+   <rdg wit="#K #MS">consequently</rdg>
+   <rdg wit="#B1">, consequently,</rdg>
+   <rdg wit="#A1">, consequently,</rdg>
+   <rdg wit="#F1">, consequently,</rdg>
 </app> well disposed to take a 
 <app>
    <rdg wit="#K #MS">favorable</rdg>
@@ -3662,14 +3066,7 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#K #MS #A1">,</rdg>
    <rdg wit="#B1">;</rdg>
    <rdg wit="#F1">;</rdg>
-</app> our hero felt himself strong, if not impregnable, since he could be assailed only in front.  Ozema was stationed  behind one of the fragments of the fallen rocks, her person only 
-<app>
-   <rdg wit="#MS">haf</rdg>
-   <rdg wit="#B1">half</rdg>
-   <rdg wit="#A1">half</rdg>
-   <rdg wit="#F1">half</rdg>
-   <rdg wit="#K">half</rdg>
-</app> concealed 
+</app> our hero felt himself strong, if not impregnable, since he could be assailed only in front.  Ozema was stationed  behind one of the fragments of the fallen rocks, her person only half concealed 
 <app>
    <rdg wit="#K #MS #A1">,</rdg>
    <rdg wit="#B1">;</rdg>
@@ -3707,34 +3104,13 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#B1">anything</rdg>
    <rdg wit="#A1">anything</rdg>
    <rdg wit="#F1">anything</rdg>
-</app> but formidable.  Their arrows would 
-<app>
-   <rdg wit="#MS">would</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#A1"></rdg>
-   <rdg wit="#F1"></rdg>
-   <rdg wit="#K"></rdg>
-</app> kill 
+</app> but formidable.  Their arrows would kill 
 <app>
    <rdg wit="#K #MS"> </rdg>
    <rdg wit="#B1">,</rdg>
    <rdg wit="#A1">,</rdg>
    <rdg wit="#F1">,</rdg>
-</app> certainly, when shot at short 
-<app>
-   <rdg wit="#MS">distance</rdg>
-   <rdg wit="#B1">distances</rdg>
-   <rdg wit="#A1">distances</rdg>
-   <rdg wit="#F1">distances</rdg>
-   <rdg wit="#K">distances</rdg>
-</app> , and against the 
-<app>
-   <rdg wit="#MS">nakend</rdg>
-   <rdg wit="#B1">naked</rdg>
-   <rdg wit="#A1">naked</rdg>
-   <rdg wit="#F1">naked</rdg>
-   <rdg wit="#K">naked</rdg>
-</app> skin, but it might be questioned if they would penetrate the stout velvet in which Luis was encased, and fifty yards was not near enough to excite 
+</app> certainly, when shot at short distances, and against the naked skin, but it might be questioned if they would penetrate the stout velvet in which Luis was encased, and fifty yards was not near enough to excite 
 <app>
    <rdg wit="#MS">much</rdg>
    <rdg wit="#B1">undue</rdg>
@@ -3754,16 +3130,10 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
 </app> as a clear space was indispensable for the free use of his good sword, and to that weapon alone he looked for his eventual triumph.</p>
 <p>It was 
 <app>
-   <rdg wit="#K #MS"> </rdg>
-   <rdg wit="#B1">,</rdg>
-   <rdg wit="#A1">,</rdg>
-   <rdg wit="#F1">,</rdg>
-</app> perhaps 
-<app>
-   <rdg wit="#K #MS"> </rdg>
-   <rdg wit="#B1">,</rdg>
-   <rdg wit="#A1">,</rdg>
-   <rdg wit="#F1">,</rdg>
+   <rdg wit="#K #MS">perhaps</rdg>
+   <rdg wit="#B1">, perhaps,</rdg>
+   <rdg wit="#A1">, perhaps,</rdg>
+   <rdg wit="#F1">, perhaps,</rdg>
 </app> fortunate for our hero that 
 <app>
    <rdg wit="#MS">Caonable</rdg>
@@ -3773,30 +3143,17 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#K">Caonabo</rdg>
 </app> 
 <app>
-   <rdg wit="#K #MS">,</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#A1"></rdg>
-   <rdg wit="#F1"></rdg>
-</app> himself 
-<app>
-   <rdg wit="#K #MS">,</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#A1"></rdg>
-   <rdg wit="#F1"></rdg>
+   <rdg wit="#K #MS">, himself,</rdg>
+   <rdg wit="#B1">himself</rdg>
+   <rdg wit="#A1">himself</rdg>
+   <rdg wit="#F1">himself</rdg>
 </app> was not with the party which 
 <app>
    <rdg wit="#MS #A1">beleagured</rdg>
    <rdg wit="#B1">beleaguered</rdg>
    <rdg wit="#F1">beleaguered</rdg>
    <rdg wit="#K">beleaguered</rdg>
-</app>  him.  
-<app>
-   <rdg wit="#MS">that redoutable</rdg>
-   <rdg wit="#B1">That redoubtable</rdg>
-   <rdg wit="#A1">That redoubtable</rdg>
-   <rdg wit="#F1">That redoubtable</rdg>
-   <rdg wit="#K">That redoubtable</rdg>
-</app> chieftain, who had been led to a distance in pursuit of the flying females, under 
+</app>  him.  That redoubtable chieftain, who had been led to a distance in pursuit of the flying females, under 
 <app>
    <rdg wit="#MS">the</rdg>
    <rdg wit="#B1">a</rdg>
@@ -3810,14 +3167,7 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#A1">she</rdg>
    <rdg wit="#F1">she</rdg>
    <rdg wit="#K">she</rdg>
-</app> he sought was among them, would doubtless have brought the matter to an immediate issue by a desperate charge, when numbers might have prevailed against courage and skill.  The actual assailants chose a different course, and began to poise their bows.  One of the most skilful among them drew an arrow to the head, and let 
-<app>
-   <rdg wit="#MS"> </rdg>
-   <rdg wit="#B1">it</rdg>
-   <rdg wit="#A1">it</rdg>
-   <rdg wit="#F1">it</rdg>
-   <rdg wit="#K">it</rdg>
-</app> fly .  The missile glanced from the buckler of the knight, and struck the 
+</app> he sought was among them, would doubtless have brought the matter to an immediate issue by a desperate charge, when numbers might have prevailed against courage and skill.  The actual assailants chose a different course, and began to poise their bows.  One of the most skilful among them drew an arrow to the head, and let it fly .  The missile glanced from the buckler of the knight, and struck the 
 <app>
    <rdg wit="#MS #F1 #B1">wall</rdg>
    <rdg wit="#A1">hill</rdg>
@@ -3853,18 +3203,7 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#MS #F1 #B1">there</rdg>
    <rdg wit="#A1">those</rdg>
    <rdg wit="#K">those</rdg>
-</app> who had bows, some six or eight, drew their arrows together, and the weapons came rattling on the buckler of the assailed in a single flight.  It was not easy to escape altogether from such a 
-<app>
-   <rdg wit="#MS">combinedassault</rdg>
-   <rdg wit="#B1">combined assault</rdg>
-   <rdg wit="#A1">combined assault</rdg>
-   <rdg wit="#F1">combined assault</rdg>
-   <rdg wit="#K">combined assault</rdg>
-</app> , and our hero received one or two bruises from glancing arrows, though no blood followed the blows.  A second attempt of the same nature was 
-<app>
-   <rdg wit="#MS #F1 #B1 #A1">about</rdg>
-   <rdg wit="#K"></rdg>
-</app> to be made, when the alarmed girl rushed from her place  of concealment, and, like the Pocahontas of our own history, 
+</app> who had bows, some six or eight, drew their arrows together, and the weapons came rattling on the buckler of the assailed in a single flight.  It was not easy to escape altogether from such a combined assault, and our hero received one or two bruises from glancing arrows, though no blood followed the blows.  A second attempt of the same nature was about to be made, when the alarmed girl rushed from her place  of concealment, and, like the Pocahontas of our own history, 
 <app>
    <rdg wit="#MS">placed</rdg>
    <rdg wit="#B1">threw</rdg>
@@ -3891,17 +3230,12 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#B1">,</rdg>
    <rdg wit="#A1">,</rdg>
    <rdg wit="#F1">,</rdg>
-</app> there was a cry of &quot;Ozema 
+</app> there was a cry of 
 <app>
-   <rdg wit="#K #MS #A1">&quot;--&quot;</rdg>
-   <rdg wit="#B1">,</rdg>
-   <rdg wit="#F1">,</rdg>
-</app> Ozema 
-<app>
-   <rdg wit="#K #MS">&quot;</rdg>
-   <rdg wit="#B1">,&quot;</rdg>
-   <rdg wit="#A1">,&quot;</rdg>
-   <rdg wit="#F1">,&quot;</rdg>
+   <rdg wit="#K #MS">&quot;Ozema&quot;--&quot;Ozema&quot;</rdg>
+   <rdg wit="#B1">&quot;Ozema, Ozema,&quot;</rdg>
+   <rdg wit="#A1">&quot;Ozema&quot;--&quot;Ozema,&quot;</rdg>
+   <rdg wit="#F1">&quot;Ozema, Ozema,&quot;</rdg>
 </app> among the assailants, who were not Caribs, as 
 <app>
    <rdg wit="#MS"> </rdg>
@@ -3923,28 +3257,7 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#B1">endeavoured</rdg>
    <rdg wit="#A1">endeavoured</rdg>
    <rdg wit="#F1">endeavoured</rdg>
-</app> to persuade the devoted girl  to withdraw.  She thought his life in danger, and no language, had he been able to exert his eloquence 
-<app>
-   <rdg wit="#MS">ion</rdg>
-   <rdg wit="#B1">on</rdg>
-   <rdg wit="#A1">on</rdg>
-   <rdg wit="#F1">on</rdg>
-   <rdg wit="#K">on</rdg>
-</app> the occasion, could have induced her to 
-<app>
-   <rdg wit="#MS">have</rdg>
-   <rdg wit="#B1">leave</rdg>
-   <rdg wit="#A1">leave</rdg>
-   <rdg wit="#F1">leave</rdg>
-   <rdg wit="#K">leave</rdg>
-</app> him exposed to such  a danger 
-<app>
-   <rdg wit="#MS">..</rdg>
-   <rdg wit="#B1">.</rdg>
-   <rdg wit="#A1">.</rdg>
-   <rdg wit="#F1">.</rdg>
-   <rdg wit="#K">.</rdg>
-</app>  As the Indians were 
+</app> to persuade the devoted girl  to withdraw.  She thought his life in danger, and no language, had he been able to exert his eloquence on the occasion, could have induced her to leave him exposed to such  a danger.  As the Indians were 
 <app>
    <rdg wit="#K #MS">endeavoring</rdg>
    <rdg wit="#B1">endeavouring</rdg>
@@ -3974,21 +3287,14 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#A1">fierce-looking</rdg>
    <rdg wit="#F1">fierce-looking</rdg>
    <rdg wit="#K">fierce-looking</rdg>
-</app> warrior joined the assailants, who immediately commenced  a vociferous explanation of the actual state of the 
-<app>
-   <rdg wit="#MS">attacck</rdg>
-   <rdg wit="#B1">attack</rdg>
-   <rdg wit="#A1">attack</rdg>
-   <rdg wit="#F1">attack</rdg>
-   <rdg wit="#K">attack</rdg>
-</app> .</p>
+</app> warrior joined the assailants, who immediately commenced  a vociferous explanation of the actual state of the attack.</p>
 <p>&quot;Caonabo?&quot; 
 <app>
-   <rdg wit="#K #MS">--demanded</rdg>
-   <rdg wit="#B1">demanded</rdg>
-   <rdg wit="#A1">demanded</rdg>
-   <rdg wit="#F1">demanded</rdg>
-</app> Luis 
+   <rdg wit="#K #MS">--</rdg>
+   <rdg wit="#B1"></rdg>
+   <rdg wit="#A1"></rdg>
+   <rdg wit="#F1"></rdg>
+</app> demanded Luis 
 <app>
    <rdg wit="#K #MS"> </rdg>
    <rdg wit="#B1">,</rdg>
@@ -4035,12 +3341,12 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#B1">war-clubs</rdg>
    <rdg wit="#A1">war-clubs</rdg>
    <rdg wit="#F1">war-clubs</rdg>
-</app> and 
+</app> and spears
 <app>
-   <rdg wit="#K #MS">spears</rdg>
-   <rdg wit="#B1">spears,</rdg>
-   <rdg wit="#A1">spears,</rdg>
-   <rdg wit="#F1">spears,</rdg>
+   <rdg wit="#K #MS"></rdg>
+   <rdg wit="#B1">,</rdg>
+   <rdg wit="#A1">,</rdg>
+   <rdg wit="#F1">,</rdg>
 </app> and made a rush for the citadel of the besieged.  When they were within twenty feet of his cover, our hero sprang lightly forward on the sward to meet his foes.  Two of the spears he received on his buckler, severing both shafts with a single blow of his keen and 
 <app>
    <rdg wit="#MS">highly tempered</rdg>
@@ -4063,48 +3369,41 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#A1">unlooked-for</rdg>
    <rdg wit="#F1">unlooked-for</rdg>
    <rdg wit="#K">unlooked-for</rdg>
-</app> execution struck the assailants with awe and dread.  Never before had they witnessed the power of metal as used in 
+</app> execution struck the assailants with awe and dread.  Never before had they witnessed the power of metal as used in war
 <app>
-   <rdg wit="#MS">war, and</rdg>
-   <rdg wit="#B1">war; and</rdg>
-   <rdg wit="#A1">war; and</rdg>
-   <rdg wit="#F1">war; and</rdg>
-   <rdg wit="#K">war; and</rdg>
-</app> the sudden amputation of the arm struck them as something miraculous.  Even the ferocious Carib fell back in dismay, and Luis felt hopes of victory.  This was the first occasion on which the Spaniards had come to blows with the mild inhabitants of the islands they had discovered, though it is usual with the historians to refer to an incident of still later 
+   <rdg wit="#MS">,</rdg>
+   <rdg wit="#B1">;</rdg>
+   <rdg wit="#A1">;</rdg>
+   <rdg wit="#F1">;</rdg>
+   <rdg wit="#K">;</rdg>
+</app> and the sudden amputation of the arm struck them as something miraculous.  Even the ferocious Carib fell back in dismay, and Luis felt hopes of victory.  This was the first occasion on which the Spaniards had come to blows with the mild inhabitants of the islands they had discovered, though it is usual with the historians to refer to an incident of still later occurrence
 <app>
-   <rdg wit="#K #MS">occurrence</rdg>
-   <rdg wit="#B1">occurrence,</rdg>
-   <rdg wit="#A1">occurrence,</rdg>
-   <rdg wit="#F1">occurrence,</rdg>
+   <rdg wit="#K #MS"></rdg>
+   <rdg wit="#B1">,</rdg>
+   <rdg wit="#A1">,</rdg>
+   <rdg wit="#F1">,</rdg>
 </app> as the commencement of strife, the severe privacy which has ever been thrown over the 
 <app>
    <rdg wit="#K #MS #F1 #B1">connection</rdg>
    <rdg wit="#A1">connexion</rdg>
-</app> of Don Luis with the expedition, having completely baffled their slight and superficial researches.  
+</app> of Don Luis with the expedition, having completely baffled their slight and superficial researches.  Of course
 <app>
-   <rdg wit="#K #MS">Of course</rdg>
-   <rdg wit="#B1">Of course,</rdg>
-   <rdg wit="#A1">Of course,</rdg>
-   <rdg wit="#F1">Of course,</rdg>
+   <rdg wit="#K #MS"></rdg>
+   <rdg wit="#B1">,</rdg>
+   <rdg wit="#A1">,</rdg>
+   <rdg wit="#F1">,</rdg>
 </app> the efficiency of a weapon like that used by our hero, was as novel to the Haytians as it was terrific.</p>
-<p>At this instant a shout among the assailants, and the appearance of a fresh body of the invaders, with a tall and 
-<app>
-   <rdg wit="#MS">comanding</rdg>
-   <rdg wit="#B1">commanding</rdg>
-   <rdg wit="#A1">commanding</rdg>
-   <rdg wit="#F1">commanding</rdg>
-   <rdg wit="#K">commanding</rdg>
-</app> chief at their head, announced the arrival of Caonabo in person.  This warlike 
+           <p>At this instant a shout among the assailants, and the appearance of a fresh body of the invaders, with a tall and commanding chief at their head, announced the arrival of Caonabo in person.  This warlike 
 <app>
    <rdg wit="#K #MS #A1">cacique</rdg>
    <rdg wit="#B1">Cacique</rdg>
    <rdg wit="#F1">Cacique</rdg>
-</app> was soon made acquainted with the state of affairs, and it was evident that the prowess of our hero struck him as much with admiration as with wonder.  
+</app> was soon made acquainted with the state of affairs, and it was evident that the prowess of our hero struck him as much with admiration as with wonder.  After a few minutes
 <app>
-   <rdg wit="#K #MS">After a few minutes</rdg>
-   <rdg wit="#B1">After a few minutes,</rdg>
-   <rdg wit="#A1">After a few minutes,</rdg>
-   <rdg wit="#F1">After a few minutes,</rdg>
+   <rdg wit="#K #MS"></rdg>
+   <rdg wit="#B1">,</rdg>
+   <rdg wit="#A1">,</rdg>
+   <rdg wit="#F1">,</rdg>
 </app> he directed 
 <app>
    <rdg wit="#MS">all</rdg>
@@ -4112,12 +3411,12 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#A1"></rdg>
    <rdg wit="#F1"></rdg>
    <rdg wit="#K"></rdg>
-</app> his 
+</app> his followers
 <app>
-   <rdg wit="#K #MS">followers,</rdg>
-   <rdg wit="#B1">followers</rdg>
-   <rdg wit="#A1">followers</rdg>
-   <rdg wit="#F1">followers</rdg>
+   <rdg wit="#K #MS">,</rdg>
+   <rdg wit="#B1"></rdg>
+   <rdg wit="#A1"></rdg>
+   <rdg wit="#F1"></rdg>
 </app> to fall back to a greater distance, and 
 <app>
    <rdg wit="#K #MS"> </rdg>
@@ -4125,34 +3424,20 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#A1">,</rdg>
    <rdg wit="#F1">,</rdg>
 </app> laying aside his club, he advanced fearlessly towards Luis, making signs of amity.</p>
-<p>When the two adversaries met, it was with mutual respect and confidence.  The Carib made a short and vehement speech, in which the only word that was 
+<p>When the two adversaries met, it was with mutual respect and confidence.  The Carib made a short and vehement speech, in which the only word that was intelligible to our hero, was the name of the beautiful young Indian.  By this time Ozema had also advanced, as if eager to speak
 <app>
-   <rdg wit="#MS">intelligeble</rdg>
-   <rdg wit="#B1">intelligible</rdg>
-   <rdg wit="#A1">intelligible</rdg>
-   <rdg wit="#F1">intelligible</rdg>
-   <rdg wit="#K">intelligible</rdg>
-</app> to our hero, was the name of the beautiful young Indian.  By this time Ozema had also advanced, as if eager to 
+   <rdg wit="#MS"></rdg>
+   <rdg wit="#B1">,</rdg>
+   <rdg wit="#A1">,</rdg>
+   <rdg wit="#F1">,</rdg>
+   <rdg wit="#K">,</rdg>
+</app> and her rude suitor turned to her, with an appeal that was passionate, if not eloquent.  He laid his hand frequently on his heart, and his voice became soft and persuasive.  Ozema replied earnestly
 <app>
-   <rdg wit="#MS">speak</rdg>
-   <rdg wit="#B1">speak,</rdg>
-   <rdg wit="#A1">speak,</rdg>
-   <rdg wit="#F1">speak,</rdg>
-   <rdg wit="#K">speak,</rdg>
-</app> and her rude suitor turned to her, with an appeal that 
-<app>
-   <rdg wit="#MS">twas</rdg>
-   <rdg wit="#B1">was</rdg>
-   <rdg wit="#A1">was</rdg>
-   <rdg wit="#F1">was</rdg>
-   <rdg wit="#K">was</rdg>
-</app> passionate, if not eloquent.  He laid his hand frequently on his heart, and his voice became soft and persuasive.  Ozema replied 
-<app>
-   <rdg wit="#MS">earnestly</rdg>
-   <rdg wit="#B1">earnestly,</rdg>
-   <rdg wit="#A1">earnestly,</rdg>
-   <rdg wit="#F1">earnestly,</rdg>
-   <rdg wit="#K">earnestly,</rdg>
+   <rdg wit="#MS"></rdg>
+   <rdg wit="#B1">,</rdg>
+   <rdg wit="#A1">,</rdg>
+   <rdg wit="#F1">,</rdg>
+   <rdg wit="#K">,</rdg>
 </app> and in the quick manner of one whose resolution was settled.  At the close of her speech, the colour mounted to the temples of the ardent girl, and, as if purposely to make her meaning understood by our hero, 
 <app>
    <rdg wit="#MS"> </rdg>
@@ -4160,41 +3445,41 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#A1">she</rdg>
    <rdg wit="#F1">she</rdg>
    <rdg wit="#K">she</rdg>
-</app> ended by 
+</app> ended by saying
 <app>
-   <rdg wit="#MS">saying</rdg>
-   <rdg wit="#B1">saying,</rdg>
-   <rdg wit="#A1">saying,</rdg>
-   <rdg wit="#F1">saying,</rdg>
-   <rdg wit="#K">saying,</rdg>
-</app> in 
+   <rdg wit="#MS"></rdg>
+   <rdg wit="#B1">,</rdg>
+   <rdg wit="#A1">,</rdg>
+   <rdg wit="#F1">,</rdg>
+   <rdg wit="#K">,</rdg>
+</app> in Spanish
 <app>
-   <rdg wit="#MS">Spanish--</rdg>
-   <rdg wit="#B1">Spanish,</rdg>
-   <rdg wit="#A1">Spanish,</rdg>
-   <rdg wit="#F1">Spanish,</rdg>
-   <rdg wit="#K">Spanish,</rdg>
+   <rdg wit="#MS">--</rdg>
+   <rdg wit="#B1">,</rdg>
+   <rdg wit="#A1">,</rdg>
+   <rdg wit="#F1">,</rdg>
+   <rdg wit="#K">,</rdg>
 </app> </p>
-           <p> 
+           <p>&quot;Caonabo--no--no--no
 <app>
-   <rdg wit="#MS">&quot;Caonabo--no--no--no--Luis--Luis!&quot;</rdg>
-   <rdg wit="#B1">&quot;Caonabo--no--no--no!--Luis--Luis!&quot;</rdg>
-   <rdg wit="#A1">&quot;Caonabo--no--no--no!--Luis--Luis!&quot;</rdg>
-   <rdg wit="#F1">&quot;Caonabo--no--no--no!--Luis--Luis!&quot;</rdg>
-   <rdg wit="#K">&quot;Caonabo--no--no--no!--Luis--Luis!&quot;</rdg>
-</app> </p>
-<p>The aspect of the hurricane of the tropics is not 
+   <rdg wit="#MS">--</rdg>
+   <rdg wit="#B1">!--</rdg>
+   <rdg wit="#A1">!--</rdg>
+   <rdg wit="#F1">!--</rdg>
+   <rdg wit="#K">!--</rdg>
+</app>Luis--Luis!&quot;</p>
+           <p>The aspect of the hurricane of the tropics is not darker
 <app>
-   <rdg wit="#K #MS #A1">darker,</rdg>
-   <rdg wit="#B1">darker</rdg>
-   <rdg wit="#F1">darker</rdg>
-</app> or more menacing, than the scowl with which the Carib chief heard this unequivocal rejection of his suit, accompanied, 
+   <rdg wit="#K #MS #A1">,</rdg>
+   <rdg wit="#B1"></rdg>
+   <rdg wit="#F1"></rdg>
+</app> or more menacing, than the scowl with which the Carib chief heard this unequivocal rejection of his suit, accompanied, as it was
 <app>
-   <rdg wit="#MS">as it was</rdg>
-   <rdg wit="#B1">as it was,</rdg>
-   <rdg wit="#A1">as it was,</rdg>
-   <rdg wit="#F1">as it was,</rdg>
-   <rdg wit="#K">as it was,</rdg>
+   <rdg wit="#MS"></rdg>
+   <rdg wit="#B1">,</rdg>
+   <rdg wit="#A1">,</rdg>
+   <rdg wit="#F1">,</rdg>
+   <rdg wit="#K">,</rdg>
 </app> by so plain a demonstration in 
 <app>
    <rdg wit="#K #MS">favor</rdg>
@@ -4221,45 +3506,45 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#A1">preceded</rdg>
    <rdg wit="#F1">preceded</rdg>
    <rdg wit="#K">preceded</rdg>
-</app> the rush, and Luis was fain to seek his former cover behind the rocks.  Indeed, this was the only manner in which he could save the life of 
+</app> the rush, and Luis was fain to seek his former cover behind the rocks.  Indeed, this was the only manner in which he could save the life of Ozema
 <app>
-   <rdg wit="#MS">Ozema, the devoted girl resolutely persevering</rdg>
-   <rdg wit="#B1">Ozema; the devoted girl resolutely persevering</rdg>
-   <rdg wit="#A1">Ozema; the devoted girl resolutely persevering</rdg>
-   <rdg wit="#F1">Ozema; the devoted girl resolutely persevering</rdg>
-   <rdg wit="#K">Ozema; the devoted girl resolutely persevering</rdg>
-</app> in standing before his body, in the hope it would shield him from his enemies.  There had been some words of reproach from Caonabo to the Carib chief, who had retreated from the first attack, and the air was yet filled with arrows, as this man rushed 
+   <rdg wit="#MS">,</rdg>
+   <rdg wit="#B1">;</rdg>
+   <rdg wit="#A1">;</rdg>
+   <rdg wit="#F1">;</rdg>
+   <rdg wit="#K">;</rdg>
+</app> the devoted girl resolutely persevering in standing before his body, in the hope it would shield him from his enemies.  There had been some words of reproach from Caonabo to the Carib chief, who had retreated from the first attack, and the air was yet filled with arrows, as this man rushed forward
 <app>
-   <rdg wit="#K #MS">forward</rdg>
-   <rdg wit="#B1">forward,</rdg>
-   <rdg wit="#A1">forward,</rdg>
-   <rdg wit="#F1">forward,</rdg>
+   <rdg wit="#K #MS"></rdg>
+   <rdg wit="#B1">,</rdg>
+   <rdg wit="#A1">,</rdg>
+   <rdg wit="#F1">,</rdg>
 </app> singly, to redeem his name.  Luis met him, firm as the rock 
 <app>
-   <rdg wit="#MS">in his rear.</rdg>
-   <rdg wit="#B1">behind him.</rdg>
-   <rdg wit="#A1">behind him.</rdg>
-   <rdg wit="#F1">behind him.</rdg>
-   <rdg wit="#K">behind him.</rdg>
-</app>  The shock was violent, and the blow that fell on the buckler would have crushed an arm less 
+   <rdg wit="#MS">in his rear</rdg>
+   <rdg wit="#B1">behind him</rdg>
+   <rdg wit="#A1">behind him</rdg>
+   <rdg wit="#F1">behind him</rdg>
+   <rdg wit="#K">behind him</rdg>
+</app>.  The shock was violent, and the blow that fell on the buckler would have crushed an arm less 
 <app>
    <rdg wit="#K #MS #A1">enured</rdg>
    <rdg wit="#B1">inured</rdg>
    <rdg wit="#F1">inured</rdg>
-</app> to such rude 
+</app> to such rude encounters
 <app>
-   <rdg wit="#K #MS">encounters, but</rdg>
-   <rdg wit="#B1">encounters; but</rdg>
-   <rdg wit="#A1">encounters; but</rdg>
-   <rdg wit="#F1">encounters; but</rdg>
-</app> it glanced obliquely from the shield, and the club struck the earth with the weight of a beetle.  Our hero saw that all now depended on a deep impression.  His sword flashed in the bright sun
+   <rdg wit="#K #MS">,</rdg>
+   <rdg wit="#B1">;</rdg>
+   <rdg wit="#A1">;</rdg>
+   <rdg wit="#F1">;</rdg>
+</app> but it glanced obliquely from the shield, and the club struck the earth with the weight of a beetle.  Our hero saw that all now depended on a deep impression.  His sword flashed in the bright sun
 <app>
    <rdg wit="#MS">of the tropics</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#A1"></rdg>
    <rdg wit="#F1"></rdg>
    <rdg wit="#K"></rdg>
-</app>, 
+</app>,
 <app>
    <rdg wit="#MS"> </rdg>
    <rdg wit="#B1">and</rdg>
@@ -4274,15 +3559,15 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#F1">actually</rdg>
    <rdg wit="#K">actually</rdg>
 </app> leaving the body erect for an instant, so keen was the weapon, and so dexterous had been the blow.</p>
-<p>Twenty savages were on the spring, but they 
+           <p>Twenty savages were on the spring, but they stopped
 <app>
-   <rdg wit="#K #MS">stopped</rdg>
-   <rdg wit="#B1">stopped,</rdg>
-   <rdg wit="#A1">stopped,</rdg>
-   <rdg wit="#F1">stopped,</rdg>
+   <rdg wit="#K #MS"></rdg>
+   <rdg wit="#B1">,</rdg>
+   <rdg wit="#A1">,</rdg>
+   <rdg wit="#F1">,</rdg>
 </app> like men transfixed, at this unexpected sight.  Caonabo, 
 <app>
-   <rdg wit="#MS"> </rdg>
+   <rdg wit="#MS"></rdg>
    <rdg wit="#B1">however,</rdg>
    <rdg wit="#A1">however,</rdg>
    <rdg wit="#F1">however,</rdg>
@@ -4302,17 +3587,23 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#F1">loud</rdg>
 </app> report of an arquebuse was heard, followed by the whistling of its deadly 
 <app>
-   <rdg wit="#MS">missive a</rdg>
-   <rdg wit="#B1">missives. A</rdg>
-   <rdg wit="#A1">missives. A</rdg>
-   <rdg wit="#F1">missives. A</rdg>
-   <rdg wit="#K">missive. A</rdg>
-</app> second Haytian fell dead in his tracks.  It exceeded the powers of savage endurance to resist this assault, 
+   <rdg wit="#MS">missive</rdg>
+   <rdg wit="#B1">missives</rdg>
+   <rdg wit="#A1">missives</rdg>
+   <rdg wit="#F1">missives</rdg>
+   <rdg wit="#K">missive</rdg>
+</app><app>
+      <rdg wit="#MS"> a</rdg>
+      <rdg wit="#B1">. A</rdg>
+      <rdg wit="#A1">. A</rdg>
+      <rdg wit="#F1">. A</rdg>
+      <rdg wit="#K">. A</rdg>
+   </app>second Haytian fell dead in his tracks.  It exceeded the powers of savage endurance to resist this assault, which
 <app>
-   <rdg wit="#K #MS">which</rdg>
-   <rdg wit="#B1">which,</rdg>
-   <rdg wit="#A1">which,</rdg>
-   <rdg wit="#F1">which,</rdg>
+   <rdg wit="#K #MS"></rdg>
+   <rdg wit="#B1">,</rdg>
+   <rdg wit="#A1">,</rdg>
+   <rdg wit="#F1">,</rdg>
 </app> to 
 <app>
    <rdg wit="#MS">these</rdg>
@@ -4320,12 +3611,12 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#A1">their</rdg>
    <rdg wit="#F1">their</rdg>
    <rdg wit="#K">their</rdg>
-</app> uninstructed 
+</app> uninstructed minds
 <app>
-   <rdg wit="#K #MS">minds</rdg>
-   <rdg wit="#B1">minds,</rdg>
-   <rdg wit="#A1">minds,</rdg>
-   <rdg wit="#F1">minds,</rdg>
+   <rdg wit="#K #MS"></rdg>
+   <rdg wit="#B1">,</rdg>
+   <rdg wit="#A1">,</rdg>
+   <rdg wit="#F1">,</rdg>
 </app> appeared to come from heaven.  
 <app>
    <rdg wit="#MS">In two minutes niether Caonabo,</rdg>
@@ -4341,38 +3632,38 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#F1">the</rdg>
    <rdg wit="#K">the</rdg>
 </app> arquebuse, which he had taken the precaution to reload.</p>
-<p>The circumstances did not admit of delay.  Not a being of Mattinao&apos;s tribe was to be seen in any 
+<p>The circumstances did not admit of delay.  Not a being of Mattinao&apos;s tribe was to be seen in any direction
 <app>
-   <rdg wit="#K #MS">direction, and</rdg>
-   <rdg wit="#B1">direction; and</rdg>
-   <rdg wit="#A1">direction; and</rdg>
-   <rdg wit="#F1">direction; and</rdg>
-</app> Luis made no doubt they had all fled.  Determined to save  
+   <rdg wit="#K #MS">,</rdg>
+   <rdg wit="#B1">;</rdg>
+   <rdg wit="#A1">;</rdg>
+   <rdg wit="#F1">;</rdg>
+</app> and Luis made no doubt they had all fled.  Determined to save Ozema
 <app>
-   <rdg wit="#K #MS">Ozema, at every hazard,</rdg>
-   <rdg wit="#B1">Ozema at every hazard,</rdg>
-   <rdg wit="#A1">Ozema at every hazard,</rdg>
-   <rdg wit="#F1">Ozema at every hazard,</rdg>
-</app> he now took his way to the river, in order to escape in one of the canoes.  In passing through the town, it was seen that not a house had been 
+   <rdg wit="#K #MS">,</rdg>
+   <rdg wit="#B1"></rdg>
+   <rdg wit="#A1"></rdg>
+   <rdg wit="#F1"></rdg>
+</app> at every hazard, he now took his way to the river, in order to escape in one of the canoes.  In passing through the town, it was seen that not a house had been 
 <app>
-   <rdg wit="#K #MS">plundered, and</rdg>
-   <rdg wit="#B1">plundered; and</rdg>
-   <rdg wit="#A1">plundered; and</rdg>
-   <rdg wit="#F1">plundered; and</rdg>
-</app> the circumstance was commented on by 
+   <rdg wit="#K #MS">,</rdg>
+   <rdg wit="#B1">;</rdg>
+   <rdg wit="#A1">;</rdg>
+   <rdg wit="#F1">;</rdg>
+</app> and the circumstance was commented on by 
 <app>
    <rdg wit="#MS">both</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#A1"></rdg>
    <rdg wit="#F1"></rdg>
    <rdg wit="#K"></rdg>
-</app> the  
+</app> the Spaniards 
 <app>
-   <rdg wit="#MS">Spaniards.</rdg>
-   <rdg wit="#B1">Spaniards, Luis pointing it out to his companion</rdg>
-   <rdg wit="#A1">Spaniards, Luis pointing it out to his companion</rdg>
-   <rdg wit="#F1">Spaniards, Luis pointing it out to his companion</rdg>
-   <rdg wit="#K">Spaniards, Luis pointing it out to his companion</rdg>
+   <rdg wit="#MS">.</rdg>
+   <rdg wit="#B1">, Luis pointing it out to his companion</rdg>
+   <rdg wit="#A1">, Luis pointing it out to his companion</rdg>
+   <rdg wit="#F1">, Luis pointing it out to his companion</rdg>
+   <rdg wit="#K">, Luis pointing it out to his companion</rdg>
 </app> </p>
 <p>&quot;Caonabo--no--no--no--Ozema!--
 <app>
@@ -4414,44 +3705,44 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
 <app>
    <rdg wit="#K #MS #B1 #A1">blew</rdg>
    <rdg wit="#F1">blow</rdg>
-</app> constantly from the eastward, Sancho soon rigged an apology for a sail, 
+</app> constantly from the eastward, Sancho soon rigged an apology for a sail, and
 <app>
-   <rdg wit="#K #MS">and</rdg>
-   <rdg wit="#B1">and,</rdg>
-   <rdg wit="#A1">and,</rdg>
-   <rdg wit="#F1">and,</rdg>
-</app> an hour before the sun set, the party landed on a 
+   <rdg wit="#K #MS"></rdg>
+   <rdg wit="#B1">,</rdg>
+   <rdg wit="#A1">,</rdg>
+   <rdg wit="#F1">,</rdg>
+</app> an hour before the sun set, the party landed on a point
+   <app>
+   <rdg wit="#K #MS">,</rdg>
+   <rdg wit="#B1"></rdg>
+   <rdg wit="#A1"></rdg>
+   <rdg wit="#F1"></rdg>
+</app> that concealed them from the bay
 <app>
-   <rdg wit="#K #MS">point,</rdg>
-   <rdg wit="#B1">point</rdg>
-   <rdg wit="#A1">point</rdg>
-   <rdg wit="#F1">point</rdg>
-</app> that concealed them from the 
-<app>
-   <rdg wit="#MS">bay,</rdg>
-   <rdg wit="#B1">bay;</rdg>
-   <rdg wit="#A1">bay;</rdg>
-   <rdg wit="#F1">bay;</rdg>
-   <rdg wit="#K">bay;</rdg>
+   <rdg wit="#MS">,</rdg>
+   <rdg wit="#B1">;</rdg>
+   <rdg wit="#A1">;</rdg>
+   <rdg wit="#F1">;</rdg>
+   <rdg wit="#K">;</rdg>
 </app> Luis being mindful of the 
 <app>
    <rdg wit="#K #MS #A1">admiral&apos;s</rdg>
    <rdg wit="#B1">Admiral&apos;s</rdg>
    <rdg wit="#F1">Admiral&apos;s</rdg>
-</app> 
+</app> injunction
 <app>
-   <rdg wit="#MS">injunction</rdg>
-   <rdg wit="#B1">injunction,</rdg>
-   <rdg wit="#A1">injunction,</rdg>
-   <rdg wit="#F1">injunction,</rdg>
-   <rdg wit="#K">injunction,</rdg>
-</app> to conceal his  
+   <rdg wit="#MS"></rdg>
+   <rdg wit="#B1">,</rdg>
+   <rdg wit="#A1">,</rdg>
+   <rdg wit="#F1">,</rdg>
+   <rdg wit="#K">,</rdg>
+</app> to conceal his excursion  
 <app>
-   <rdg wit="#MS">excursion</rdg>
-   <rdg wit="#B1">excursion,</rdg>
-   <rdg wit="#A1">excursion,</rdg>
-   <rdg wit="#F1">excursion,</rdg>
-   <rdg wit="#K">excursion,</rdg>
+   <rdg wit="#MS"></rdg>
+   <rdg wit="#B1">,</rdg>
+   <rdg wit="#A1">,</rdg>
+   <rdg wit="#F1">,</rdg>
+   <rdg wit="#K">,</rdg>
 </app> lest others might claim a similar 
 <app>
    <rdg wit="#K #MS">favor.</rdg>
