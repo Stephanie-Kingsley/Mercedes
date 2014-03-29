@@ -11,6 +11,8 @@ margin: 50px auto;
 font-size: 1em;
 text-align: left;}
 
+span {color:red;}
+
 .MS { display: none;}
 .A1 { display: none;}
 .B1 { display: none;}
@@ -20,9 +22,6 @@ header {
 	font-family: Century, Times, Garamond;
 	text-align: left;
 }
-
-#rev {color:red;}
-#orth {color:green;}
 
 blockquote {float:left;}
 

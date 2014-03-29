@@ -123,7 +123,7 @@ There is one point, notwithstanding, concerning which it may be well to be frank
    <rdg wit="#MS #K">,</rdg>
    <rdg wit="#A1 #B1 #F1"></rdg>
 </app> 
-<app type="rev">
+<app type="style">
    <rdg wit="#MS">that</rdg>
    <rdg wit="#A1 #B1 #F1 #K">which</rdg>
 </app> has been given to the world through the agency of a very incompetent and 
@@ -861,7 +861,7 @@ Mattinao led the way
    <rdg wit="#A1">foot-path</rdg>
    <rdg wit="#F1">footpath</rdg>
 </app> 
-<app type="rev">
+<app type="style">
    <rdg wit="#MS">that</rdg>
    <rdg wit="#B1">which</rdg>
    <rdg wit="#F1">which</rdg>
@@ -2045,254 +2045,254 @@ on the score of animation, native frankness, ingenuousness, and all that witcher
    <rdg wit="#B1">during the trial of strength</rdg>
    <rdg wit="#F1">during the trial of strength</rdg>
 </app> did the young man fancy that the expression of the rapture which fairly danced in the eyes of Ozema, was the very counterpart of 
-<app>
+<app type="rev">
    <rdg wit="#MS">that of</rdg>
    <rdg wit="#K #B1 #A1">that of the</rdg>
    <rdg wit="#F1">the</rdg>
 </app> deep-seated delight which had so often beamed on him, from the glances of Mercedes in the tourney; and, at such times 
-<app>
+<app type="punc">
    <rdg wit="#K #MS #A1">,</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#F1"></rdg>
 </app> it struck him that the resemblance between 
-<app>
+<app type="auth_err">
    <rdg wit="#MS"> </rdg>
    <rdg wit="#B1">the</rdg>
    <rdg wit="#A1">the</rdg>
    <rdg wit="#F1">the</rdg>
    <rdg wit="#K">the</rdg>
 </app> two was so
-   <app>
+   <app type="auth_err">
       <rdg wit="#K">strong, as—after some allowances had been made for dress and other sufficiently striking circumstances—almost to render them identical.</rdg>
       <rdg wit="#MS">strong as, after some allowances had been made for dress and other sufficiently striking circumstances almost to render them identical.</rdg>
       <rdg wit="#A1 #B1 #F1">strong as, after some allowance had been made for dress and other sufficiently striking circumstances, to render them almost identical.</rdg>
    </app></p>
 <p>The reader is not to suppose from this, that our hero was actually inconstant to his ancient love.  Far from it.  Mercedes was too deeply enshrined in his heart
-<app>
+<app type="punc">
    <rdg wit="#K #MS #A1">--</rdg>
    <rdg wit="#B1">,</rdg>
    <rdg wit="#F1">,</rdg>
 </app>and Luis, with all his faults, was as warm-hearted 
-<app>
+<app type="comp_err">
    <rdg wit="#K #MS #B1 #A1">and</rdg>
    <rdg wit="#F1">aud</rdg>
 </app> true-hearted a 
-<app>
+<app type="rev">
    <rdg wit="#MS">fellow</rdg>
    <rdg wit="#B1">cavalier</rdg>
    <rdg wit="#A1">cavalier</rdg>
    <rdg wit="#F1">cavalier</rdg>
    <rdg wit="#K">cavalier</rdg>
 </app> as breathed
-<app>
+<app type="punc">
    <rdg wit="#K #MS #A1">--</rdg>
-   <rdg wit="#B1">breathed, </rdg>
-   <rdg wit="#F1">breathed, </rdg>
+   <rdg wit="#B1">, </rdg>
+   <rdg wit="#F1">, </rdg>
 </app>to be so easily dispossessed.  But he was young, distant from her he had so long adored, and was,
-<app>
+<app type="orth">
    <rdg wit="#K #MS">withall</rdg>
    <rdg wit="#B1">withal</rdg>
    <rdg wit="#A1">withal</rdg>
    <rdg wit="#F1">withal</rdg>
 </app>, not altogether insensible to admiration 
-<app>
+<app type="punc">
    <rdg wit="#K #MS #A1"> </rdg>
    <rdg wit="#B1">,</rdg>
    <rdg wit="#F1">,</rdg>
 </app> so artlessly and winningly betrayed by the 
-<app>
+<app type="orth">
    <rdg wit="#K #MS">Indian-girl</rdg>
    <rdg wit="#B1">Indian girl</rdg>
    <rdg wit="#A1">Indian girl</rdg>
    <rdg wit="#F1">Indian girl</rdg>
 </app>.  Had there been the least immodest glance, any proof that art or design lay at the bottom of Ozema&apos;s conduct, he would 
-<app>
+<app type="punc">
    <rdg wit="#K #MS #A1">at once</rdg>
    <rdg wit="#B1">, at once,</rdg>
    <rdg wit="#F1">, at once,</rdg>
 </app> have taken the alarm, and been completely disenthralled from his temporary delusion; but, on the contrary, all was so frank and natural with this artless girl; when she most betrayed the hold he had taken of her imagination, it was done with a simplicity so obvious, a naivete so irrepressible, and an ingenuousness so clearly the 
-<app>
+<app type="comp_err">
    <rdg wit="#K #MS">fruits</rdg>
    <rdg wit="#B1">fruit</rdg>
    <rdg wit="#A1">fruit</rdg>
    <rdg wit="#F1">fruit</rdg>
 </app> of innocence, that it was impossible to suspect artifice.  In a word, our hero merely showed that he was human, by yielding 
-<app>
+<app type="punc">
    <rdg wit="#K #MS #A1"></rdg>
    <rdg wit="#B1">,</rdg>
    <rdg wit="#F1">,</rdg>
 </app> 
-<app>
+<app type="rev">
    <rdg wit="#MS">to</rdg>
    <rdg wit="#B1">in</rdg>
    <rdg wit="#A1">in</rdg>
    <rdg wit="#F1">in</rdg>
    <rdg wit="#K">in</rdg>
 </app> a certain degree to a fascination that, under the circumstances, might well have made 
-<app>
+<app type="comp_err">
    <rdg wit="#K #MS">far</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#A1"></rdg>
    <rdg wit="#F1"></rdg>
 </app> deeper inroads on the faith 
-<app>
+<app type="comp_err">
    <rdg wit="#K #MS">of even men</rdg>
    <rdg wit="#A1 #B1 #F1">even of men</rdg>
 </app> who enjoyed much better reputations for stability of purpose.</p>
 <p>In situations of so much novelty 
-<app>
+<app type="punc">
    <rdg wit="#K #MS #A1">,</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#F1"></rdg>
 </app> time flies swiftly, and Luis himself was astonished when, on looking back, he remembered that he had now been several days with Mattinao, most of which period 
-<app>
+<app type="punc">
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#A1"></rdg>
    <rdg wit="#F1"></rdg>
 </app> had actually been passed in what might not inaptly
-<app>
-   <rdg wit="#K #MS">have been</rdg>
+<app type="auth_err">
+   <rdg wit="#K">have been</rdg>
    <rdg wit="#MS">been</rdg>
    <rdg wit="#B1">be</rdg>
    <rdg wit="#A1">be</rdg>
    <rdg wit="#F1">be</rdg>
 </app> termed the seraglio of the 
-<app>
+<app type="cap">
    <rdg wit="#K #MS #F1 #B1">Cacique</rdg>
    <rdg wit="#A1">cacique</rdg>
 </app>. Sancho of the 
-<app>
+<app type="cap">
    <rdg wit="#K #MS">Ship Yard Gate</rdg>
    <rdg wit="#B1">Ship-yard Gate</rdg>
    <rdg wit="#A1">ship-yard gate</rdg>
    <rdg wit="#F1">Ship-yard Gate</rdg>
 </app> had not been 
-<app>
+<app type="punc">
    <rdg wit="#K #MS">, in the least,</rdg>
    <rdg wit="#B1">in the least</rdg>
    <rdg wit="#A1">in the least</rdg>
    <rdg wit="#F1">in the least</rdg>
 </app> neglected all this time.  He had been a hero, in his own circle, as well as the young noble, nor had he been at all forgetful of his duty on the 
-<app>
+<app type="comp_err">
    <rdg wit="#K #MS #B1 #A1">subject</rdg>
    <rdg wit="#F1">subjet</rdg>
 </app> of searching for gold.  Though he had neither acquired a single word of the Haytian language, nor taught a syllable of Spanish to even one of the laughing nymphs who surrounded him, he had decorated the persons of many of them with 
-<app>
+<app type="orth">
    <rdg wit="#MS">hawks&apos; bells</rdg>
    <rdg wit="#B1">hawk&apos;s-bells</rdg>
    <rdg wit="#A1">hawk&apos;s-bells</rdg>
    <rdg wit="#F1">hawk&apos;s-bells</rdg>
    <rdg wit="#K">hawk&apos;s-bells</rdg>
 </app>, and had contrived to abstract from them, in return, every ornament that resembled the precious metal, which they possessed.  This transfer 
-<app>
+<app type="punc">
    <rdg wit="#K #MS">no doubt</rdg>
    <rdg wit="#B1">,no doubt,</rdg>
    <rdg wit="#A1">, no doubt,</rdg>
    <rdg wit="#F1">, no doubt,</rdg>
 </app> was honestly effected, however, having been made on that 
-<app>
+<app type="orth">
    <rdg wit="#K #MS">favorite</rdg>
    <rdg wit="#B1">favourite</rdg>
    <rdg wit="#A1">favourite</rdg>
    <rdg wit="#F1">favourite</rdg>
 </app> principle of the 
-<app>
+<app type="cap">
    <rdg wit="#K #MS">Free Trade Theorists</rdg>
    <rdg wit="#B1">free trade theorists</rdg>
    <rdg wit="#A1">free trade theorists</rdg>
    <rdg wit="#F1">free trade theorists</rdg>
 </app> , which maintains that trade is merely an exchange of equivalents 
-<app>
+<app type="punc">
    <rdg wit="#K #MS #A1">;</rdg>
    <rdg wit="#B1">,</rdg>
    <rdg wit="#F1">,</rdg>
 </app> overlooking all the adverse circumstances which may happen, just at the moment, to determine the standard of value.  Sancho had his notions of commerce as well as the modern philosophers, and, as he and Luis occasionally met 
-<app>
+<app type="punc">
    <rdg wit="#K #MS #A1"> </rdg>
    <rdg wit="#B1">,</rdg>
    <rdg wit="#F1">,</rdg>
 </app> during their sojourn with Mattinao, he revealed a few of his opinions on this interesting subject, in one of their interviews.</p>
 <p>&quot;I 
-<app>
+<app type="auth_err">
    <rdg wit="#MS">percieve Thou</rdg>
    <rdg wit="#B1">perceive thou</rdg>
    <rdg wit="#A1">perceive thou</rdg>
    <rdg wit="#F1">perceive thou</rdg>
    <rdg wit="#K">perceive thou</rdg>
 </app> hast not forgotten thy passion for doblas, friend Sancho,&quot; said Luis, laughing, as the old seaman exhibited the store of dust and golden plates he had collected; &quot;there is sufficient of the metal 
-<app>
+<app type="rev">
    <rdg wit="#MS"> </rdg>
    <rdg wit="#B1">in thy sack</rdg>
    <rdg wit="#A1">in thy sack</rdg>
    <rdg wit="#F1">in thy sack</rdg>
    <rdg wit="#K">in thy sack</rdg>
 </app> to coin a score of them, each having the royal countenances of our 
-<app>
+<app type="cap">
    <rdg wit="#K #MS">Lord</rdg>
    <rdg wit="#B1">lord</rdg>
    <rdg wit="#A1">lord</rdg>
    <rdg wit="#F1">lord</rdg>
 </app> the King, and our 
-<app>
+<app type="cap">
    <rdg wit="#K #MS">Lady</rdg>
    <rdg wit="#B1">lady</rdg>
    <rdg wit="#A1">lady</rdg>
    <rdg wit="#F1">lady</rdg>
 </app> the Queen!&quot;</p>
 <p>&quot;Double that, Senor Conde 
-<app>
+<app type="punc">
    <rdg wit="#K #MS #A1">;</rdg>
    <rdg wit="#B1">,</rdg>
    <rdg wit="#F1">,</rdg>
 </app> just double that, and all for the price of some seventeen 
-<app>
+<app type="orth">
    <rdg wit="#MS">hawks bells</rdg>
    <rdg wit="#B1">hawk&apos;s-bells</rdg>
    <rdg wit="#A1">hawk&apos;s-bells</rdg>
    <rdg wit="#F1">hawk&apos;s-bells</rdg>
    <rdg wit="#K">hawk&apos;s-bells</rdg>
 </app>, that cost but a handful of maravedis.  By the 
-<app>
+<app type="cap">
    <rdg wit="#K #MS">Mass</rdg>
    <rdg wit="#B1">mass</rdg>
    <rdg wit="#A1">mass</rdg>
    <rdg wit="#F1">mass</rdg>
 </app>! this is a most just and holy trade, and such as it becomes us Christians to carry on.  Here are these savages, they think no more of gold 
-<app>
+<app type="punc">
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#A1"></rdg>
    <rdg wit="#F1"></rdg>
 </app> than your 
-<app>
+<app type="cap">
    <rdg wit="#K #MS">Excellency</rdg>
    <rdg wit="#B1">excellency</rdg>
    <rdg wit="#A1">excellency</rdg>
    <rdg wit="#F1">excellency</rdg>
 </app> thinks of a dead Moor, and to be revenged on them, I hold a 
-<app>
+<app type="orth">
    <rdg wit="#MS">hawk&apos;s bell</rdg>
    <rdg wit="#B1">hawk&apos;s-bell</rdg>
    <rdg wit="#A1">hawk&apos;s-bell</rdg>
    <rdg wit="#F1">hawk&apos;s-bell</rdg>
    <rdg wit="#K">hawk&apos;s-bell</rdg>
 </app> just as cheap.  Let them think as poorly as they please of 
-<app>
+<app type="orth">
    <rdg wit="#MS">thier</rdg>
    <rdg wit="#B1">their</rdg>
    <rdg wit="#A1">their</rdg>
    <rdg wit="#F1">their</rdg>
    <rdg wit="#K">their</rdg>
 </app> ornaments and yellow dust, they will find me just as willing to part with the twenty 
-<app>
+<app type="orth">
    <rdg wit="#MS">hawks&apos; bells</rdg>
    <rdg wit="#B1">hawk&apos;s-bells</rdg>
    <rdg wit="#A1">hawk&apos;s-bells</rdg>
    <rdg wit="#F1">hawk&apos;s-bells</rdg>
    <rdg wit="#K">hawk&apos;s-bells</rdg>
 </app> that remain.  Let them barter away, they will find me as ready as they possibly can be 
-<app>
+<app type="punc">
    <rdg wit="#MS"> </rdg>
    <rdg wit="#B1">,</rdg>
    <rdg wit="#A1">,</rdg>
@@ -2300,13 +2300,13 @@ on the score of animation, native frankness, ingenuousness, and all that witcher
    <rdg wit="#K">,</rdg>
 </app> to give nothing for nothing.&quot;</p>
 <p>&quot;Is this quite honest, Sancho, to rob an Indian of his gold, in exchange for a 
-<app>
+<app type="orth">
    <rdg wit="#K #MS">bawble</rdg>
    <rdg wit="#B1">bauble</rdg>
    <rdg wit="#A1">bauble</rdg>
    <rdg wit="#F1">bauble</rdg>
 </app> that copper so easily purchaseth?  Remember thou art a Castilian, and henceforth give two 
-<app>
+<app type="orth">
    <rdg wit="#MS">hawks&apos; bells</rdg>
    <rdg wit="#B1">hawk&apos;s-bells</rdg>
    <rdg wit="#A1">hawk&apos;s-bells</rdg>
@@ -2314,325 +2314,329 @@ on the score of animation, native frankness, ingenuousness, and all that witcher
    <rdg wit="#K">hawk&apos;s-bells</rdg>
 </app>, where thou hast hitherto given but one.&quot;</p>
 <p>&quot;I never forget my birth, Senor, for happily the 
-<app>
+<app type="cap">
    <rdg wit="#K #MS">Ship Yard</rdg>
    <rdg wit="#B1">ship-yard</rdg>
    <rdg wit="#A1">ship-yard</rdg>
    <rdg wit="#F1">ship-yard</rdg>
 </app> of Moguer is 
-<app>
+<app type="rev">
    <rdg wit="#MS">truly</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#A1"></rdg>
    <rdg wit="#F1"></rdg>
    <rdg wit="#K"></rdg>
 </app> in 
-<app>
+<app type="rev">
    <rdg wit="#MS"> </rdg>
    <rdg wit="#B1">old</rdg>
    <rdg wit="#A1">old</rdg>
    <rdg wit="#F1">old</rdg>
    <rdg wit="#K">old</rdg>
 </app> Spain.  Is not the value of a thing to be settled by what it will bring in the market?  
-<app>
+<app type="cap">
    <rdg wit="#K #MS">Ask</rdg>
    <rdg wit="#B1">ask</rdg>
    <rdg wit="#A1">ask</rdg>
    <rdg wit="#F1">ask</rdg>
 </app> any of our traders 
-<app>
+<app type="punc">
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#A1"></rdg>
    <rdg wit="#F1"></rdg>
 </app> and they will tell you this, which is clear as the sun in the heavens.  When the 
-<app>
+<app type="orth">
    <rdg wit="#K #MS">Venitians</rdg>
    <rdg wit="#B1">Venetians</rdg>
    <rdg wit="#A1">Venetians</rdg>
    <rdg wit="#F1">Venetians</rdg>
 </app> lay before Candia 
-<app>
+<app type="punc">
    <rdg wit="#MS"> </rdg>
    <rdg wit="#B1">,</rdg>
    <rdg wit="#A1">,</rdg>
    <rdg wit="#F1">,</rdg>
    <rdg wit="#K">,</rdg>
 </app> grapes and figs 
-<app>
+<app type="punc">
    <rdg wit="#K #MS"> </rdg>
    <rdg wit="#B1">,</rdg>
    <rdg wit="#A1">,</rdg>
    <rdg wit="#F1">,</rdg>
 </app> and 
-<app>
+<app type="cap">
    <rdg wit="#MS">greek</rdg>
    <rdg wit="#B1">Greek</rdg>
    <rdg wit="#A1">Greek</rdg>
    <rdg wit="#F1">Greek</rdg>
    <rdg wit="#K">Greek</rdg>
 </app> wine 
-<app>
+<app type="punc">
    <rdg wit="#K #MS"> </rdg>
    <rdg wit="#B1">,</rdg>
    <rdg wit="#A1">,</rdg>
    <rdg wit="#F1">,</rdg>
 </app> could be had for the asking 
-<app>
+<app type="punc">
    <rdg wit="#MS">,</rdg>
+   <rdg wit="#B1"></rdg>
+   <rdg wit="#A1"></rdg>
+   <rdg wit="#F1"></rdg>
+   <rdg wit="#K"></rdg>
+</app> 
+<app type="rev">
+   <rdg wit="#MS"></rdg>
    <rdg wit="#B1">in that island</rdg>
    <rdg wit="#A1">in that island</rdg>
    <rdg wit="#F1">in that island</rdg>
    <rdg wit="#K">in that island</rdg>
-</app> while western articles commanded any price.  Oh 
-<app>
+</app> 
+   while western articles commanded any price.  Oh 
+<app type="punc">
    <rdg wit="#K #MS">!</rdg>
    <rdg wit="#B1">,</rdg>
    <rdg wit="#A1">,</rdg>
    <rdg wit="#F1">,</rdg>
 </app> nothing is plainer than the fact that 
-<app>
+<app type="orth">
    <rdg wit="#K #MS #A1">every thing</rdg>
    <rdg wit="#B1">everything</rdg>
    <rdg wit="#F1">everything</rdg>
 </app> hath its price, and it is real trade to give one worthless commodity for another.&quot;</p>
 <p>&quot;If it be honest to profit by the ignorance of another,&quot; answered Luis, who had a nobleman&apos;s contempt for 
-<app>
+<app type="cap">
    <rdg wit="#K #MS">Commerce</rdg>
    <rdg wit="#B1">commerce</rdg>
    <rdg wit="#A1">commerce</rdg>
    <rdg wit="#F1">commerce</rdg>
 </app>, &quot; 
-<app>
+<app type="cap">
    <rdg wit="#K #MS #B1 #A1">then</rdg>
    <rdg wit="#F1">Then</rdg>
 </app> 
-<app>
+<app type="comp_err">
    <rdg wit="#MS">is it</rdg>
    <rdg wit="#K">is it</rdg>
    <rdg wit="#A1 #B1 #F1">it is</rdg>
 </app> just to deceive the child and the idiot.&quot;</p>
 <p>&quot;God forbid, and especially St. Andrew 
-<app>
+<app type="punc">
    <rdg wit="#K #MS"> </rdg>
    <rdg wit="#B1">,</rdg>
    <rdg wit="#A1">,</rdg>
    <rdg wit="#F1">,</rdg>
 </app> my patron, that I should do 
-<app>
+<app type="orth">
    <rdg wit="#K #MS">any thing</rdg>
    <rdg wit="#B1">anything</rdg>
    <rdg wit="#A1">anything</rdg>
    <rdg wit="#F1">anything</rdg>
 </app> so wicked. 
-<app>
+<app type="orth">
    <rdg wit="#MS">Hawk&apos;s bells</rdg>
    <rdg wit="#B1">Hawk&apos;s-bells</rdg>
    <rdg wit="#A1">Hawk&apos;s-bells</rdg>
    <rdg wit="#F1">Hawk&apos;s-bells</rdg>
    <rdg wit="#K">Hawk&apos;s-bells</rdg>
 </app> are of more account than gold, in Hayti, Senor, and happening to know it, I am willing to part with the precious things for the dross.  You see 
-<app>
+<app type="punc">
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#A1"></rdg>
    <rdg wit="#F1"></rdg>
 </app> I am generous instead of being avaricious, for all parties are in Hayti, where the value of the articles must be settled.  It is true, that 
-<app>
+<app type="rev">
    <rdg wit="#MS">by</rdg>
    <rdg wit="#B1">after</rdg>
    <rdg wit="#A1">after</rdg>
    <rdg wit="#F1">after</rdg>
    <rdg wit="#K">after</rdg>
 </app> running great risks at sea, and undergoing great pains and chances 
-<app>
+<app type="punc">
    <rdg wit="#K #MS"> </rdg>
    <rdg wit="#B1">,</rdg>
    <rdg wit="#A1">,</rdg>
    <rdg wit="#F1">,</rdg>
 </app> by carrying this gold to Spain, I may be requited for my trouble, and get enough benefit to make an honest livelihood.  I hope Dona Isabella will have so much feeling for these 
-<app>
+<app type="punc">
    <rdg wit="#MS"> </rdg>
    <rdg wit="#B1">,</rdg>
    <rdg wit="#A1">,</rdg>
    <rdg wit="#F1">,</rdg>
    <rdg wit="#K">,</rdg>
 </app> her new subjects, as to prevent their ever going into the shipping business
-<app>
+<app type="punc">
    <rdg wit="#K #MS">, </rdg>
    <rdg wit="#B1">,--</rdg>
    <rdg wit="#A1">,--</rdg>
    <rdg wit="#F1">,--</rdg>
 </app>a most laborious and dangerous calling, as we both well know.&quot;</p>
 <p>&quot;And why art thou so particular in desiring this 
-<app>
+<app type="orth">
    <rdg wit="#K #MS">favor</rdg>
    <rdg wit="#B1">favour</rdg>
    <rdg wit="#A1">favour</rdg>
    <rdg wit="#F1">favour</rdg>
 </app> in behalf of these poor islanders, and that too, Sancho, at the expense of thine own bones?&quot;</p>
 <p>&quot;Simply, Senor,&quot; answered the knave 
-<app>
+<app type="punc">
    <rdg wit="#K #MS"> </rdg>
    <rdg wit="#B1">,</rdg>
    <rdg wit="#A1">,</rdg>
    <rdg wit="#F1">,</rdg>
 </app> with a cunning leer, 
-<app>
+<app type="comp_err">
    <rdg wit="#K #MS #B1 #A1">&quot;</rdg>
    <rdg wit="#F1"></rdg>
 </app> lest it unsettle 
-<app>
+<app type="cap">
    <rdg wit="#K #MS">Trade</rdg>
    <rdg wit="#B1">trade</rdg>
    <rdg wit="#A1">trade</rdg>
    <rdg wit="#F1">trade</rdg>
 </app> , which ought to be as free and unencumbered as possible.  Here, now, if we Spaniards come to Hayti, we sell one 
-<app>
+<app type="orth">
    <rdg wit="#MS">hawk&apos;s bell,</rdg>
    <rdg wit="#B1">hawk&apos;s-bell</rdg>
    <rdg wit="#A1">hawk&apos;s-bell</rdg>
    <rdg wit="#F1">hawk&apos;s-bell</rdg>
    <rdg wit="#K">hawk&apos;s-bell</rdg>
 </app> for a dobla in gold 
-<app>
+<app type="punc">
    <rdg wit="#MS">,</rdg>
    <rdg wit="#B1">;</rdg>
    <rdg wit="#A1">;</rdg>
    <rdg wit="#F1">;</rdg>
    <rdg wit="#K">;</rdg>
 </app> whereas, were we to give these savages the trouble to come to Spain, a dobla of 
-<app>
+<app type="orth">
    <rdg wit="#MS">thier</rdg>
    <rdg wit="#B1">their</rdg>
    <rdg wit="#A1">their</rdg>
    <rdg wit="#F1">their</rdg>
    <rdg wit="#K">their</rdg>
 </app> gold would buy a hundred  
-<app>
+<app type="orth">
    <rdg wit="#MS">hawk&apos;s bells</rdg>
    <rdg wit="#B1">hawk&apos;s-bells</rdg>
    <rdg wit="#A1">hawk&apos;s-bells</rdg>
    <rdg wit="#F1">hawk&apos;s-bells</rdg>
    <rdg wit="#K">hawk&apos;s-bells</rdg>
 </app>!  No--no--it is right as it is 
-<app>
+<app type="punc">
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1">;</rdg>
    <rdg wit="#A1">;</rdg>
    <rdg wit="#F1">;</rdg>
 </app> and may a double allowance of 
-<app>
+<app type="cap">
    <rdg wit="#K #MS">purgatory</rdg>
    <rdg wit="#B1">Purgatory</rdg>
    <rdg wit="#A1">Purgatory</rdg>
    <rdg wit="#F1">Purgatory</rdg>
 </app> be the lot of him 
-<app>
+<app type="punc">
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#A1"></rdg>
    <rdg wit="#F1"></rdg>
 </app> who wishes to throw any difficulties in the way of a good, honest, free 
-<app>
+<app type="punc">
    <rdg wit="#K #MS #A1"> </rdg>
    <rdg wit="#B1">,</rdg>
    <rdg wit="#F1">,</rdg>
 </app> and civilizing trade, say I.&quot;</p>
 <p>Sancho was thus occupied in explaining his notions of 
-<app>
+<app type="cap">
    <rdg wit="#K #MS">Free Trade</rdg>
    <rdg wit="#B1">free trade</rdg>
    <rdg wit="#A1">free trade</rdg>
    <rdg wit="#F1">free trade</rdg>
-</app>, the great mystification of modern philanthropists, when  there arose such a cry in the village of Mattinao, as is only heard in moments of extreme jeopardy and sudden terror.  The conversation 
-<app>
-   <rdg wit="#K #MS #B1 #A1">took</rdg>
-   <rdg wit="#F1">look</rdg>
-</app> place in the grove, about midway between the town and the private dwellings of the 
-<app>
+</app>, the great mystification of modern philanthropists, when  there arose such a cry in the village of Mattinao, as is only heard in moments of extreme jeopardy and sudden terror.  The conversation took place in the grove, about midway between the town and the private dwellings of the 
+<app type="cap">
    <rdg wit="#K #MS #A1">cacique</rdg>
    <rdg wit="#B1">Cacique</rdg>
    <rdg wit="#F1">Cacique</rdg>
 </app> 
-<app>
+<app type="punc">
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1">;</rdg>
    <rdg wit="#A1">;</rdg>
    <rdg wit="#F1">;</rdg>
 </app> and so implicit had become the confidence the two Spaniards reposed in their friends, that neither had any other arms about his person 
-<app>
+<app type="punc">
    <rdg wit="#K #MS #A1">,</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#F1"></rdg>
 </app> than those furnished by nature.  Luis had left both sword and buckler, half an hour earlier 
-<app>
+<app type="punc">
    <rdg wit="#K #MS #B1 #A1">,</rdg>
    <rdg wit="#F1"></rdg>
 </app> at the feet of Ozema, who had been enacting a mimic hero 
-<app>
+<app type="punc">
    <rdg wit="#MS"> </rdg>
    <rdg wit="#B1">,</rdg>
    <rdg wit="#A1">,</rdg>
    <rdg wit="#F1">,</rdg>
    <rdg wit="#K">,</rdg>
 </app> with his weapons, for their mutual diversion 
-<app>
+<app type="punc">
    <rdg wit="#MS">,</rdg>
    <rdg wit="#B1">;</rdg>
    <rdg wit="#A1">;</rdg>
    <rdg wit="#F1">;</rdg>
    <rdg wit="#K">;</rdg>
 </app> while Sancho had found the arquebuse much too heavy to be carried about for a 
-<app>
+<app type="orth">
    <rdg wit="#K #MS">play thing</rdg>
    <rdg wit="#B1">plaything</rdg>
    <rdg wit="#A1">plaything</rdg>
    <rdg wit="#F1">plaything</rdg>
 </app> .  The last was deposited in the room where he had taken up his comfortable quarters.</p>
 <p>&quot;Can this mean 
-<app>
+<app type="orth">
    <rdg wit="#MS">treachory</rdg>
    <rdg wit="#B1">treachery</rdg>
    <rdg wit="#A1">treachery</rdg>
    <rdg wit="#F1">treachery</rdg>
    <rdg wit="#K">treachery</rdg>
 </app>, Senor?&quot; exclaimed Sancho. &quot;Have these 
-<app>
+<app type="orth">
    <rdg wit="#MS">black guards</rdg>
    <rdg wit="#B1">blackguards</rdg>
    <rdg wit="#A1">blackguards</rdg>
    <rdg wit="#F1">blackguards</rdg>
    <rdg wit="#K">blackguards</rdg>
 </app> found out the true value of  
-<app>
+<app type="orth">
    <rdg wit="#MS">hawk&apos;s bells</rdg>
    <rdg wit="#B1">hawk&apos;s-bells</rdg>
    <rdg wit="#A1">hawk&apos;s-bells</rdg>
    <rdg wit="#F1">hawk&apos;s-bells</rdg>
    <rdg wit="#K">hawk&apos;s-bells</rdg>
-</app>, 
-<app>
+</app>,
+<app type="rev">
    <rdg wit="#MS"> </rdg>
    <rdg wit="#B1">after all,</rdg>
    <rdg wit="#A1">after all,</rdg>
    <rdg wit="#F1">after all,</rdg>
    <rdg wit="#K">after all,</rdg>
 </app> and do they mean  to demand the balance due 
-<app>
+<app type="comp_err">
    <rdg wit="#K #MS #A1"> </rdg>
    <rdg wit="#B1">to</rdg>
    <rdg wit="#F1">to</rdg>
 </app> them?&quot;</p>
 <p>&quot;My life on it, Mattinao 
-<app>
+<app type="punc">
    <rdg wit="#MS">,</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#A1"></rdg>
    <rdg wit="#F1"></rdg>
    <rdg wit="#K"></rdg>
 </app> and all his people are true, Sancho.  This uproar hath a different meaning--hark! is not that the cry of  
-<app>
+<app type="punc">
    <rdg wit="#MS">&quot;Caonabo&quot;?&quot;</rdg>
    <rdg wit="#B1">&apos;Caonabo?&apos;&quot;</rdg>
    <rdg wit="#A1">&apos;Caonabo?&apos;&quot;</rdg>
@@ -2641,609 +2645,588 @@ on the score of animation, native frankness, ingenuousness, and all that witcher
 </app> 
 </p>
 <p>&quot;The very same, Senor!  That is the name of the 
-<app>
-   <rdg wit="#K #MS #A1">Carib cacique</rdg>
-   <rdg wit="#B1">Carrib Cacique</rdg>
-   <rdg wit="#F1">Carrib Cacique</rdg>
-</app>, who is the terror of all these tribes.&quot;</p>
+<app type="orth">
+   <rdg wit="#K #MS #A1">Carib</rdg>
+   <rdg wit="#B1">Carrib</rdg>
+   <rdg wit="#F1">Carrib</rdg>
+</app>
+<app type="cap">
+   <rdg wit="#K #MS #A1">cacique</rdg>
+   <rdg wit="#B1">Cacique</rdg>
+   <rdg wit="#F1">Cacique</rdg>
+</app>
+, who is the terror of all these tribes.&quot;</p>
 <p>&quot;Thy arquebuse, Sancho, if possible; then join me at the dwellings above.  Ozema and the wives of our good friend must be defended, at every hazard!&quot;</p>
 <p>Luis had no sooner given these orders, than he and Sancho separated, the latter running towards the town, which by this time was a scene of wild tumult, while our hero 
-<app>
+<app type="punc">
    <rdg wit="#K #MS">slowly and sullenly</rdg>
    <rdg wit="#B1">, slowly and sullenly,</rdg>
    <rdg wit="#A1">, slowly and sullenly,</rdg>
    <rdg wit="#F1">, slowly and sullenly,</rdg>
 </app> retired towards the private dwellings of the 
-<app>
+<app type="cap">
    <rdg wit="#K #MS #A1">cacique</rdg>
    <rdg wit="#B1">Cacique</rdg>
    <rdg wit="#F1">Cacique</rdg>
 </app>, occasionally looking back, as if 
-<app>
+<app type="rev">
    <rdg wit="#MS">longing</rdg>
    <rdg wit="#B1">he longed</rdg>
    <rdg wit="#A1">he longed</rdg>
    <rdg wit="#F1">he longed</rdg>
    <rdg wit="#K">he longed</rdg>
 </app> to plunge into the thickest of the fray.  Twenty times did he wish for his 
-<app>
+<app type="orth">
    <rdg wit="#K #MS">favorite</rdg>
    <rdg wit="#B1">favourite</rdg>
    <rdg wit="#A1">favourite</rdg>
    <rdg wit="#F1">favourite</rdg>
 </app> charger and a stout lance, when, indeed, it would not have been an extraordinary feat for a knight of his prowess to put to flight a thousand enemies like those who now menaced him.  Often had he singly broken whole ranks of 
-<app>
+<app type="cap">
    <rdg wit="#MS">christian</rdg>
    <rdg wit="#B1">Christian</rdg>
    <rdg wit="#A1">Christian</rdg>
    <rdg wit="#F1">Christian</rdg>
    <rdg wit="#K">Christian</rdg>
 </app> 
-<app>
+<app type="orth">
    <rdg wit="#K #MS">foot soldiers</rdg>
    <rdg wit="#B1">foot-soldiers</rdg>
    <rdg wit="#A1">foot-soldiers</rdg>
    <rdg wit="#F1">foot-soldiers</rdg>
 </app>, and it is well known that 
-<app>
+<app type="comp_err">
    <rdg wit="#K #MS #F1 #A1">solitary</rdg>
    <rdg wit="#B1">soilitary</rdg>
 </app> individuals 
-<app>
+<app type="punc">
    <rdg wit="#K #MS"> </rdg>
    <rdg wit="#B1">,</rdg>
    <rdg wit="#A1">,</rdg>
    <rdg wit="#F1">,</rdg>
 </app> when mounted, subsequently drove hundreds of the natives before them.</p>
 <p>The alarm 
-<app>
+<app type="comp_err">
    <rdg wit="#K #MS">had</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#A1"></rdg>
    <rdg wit="#F1"></rdg>
 </app> reached the dwellings of Mattinao 
-<app>
+<app type="punc">
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#A1"></rdg>
    <rdg wit="#F1"></rdg>
 </app> before our hero.  When he entered the house of Ozema, he found 
-<app>
+<app type="rev">
    <rdg wit="#MS">her</rdg>
    <rdg wit="#B1">its mistress</rdg>
    <rdg wit="#A1">its mistress</rdg>
    <rdg wit="#F1">its mistress</rdg>
    <rdg wit="#K">its mistress</rdg>
 </app> surrounded by fifty females, some of whom had already ascended from the town below, 
-<app>
+<app type="rev">
    <rdg wit="#MS">and every tongue</rdg>
    <rdg wit="#B1">each of whom</rdg>
    <rdg wit="#A1">each of whom</rdg>
    <rdg wit="#F1">each of whom</rdg>
    <rdg wit="#K">each of whom</rdg>
 </app> was 
-<app>
+<app type="rev">
    <rdg wit="#MS"> </rdg>
    <rdg wit="#B1">eagerly</rdg>
    <rdg wit="#A1">eagerly</rdg>
    <rdg wit="#F1">eagerly</rdg>
    <rdg wit="#K">eagerly</rdg>
 </app> uttering the terrible name of &quot;Caonabo.&quot;  Ozema herself 
-<app>
+<app type="punc">
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#A1"></rdg>
    <rdg wit="#F1"></rdg>
 </app> was the most 
-<app>
+<app type="comp_err">
    <rdg wit="#K #MS #F1 #A1">collected</rdg>
    <rdg wit="#B1">eollected</rdg>
 </app> 
-<app>
+<app type="rev">
    <rdg wit="#MS"></rdg>
    <rdg wit="#B1">of them all</rdg>
    <rdg wit="#A1">of them all</rdg>
    <rdg wit="#F1">of them all</rdg>
    <rdg wit="#K">of them all</rdg>
 </app>, though it was apparent that, from some cause, she was an object of particular solicitude with 
-<app>
+<app type="rev">
    <rdg wit="#MS">all</rdg>
    <rdg wit="#B1">those</rdg>
    <rdg wit="#A1">those</rdg>
    <rdg wit="#F1">those</rdg>
    <rdg wit="#K">those</rdg>
 </app> around her.  As Luis entered the apartment, the wives of Mattinao were pressing around the 
-<app>
+<app type="cap">
    <rdg wit="#K #MS #A1">princess</rdg>
    <rdg wit="#B1">Princess</rdg>
    <rdg wit="#F1">Princess</rdg>
 </app> 
-<app>
+<app type="punc">
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1">;</rdg>
    <rdg wit="#A1">;</rdg>
    <rdg wit="#F1">;</rdg>
 </app> and he soon gathered from 
-<app>
+<app type="orth">
    <rdg wit="#MS">thier</rdg>
    <rdg wit="#B1">their</rdg>
    <rdg wit="#A1">their</rdg>
    <rdg wit="#F1">their</rdg>
    <rdg wit="#K">their</rdg>
 </app> words and entreaties, that they urged her to fly, lest she should fall into the hands of the 
-<app>
+<app type="orth">
    <rdg wit="#K #MS #B1 #A1">Carib</rdg>
    <rdg wit="#F1">Carrib</rdg>
 </app> chief.  He even fancied, and he fancied it justly, that the rest of the females supposed the seizure of the 
-<app>
+<app type="cap">
    <rdg wit="#K #MS #A1">cacique</rdg>
    <rdg wit="#B1">Cacique</rdg>
    <rdg wit="#F1">Cacique</rdg>
 </app> &apos;s beautiful sister 
-<app>
+<app type="rev">
    <rdg wit="#MS">was</rdg>
    <rdg wit="#B1">to be</rdg>
    <rdg wit="#A1">to be</rdg>
    <rdg wit="#F1">to be</rdg>
    <rdg wit="#K">to be</rdg>
 </app> the real object of the sudden attack.  This conjecture 
-<app>
+<app type="punc">
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#A1"></rdg>
    <rdg wit="#F1"></rdg>
 </app> in no manner lessened  
-   <app>
-      <rdg wit="#K #MS">Luis&apos;</rdg>
-      <rdg wit="#B1">Luis&apos;s</rdg>
-      <rdg wit="#A1">Luis&apos;s</rdg>
-      <rdg wit="#F1">Luis&apos;s</rdg>
-   </app>
-<app>
+<app type="orth">
+   <rdg wit="#K #MS">Luis&apos;</rdg>
+   <rdg wit="#B1">Luis&apos;s</rdg>
+   <rdg wit="#A1">Luis&apos;s</rdg>
+   <rdg wit="#F1">Luis&apos;s</rdg>
+</app>
+<app type="orth">
    <rdg wit="#K #MS">ardor</rdg>
    <rdg wit="#B1">ardour</rdg>
    <rdg wit="#A1">ardour</rdg>
    <rdg wit="#F1">ardour</rdg>
 </app> in the defence.  The moment Ozema caught sight of him, she flew to his side, clasping her hands, and uttering the name of &quot;Caonabo,&quot; in a tone that would have melted a 
-<app>
+<app type="rev">
    <rdg wit="#MS">rock</rdg>
    <rdg wit="#B1">heart of stone</rdg>
    <rdg wit="#A1">heart of stone</rdg>
    <rdg wit="#F1">heart of stone</rdg>
    <rdg wit="#K">heart of stone</rdg>
 </app> .  At the same time, her eyes spoke a language of hope, confidence 
-<app>
+<app type="punc">
    <rdg wit="#K #MS #A1"> </rdg>
    <rdg wit="#B1">,</rdg>
    <rdg wit="#F1">,</rdg>
 </app> and petition that was not 
-<app>
+<app type="rev">
    <rdg wit="#MS">needed</rdg>
    <rdg wit="#B1">necessary</rdg>
    <rdg wit="#A1">necessary</rdg>
    <rdg wit="#F1">necessary</rdg>
    <rdg wit="#K">necessary</rdg>
 </app> to enlist 
-<app>
+<app type="rev">
    <rdg wit="#MS">all</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#A1"></rdg>
    <rdg wit="#F1"></rdg>
    <rdg wit="#K"></rdg>
 </app> our hero&apos;s resolution on her side.  In a moment the sword of the young cavalier was in his hand, and the buckler 
-<app>
+<app type="rev">
    <rdg wit="#MS">was</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#A1"></rdg>
    <rdg wit="#F1"></rdg>
    <rdg wit="#K"></rdg>
 </app> on his arm.  He then assured the 
-<app>
+<app type="cap">
    <rdg wit="#K #MS #A1">princess</rdg>
    <rdg wit="#B1">Princess</rdg>
    <rdg wit="#F1">Princess</rdg>
 </app> of his zeal, in the best manner he could, by placing the buckler before her throbbing breast, and waving the sword, as in defiance of her enemies 
-<app>
+<app type="punc">
    <rdg wit="#MS">.  No</rdg>
    <rdg wit="#B1">: no</rdg>
    <rdg wit="#A1">: no</rdg>
    <rdg wit="#F1">: no</rdg>
    <rdg wit="#K">: no</rdg>
 </app> sooner was this pledge given 
-<app>
+<app type="punc">
    <rdg wit="#K #MS #A1">,</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#F1"></rdg>
 </app> than every other female disappeared, some flying to the rescue of their children, and all 
-<app>
+<app type="orth">
    <rdg wit="#K #MS">endeavoring</rdg>
    <rdg wit="#B1">endeavouring</rdg>
    <rdg wit="#A1">endeavouring</rdg>
    <rdg wit="#F1">endeavouring</rdg>
 </app> to find places of concealment.  By this singular and unexpected desertion, Luis found himself, for the first time since they had met, alone with Ozema.</p>
 <p>To remain in the house would be to suffer the enemy to approach unseen 
-<app>
+<app type="punc">
    <rdg wit="#K #MS #A1">,</rdg>
    <rdg wit="#B1">;</rdg>
    <rdg wit="#F1">;</rdg>
 </app> and the shrieks and cries sufficiently announced that 
-<app>
+<app type="punc">
    <rdg wit="#K">, each moment,</rdg>
    <rdg wit="#MS">, each moment</rdg>
    <rdg wit="#A1">, each moment,</rdg>
    <rdg wit="#B1">each moment</rdg>
    <rdg wit="#F1">each moment</rdg>
 </app> the danger drew nearer.  Luis 
-<app>
+<app type="punc">
    <rdg wit="#K #MS">, accordingly,</rdg>
    <rdg wit="#B1">accordingly</rdg>
    <rdg wit="#A1">accordingly</rdg>
    <rdg wit="#F1">accordingly</rdg>
 </app> made a sign for the girl to follow him, first rolling the turban into a bundle 
-<app>
+<app type="punc">
    <rdg wit="#MS #F1 #B1">,</rdg>
    <rdg wit="#A1"></rdg>
    <rdg wit="#K"></rdg>
 </app> and placing it 
-<app>
-   <rdg wit="#MS">in</rdg>
-   <rdg wit="#B1">on</rdg>
-   <rdg wit="#A1">on</rdg>
-   <rdg wit="#F1">on</rdg>
-   <rdg wit="#K">on</rdg>
-</app> her 
-<app>
-   <rdg wit="#MS">arms</rdg>
-   <rdg wit="#B1">arm</rdg>
-   <rdg wit="#A1">arm</rdg>
-   <rdg wit="#F1">arm</rdg>
-   <rdg wit="#K">arm</rdg>
+<app type="rev">
+   <rdg wit="#MS">in her arms</rdg>
+   <rdg wit="#B1">on her arm</rdg>
+   <rdg wit="#A1">on her arm</rdg>
+   <rdg wit="#F1">on her arm</rdg>
+   <rdg wit="#K">on her arm</rdg>
 </app>, that it might serve her, at need, as a species of shield against the hostile arrows.  While he was thus employed, Ozema&apos;s head fell upon his breast, and the excited girl burst into tears.  This display of weakness, however, lasted but a moment 
-<app>
+<app type="punc">
    <rdg wit="#K #MS #A1">,</rdg>
    <rdg wit="#B1">;</rdg>
    <rdg wit="#F1">;</rdg>
 </app> when she aroused herself, smiled through her tears, pressed the arm of Luis convulsively 
-<app>
+<app type="punc">
    <rdg wit="#K #MS #F1 #B1">,</rdg>
    <rdg wit="#A1"></rdg>
 </app> and became the Indian heroine 
-<app>
+<app type="punc">
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#A1"></rdg>
    <rdg wit="#F1"></rdg>
 </app> again.  They then left the building together.</p>
 <p>Luis soon perceived that his retreat from the house had not been made a moment too soon.  The family of Mattinao had already disappeared, and a strong party of the invaders was in full view, rushing madly  up the grove, silent, but evidently bent on seizing their prey.  He felt Ozema, who clung to his arm, tremble violently, and then he heard her murmuring
-<app>
+<app type="punc">
    <rdg wit="#K #MS">--</rdg>
    <rdg wit="#B1">,--</rdg>
    <rdg wit="#A1">,--</rdg>
    <rdg wit="#F1">,--</rdg>
 </app> </p> 
-<p><app>
+<p><app type="punc">
    <rdg wit="#K #MS">&quot;Caonabo--no--no--no.&quot;</rdg>
    <rdg wit="#B1">&quot;Caonabo,--no--no--no!&quot;</rdg>
    <rdg wit="#A1">&quot;Caonabo,--no--no--no!&quot;</rdg>
    <rdg wit="#F1">&quot;Caonabo,--no--no--no!&quot;</rdg>
 </app> </p><p>The young Indian 
-<app>
+<app type="cap">
    <rdg wit="#K #MS #A1">princess</rdg>
    <rdg wit="#B1">Princess</rdg>
    <rdg wit="#F1">Princess</rdg>
 </app> had caught the Spanish monosyllable of dissent 
-<app>
+<app type="punc">
    <rdg wit="#K #MS #A1">,</rdg>
    <rdg wit="#B1">;</rdg>
    <rdg wit="#F1">;</rdg>
 </app> and Luis understood this exclamation to express her strong disinclination to become a wife of the Carib chief.  His resolution  to protect her, or to die, was in no manner lessened by this involuntary betrayal of 
-<app>
+<app type="rev">
    <rdg wit="#MS"> </rdg>
    <rdg wit="#B1">her</rdg>
    <rdg wit="#A1">her</rdg>
    <rdg wit="#F1">her</rdg>
    <rdg wit="#K">her</rdg>
 </app> feelings, 
-<app>
+<app type="style">
    <rdg wit="#MS">that</rdg>
    <rdg wit="#B1">which</rdg>
    <rdg wit="#A1">which</rdg>
    <rdg wit="#F1">which</rdg>
    <rdg wit="#K">which</rdg>
 </app> he could not but think might have some 
-<app>
+<app type="orth">
    <rdg wit="#K #MS #F1 #B1">connection</rdg>
    <rdg wit="#A1">connexion</rdg>
 </app> with himself; for, while our hero was both 
-<app>
+<app type="orth">
    <rdg wit="#K #MS">honorable</rdg>
    <rdg wit="#B1">honourable</rdg>
    <rdg wit="#A1">honourable</rdg>
    <rdg wit="#F1">honourable</rdg>
 </app> and generous, he was human, and 
-<app>
+<app type="punc">
    <rdg wit="#K #MS">consequently</rdg>
    <rdg wit="#B1">, consequently,</rdg>
    <rdg wit="#A1">, consequently,</rdg>
    <rdg wit="#F1">, consequently,</rdg>
 </app> well disposed to take a 
-<app>
+<app type="orth">
    <rdg wit="#K #MS">favorable</rdg>
    <rdg wit="#B1">favourable</rdg>
    <rdg wit="#A1">favourable</rdg>
    <rdg wit="#F1">favourable</rdg>
 </app>  view of his own powers of pleasing.  It was only in 
-<app>
+<app type="orth">
    <rdg wit="#K #MS #F1 #B1">connection</rdg>
    <rdg wit="#A1">connexion</rdg>
 </app> with Mercedes, that Luis de Bobadilla was humble.</p>
 <p>A soldier almost from childhood, the young 
-<app>
+<app type="cap">
    <rdg wit="#K #MS #A1">count</rdg>
    <rdg wit="#B1">Count</rdg>
    <rdg wit="#F1">Count</rdg>
 </app> looked hastily around him for a position that would 
-<app>
+<app type="orth">
    <rdg wit="#K #MS">favor</rdg>
    <rdg wit="#B1">favour</rdg>
    <rdg wit="#A1">favour</rdg>
    <rdg wit="#F1">favour</rdg>
 </app> his means of defence, and which would render his arms the most available.  Luckily 
-<app>
+<app type="punc">
    <rdg wit="#K #MS"> </rdg>
    <rdg wit="#B1">,</rdg>
    <rdg wit="#A1">,</rdg>
    <rdg wit="#F1">,</rdg>
 </app> one offered so near him, that it required but a minute to occupy it.  The terrace lay against a precipice of rocks 
-<app>
+<app type="punc">
    <rdg wit="#K #MS #A1">,</rdg>
    <rdg wit="#B1">;</rdg>
    <rdg wit="#F1">;</rdg>
 </app>  and, a hundred feet from the house, was a spot where the face of this precipice was angular, throwing forward a wall on each side to some distance, while the cliff above  overhung the base sufficiently to remove all danger from falling stones.  In the angle were several large fragments of rock that 
-<app>
+<app type="rev">
    <rdg wit="#MS">could</rdg>
+   <rdg wit="#P1">would</rdg>
+   <rdg wit="#P2">would</rdg>
    <rdg wit="#B1">would</rdg>
    <rdg wit="#A1">would</rdg>
    <rdg wit="#F1">would</rdg>
    <rdg wit="#K">would</rdg>
 </app> afford shelter against arrows, 
-<app>
-   <rdg wit="#MS #F1 #B1">while</rdg>
-   <rdg wit="#A1">and,</rdg>
-   <rdg wit="#K">and,</rdg>
-</app> there 
-<app>
-   <rdg wit="#MS #F1 #B1">was</rdg>
-   <rdg wit="#A1">being</rdg>
-   <rdg wit="#K">being</rdg>
+<app type="rev">
+   <rdg wit="#MS #F1 #B1">while there was</rdg>
+   <rdg wit="#P1">while there was</rdg>
+   <rdg wit="#P2">and, there being</rdg>
+   <rdg wit="#A1">and, there being</rdg>
+   <rdg wit="#K">and, there being</rdg>
 </app> a sufficient space of 
-<app>
+<app type="orth">
    <rdg wit="#K #MS">green sward</rdg>
    <rdg wit="#B1">greensward</rdg>
-   <rdg wit="#A1">greensward</rdg>
+   <rdg wit="#A1 #P1 #P2">greensward</rdg>
    <rdg wit="#F1">greensward</rdg>
 </app> before them, on which a knight might well display his prowess 
-<app>
+<app type="comp_err">
    <rdg wit="#MS">.  When</rdg>
+   <rdg wit="#P1">when</rdg>
+   <rdg wit="#P2">when</rdg>
    <rdg wit="#B1">when</rdg>
    <rdg wit="#A1">when</rdg>
    <rdg wit="#F1">when</rdg>
    <rdg wit="#K">when</rdg>
 </app> in possession of this position 
-<app>
-   <rdg wit="#K #MS #A1">,</rdg>
+<app type="punc">
+   <rdg wit="#K #MS #P1 #P2 #A1">,</rdg>
    <rdg wit="#B1">;</rdg>
    <rdg wit="#F1">;</rdg>
 </app> our hero felt himself strong, if not impregnable, since he could be assailed only in front.  Ozema was stationed  behind one of the fragments of the fallen rocks, her person only half concealed 
-<app>
+<app type="punc">
    <rdg wit="#K #MS #A1">,</rdg>
    <rdg wit="#B1">;</rdg>
    <rdg wit="#F1">;</rdg>
 </app> however, concern for Luis, and curiosity as related to her enemies, equally inducing her to expose her head and beautiful bust.</p>
 <p>Luis was scarcely in possession of this post, ere a dozen Indians were drawn up in a line 
-<app>
+<app type="punc">
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#A1"></rdg>
    <rdg wit="#F1"></rdg>
 </app> at the distance of fifty yards in his front.  They were armed with bows, war-clubs 
-<app>
+<app type="punc">
    <rdg wit="#K #MS"> </rdg>
    <rdg wit="#B1">,</rdg>
    <rdg wit="#A1">,</rdg>
    <rdg wit="#F1">,</rdg>
 </app> and spears.  Being 
-<app>
+<app type="rev">
    <rdg wit="#MS">entirely</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#A1"></rdg>
    <rdg wit="#F1"></rdg>
    <rdg wit="#K"></rdg>
 </app> without other defensive armour than his buckler, the young man would 
-<app>
+<app type="rev">
    <rdg wit="#MS">now</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#A1"></rdg>
    <rdg wit="#F1"></rdg>
    <rdg wit="#K"></rdg>
 </app> have thought his situation sufficiently critical, did he not know that the archery of the natives was 
-<app>
+<app type="orth">
    <rdg wit="#K #MS">any thing</rdg>
    <rdg wit="#B1">anything</rdg>
    <rdg wit="#A1">anything</rdg>
    <rdg wit="#F1">anything</rdg>
 </app> but formidable.  Their arrows would kill 
-<app>
+<app type="punc">
    <rdg wit="#K #MS"> </rdg>
    <rdg wit="#B1">,</rdg>
    <rdg wit="#A1">,</rdg>
    <rdg wit="#F1">,</rdg>
 </app> certainly, when shot at short distances, and against the naked skin, but it might be questioned if they would penetrate the stout velvet in which Luis was encased, and fifty yards was not near enough to excite 
-<app>
+<app type="rev">
    <rdg wit="#MS">much</rdg>
    <rdg wit="#B1">undue</rdg>
    <rdg wit="#A1">undue</rdg>
    <rdg wit="#F1">undue</rdg>
    <rdg wit="#K">undue</rdg>
 </app> alarm.  The 
-<app>
-   <rdg wit="#MS #F1 #B1">besieged</rdg>
-   <rdg wit="#A1">young man</rdg>
+<app type="rev">
+   <rdg wit="#MS #P1 #F1 #B1">besieged</rdg>
+   <rdg wit="#A1 #P1">young man</rdg>
    <rdg wit="#K">young man</rdg>
 </app> did not dare to retreat to the rocks 
-<app>
+<app type="punc">
    <rdg wit="#K #MS #A1">,</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#F1"></rdg>
 </app> as a clear space was indispensable for the free use of his good sword, and to that weapon alone he looked for his eventual triumph.</p>
 <p>It was 
-<app>
+<app type="punc">
    <rdg wit="#K #MS">perhaps</rdg>
    <rdg wit="#B1">, perhaps,</rdg>
    <rdg wit="#A1">, perhaps,</rdg>
    <rdg wit="#F1">, perhaps,</rdg>
-</app> fortunate for our hero that 
-<app>
-   <rdg wit="#MS">Caonable</rdg>
-   <rdg wit="#B1">Caonabo</rdg>
-   <rdg wit="#A1">Caonabo</rdg>
-   <rdg wit="#F1">Caonabo</rdg>
-   <rdg wit="#K">Caonabo</rdg>
-</app> 
-<app>
+</app> fortunate for our hero that Caonabo 
+<app type="punc">
    <rdg wit="#K #MS">, himself,</rdg>
    <rdg wit="#B1">himself</rdg>
    <rdg wit="#A1">himself</rdg>
    <rdg wit="#F1">himself</rdg>
 </app> was not with the party which 
-<app>
+<app type="orth">
    <rdg wit="#MS #A1">beleagured</rdg>
    <rdg wit="#B1">beleaguered</rdg>
    <rdg wit="#F1">beleaguered</rdg>
    <rdg wit="#K">beleaguered</rdg>
 </app>  him.  That redoubtable chieftain, who had been led to a distance in pursuit of the flying females, under 
-<app>
+<app type="rev">
    <rdg wit="#MS">the</rdg>
    <rdg wit="#B1">a</rdg>
    <rdg wit="#A1">a</rdg>
    <rdg wit="#F1">a</rdg>
    <rdg wit="#K">a</rdg>
 </app> belief that 
-<app>
+<app type="rev">
    <rdg wit="#MS">her</rdg>
    <rdg wit="#B1">she</rdg>
    <rdg wit="#A1">she</rdg>
    <rdg wit="#F1">she</rdg>
    <rdg wit="#K">she</rdg>
 </app> he sought was among them, would doubtless have brought the matter to an immediate issue by a desperate charge, when numbers might have prevailed against courage and skill.  The actual assailants chose a different course, and began to poise their bows.  One of the most skilful among them drew an arrow to the head, and let it fly .  The missile glanced from the buckler of the knight, and struck the 
-<app>
-   <rdg wit="#MS #F1 #B1">wall</rdg>
-   <rdg wit="#A1">hill</rdg>
+<app type="rev">
+   <rdg wit="#MS #P1 #F1 #B1">wall</rdg>
+   <rdg wit="#A1 #P2">hill</rdg>
    <rdg wit="#K">hill</rdg>
 </app> behind him, as lightly as if the parties had been at their idle sports.  Another followed, and Luis turned it aside with his sword, disdaining to raise his 
-<app>
+<app type="orth">
    <rdg wit="#MS">shild</rdg>
    <rdg wit="#B1">shield</rdg>
    <rdg wit="#A1">shield</rdg>
    <rdg wit="#F1">shield</rdg>
    <rdg wit="#K">shield</rdg>
 </app> against such a trifle.  This cool manner of 
-<app>
+<app type="orth">
    <rdg wit="#MS">recieving</rdg>
    <rdg wit="#B1">receiving</rdg>
    <rdg wit="#A1">receiving</rdg>
    <rdg wit="#F1">receiving</rdg>
    <rdg wit="#K">receiving</rdg>
 </app> their 
-<app>
-   <rdg wit="#MS #F1 #B1">assault</rdg>
-   <rdg wit="#A1">assaults</rdg>
+<app type="rev">
+   <rdg wit="#MS #P1 #F1 #B1">assault</rdg>
+   <rdg wit="#A1 #P2">assaults</rdg>
    <rdg wit="#K">assaults</rdg>
 </app> caused the Indians to raise a shout 
-<app>
+<app type="punc">
    <rdg wit="#K #MS">;</rdg>
-   <rdg wit="#B1">,</rdg>
+   <rdg wit="#B1 #P1 #P2">,</rdg>
    <rdg wit="#A1">,</rdg>
    <rdg wit="#F1">,</rdg>
 </app> whether in admiration or rage, Luis could not tell.</p>
 <p>The next attack was more judicious, being made on a principle that Napoleon is said to have adopted in directing discharges of his artillery.  All 
-<app>
-   <rdg wit="#MS #F1 #B1">there</rdg>
-   <rdg wit="#A1">those</rdg>
+<app type="rev">
+   <rdg wit="#MS #P1 #F1 #B1">there</rdg>
+   <rdg wit="#A1 #P2">those</rdg>
    <rdg wit="#K">those</rdg>
 </app> who had bows, some six or eight, drew their arrows together, and the weapons came rattling on the buckler of the assailed in a single flight.  It was not easy to escape altogether from such a combined assault, and our hero received one or two bruises from glancing arrows, though no blood followed the blows.  A second attempt of the same nature was about to be made, when the alarmed girl rushed from her place  of concealment, and, like the Pocahontas of our own history, 
-<app>
+<app type="rev">
    <rdg wit="#MS">placed</rdg>
-   <rdg wit="#B1">threw</rdg>
-   <rdg wit="#A1">threw</rdg>
+   <rdg wit="#B1 #P1">threw</rdg>
+   <rdg wit="#A1 #P2">threw</rdg>
    <rdg wit="#F1">threw</rdg>
    <rdg wit="#K">threw</rdg>
-</app> herself before Luis, with her 
-<app>
-   <rdg wit="#MS">armes</rdg>
-   <rdg wit="#B1">arms</rdg>
-   <rdg wit="#A1">arms</rdg>
-   <rdg wit="#F1">arms</rdg>
-   <rdg wit="#K">arms</rdg>
-</app> meekly 
-<app>
+</app> herself before Luis, with her arms meekly 
+<app type="rev">
    <rdg wit="#MS">folded</rdg>
-   <rdg wit="#B1">placed</rdg>
+   <rdg wit="#B1 #P1 #P2">placed</rdg>
    <rdg wit="#A1">placed</rdg>
    <rdg wit="#F1">placed</rdg>
    <rdg wit="#K">placed</rdg>
 </app> on her bosom.  As soon as she appeared 
-<app>
+<app type="punc">
    <rdg wit="#K #MS"> </rdg>
    <rdg wit="#B1">,</rdg>
-   <rdg wit="#A1">,</rdg>
+   <rdg wit="#A1 #P1 #P2">,</rdg>
    <rdg wit="#F1">,</rdg>
 </app> there was a cry of 
-<app>
+<app type="style">
    <rdg wit="#K #MS">&quot;Ozema&quot;--&quot;Ozema&quot;</rdg>
    <rdg wit="#B1">&quot;Ozema, Ozema,&quot;</rdg>
-   <rdg wit="#A1">&quot;Ozema&quot;--&quot;Ozema,&quot;</rdg>
+   <rdg wit="#A1 #P1 #P2">&quot;Ozema&quot;--&quot;Ozema,&quot;</rdg>
    <rdg wit="#F1">&quot;Ozema, Ozema,&quot;</rdg>
 </app> among the assailants, who were not Caribs, as 
-<app>
+<app type="rev">
    <rdg wit="#MS"> </rdg>
-   <rdg wit="#B1">all</rdg>
-   <rdg wit="#A1">all</rdg>
+   <rdg wit="#B1 #P1">all</rdg>
+   <rdg wit="#A1 #P2">all</rdg>
    <rdg wit="#F1">all</rdg>
    <rdg wit="#K">all</rdg>
 </app> will understand who are familiar with the island history, but milder Haytians 
-<app>
+<app type="rev">
    <rdg wit="#MS">who were</rdg>
-   <rdg wit="#B1">,</rdg>
-   <rdg wit="#A1">,</rdg>
+   <rdg wit="#B1 #P1">,</rdg>
+   <rdg wit="#A1 P2">,</rdg>
    <rdg wit="#F1">,</rdg>
    <rdg wit="#K">,</rdg>
 </app> governed by a Carib chief.</p>
 <p>In vain Luis 
-<app>
+<app type="orth">
    <rdg wit="#K #MS">endeavored</rdg>
-   <rdg wit="#B1">endeavoured</rdg>
+   <rdg wit="#B1 #P1 #P2">endeavoured</rdg>
    <rdg wit="#A1">endeavoured</rdg>
    <rdg wit="#F1">endeavoured</rdg>
 </app> to persuade the devoted girl  to withdraw.  She thought his life in danger, and no language, had he been able to exert his eloquence on the occasion, could have induced her to leave him exposed to such  a danger.  As the Indians were 
-<app>
+<app type="orth">
    <rdg wit="#K #MS">endeavoring</rdg>
-   <rdg wit="#B1">endeavouring</rdg>
-   <rdg wit="#A1">endeavouring</rdg>
+   <rdg wit="#B1 #P1">endeavouring</rdg>
+   <rdg wit="#A1 #P2">endeavouring</rdg>
    <rdg wit="#F1">endeavouring</rdg>
 </app> to obtain chances  at the person of Luis without killing the 
-<app>
-   <rdg wit="#K #MS #A1">princess</rdg>
+<app type="cap">
+   <rdg wit="#K #MS #P1 #P2 #A1">princess</rdg>
    <rdg wit="#B1">Princess</rdg>
    <rdg wit="#F1">Princess</rdg>
-</app> , he saw there remained no alternative but a retreat behind the 
-<app>
-   <rdg wit="#MS">fragment</rdg>
-   <rdg wit="#B1">fragments</rdg>
-   <rdg wit="#A1">fragments</rdg>
-   <rdg wit="#F1">fragments</rdg>
-   <rdg wit="#K">fragments</rdg>
-</app> of rock.  Just as he obtained 
+</app> , he saw there remained no alternative but a retreat behind the fragments of rock.  Just as he obtained 
 <app>
    <rdg wit="#K #MS #A1">this</rdg>
    <rdg wit="#B1">the</rdg>
