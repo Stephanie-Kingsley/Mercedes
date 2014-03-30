@@ -1630,20 +1630,31 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
 <app type="ms">
    <rdg wit="#MS"><add>pure</add></rdg>
    <rdg wit="#P2 #P1 #K #A1 #B1 #F1">pure</rdg>
-</app> gold, rudely wrought, was suspended from her neck by a string of small 
+</app> gold, rudely wrought, was suspended from her neck by a string of 
 <app type="punc">
-   <rdg wit="#K #MS">,</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#A1 #P1 #P2"></rdg>
-   <rdg wit="#F1"></rdg>
-</app> but gorgeous shells. Bracelets of the latter were on her pretty wrists, and two light bands of gold encircled 
+   <rdg wit="#MS"><add type="dark">small, but</add></rdg>
+   <rdg wit="K">small, but</rdg>
+   <rdg wit="#F1 #B1 #A1 #P1 #P2">small but</rdg>
+</app> gorgeous shells. Bracelets of the latter were on her pretty wrists, and two light bands of gold encircled 
 <app type="orth">
    <rdg wit="#K #MS">ancles</rdg>
    <rdg wit="#B1">ankles</rdg>
    <rdg wit="#A1 #P1 #P2">ankles</rdg>
    <rdg wit="#F1">ankles</rdg>
-</app> that were as faultless as those of the Venus of Naples.  In that region, the fineness of the hair was thought the test of birth, with better reason than 
-<app type="rev">
+</app> that were as faultless as those of the Venus of Naples.  In that region, the
+<app type="ms">
+   <rdg wit="#MS"><add type="dark">fineness of the</add></rdg>
+   <rdg wit="#K #P2 #P1 #A1 #B1 #F1">fineness of the</rdg>
+</app>hair was thought
+<app type="ms">
+   <rdg wit="#MS"><del type="dark">to be</del></rdg>
+   <rdg wit="#A1 #B1 #F1 #P1 #P2 #K"></rdg>
+</app>the test of birth, 
+<app type="ms">
+   <rdg wit="#MS"><del>as</del> <add>with better reason than</add></rdg>
+   <rdg wit="#K #P2 #P1 #F1 #B1 #A1">with better reason than</rdg>
+</app>
+<app type="auth_err">
    <rdg wit="#MS"> </rdg>
    <rdg wit="#P1"><add>many imagine</add></rdg>
    <rdg wit="#P2">many imagine</rdg>
@@ -1664,7 +1675,15 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#A1 #P1 #P2">several</rdg>
    <rdg wit="#F1">several</rdg>
    <rdg wit="#K">several</rdg>
-</app> centuries, the hair of Ozema was silken, soft, waving, exuberant, and black as jet.  It covered her shoulders, like a glorious mantle, and fell as low as her simple 
+</app> centuries, the hair of Ozema was silken, soft, waving, exuberant, and black as jet.  It covered her shoulders, like a glorious 
+<app type="ms">
+   <rdg wit="#MS"><del>viel</del> <add>mantle</add></rdg>
+   <rdg wit="#A1 #B1 #F1 #P1 #P2 #K">mantle</rdg>
+</app>, and fell 
+<app type="ms">
+   <rdg wit="#MS"><del type="dark">nearly</del></rdg>
+   <rdg wit="#K #P2 #P1 #F1 #B1 #A1"></rdg>
+</app>as low as her simple 
 <app type="orth">
    <rdg wit="#MS">sincture</rdg>
    <rdg wit="#B1">cincture</rdg>
@@ -1678,15 +1697,20 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#A1 #P1 #P2">current</rdg>
    <rdg wit="#F1">current</rdg>
    <rdg wit="#K">current</rdg>
-</app> of air that was rather breathing 
-<app type="punc">
-   <rdg wit="#MS">,</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#A1 #P1 #P2"></rdg>
-   <rdg wit="#F1"></rdg>
-   <rdg wit="#K"></rdg>
-</app> than blowing through the apartment.</p>
-<p>Although this extraordinary creature was much the loveliest specimen of young womanhood that Luis had seen among the wild beauties of the islands, it was not so much her graceful and 
+</app> of air that was rather breathing
+<app type="ms">
+   <rdg wit="#MS"><del>through the apartment</del>, <del>rather</del> than blowing <add>through the apartment</add></rdg>
+   <rdg wit="#A1 #B1 #F1 #P1 #P2 #K"> than blowing through the apartment</rdg>
+</app>.</p>
+<p>Although this
+<app type="ms">
+   <rdg wit="#MS"><del type="dark">lovely</del> <add type="dark">extraordinary</add></rdg>
+   <rdg wit="#K #P2 #P1 #F1 #B1 #A1">extraordinary</rdg>
+</app>creature was much the loveliest specimen of young womanhood that Luis 
+<app type="ms">
+   <rdg wit="#MS">ha<del type="dark">s</del><add type="dark">d</add></rdg>
+   <rdg wit="#A1 #B1 #F1 #P1 #P2 #K">had</rdg>
+</app>seen among the wild beauties of the islands, it was not so much her graceful and 
 <app type="orth">
    <rdg wit="#K #MS">well rounded</rdg>
    <rdg wit="#B1">well-rounded</rdg>
@@ -1706,27 +1730,52 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#A1 #P2 #P1">resemblance</rdg>
    <rdg wit="#F1">resemblance</rdg>
    <rdg wit="#K">resemblance</rdg>
-</app> to the being he had left in Spain, and who had so long been the idol of his heart.  This resemblance alone 
+</app> to the being he had left in Spain, and who had so long been the idol of his heart.  This resemblance
 <app type="punc">
-   <rdg wit="#MS #K">,</rdg>
-   <rdg wit="#B1"></rdg>
-   <rdg wit="#A1 #P1 #P2"></rdg>
-   <rdg wit="#F1"></rdg>
-   <rdg wit="#K"></rdg>
-</app>  had caused him to utter the name of his mistress, in the manner related.  Could the two have been placed together, it would have been easy to detect marked points of difference between them, without being reduced to 
-<app type="comp_err">
-   <rdg wit="#K #MS">comparing</rdg>
-   <rdg wit="#B1">compare</rdg>
-   <rdg wit="#A1 #P2 #P1">compare</rdg>
-   <rdg wit="#F1">compare</rdg>
-</app> the intellectual and thoughtful expression of our heroine&apos;s countenance, with the wondering, doubting, half-startled look of Ozema 
+   <rdg wit="#MS"><add type="dark">alone,</add></rdg>
+   <rdg wit="#B1">alone</rdg>
+   <rdg wit="#A1 #P1 #P2">alone</rdg>
+   <rdg wit="#F1">alone</rdg>
+   <rdg wit="#K">alone,</rdg>
+</app>  had caused him to utter the name of his mistress, in the manner related.  Could the two have been placed 
+<app type="ms">
+   <rdg wit="#MS"><del>side by side</del> <add>together</add></rdg>
+   <rdg wit="#K #P2 #P1 #F1 #B1 #A1">together</rdg>
+</app>, it would have been easy to detect marked points of difference between 
+<app type="ms">
+   <rdg wit="#MS"><add type="dark">them,</add></rdg>
+   <rdg wit="#A1 #B1 #F1 #P1 #P2 #K">them,</rdg>
+</app>
+<app type="ms">
+   <rdg wit="#MS">without <add>being reduced to</add> comparing</rdg>
+   <rdg wit="#B1">without being reduced to compare</rdg>
+   <rdg wit="#A1 #P2 #P1">without being reduced to compare</rdg>
+   <rdg wit="#F1">without being reduced to compare</rdg>
+   <rdg wit="#K">without being reduced to comparing</rdg>   
+</app> the intellectual and thoughtful expression of our heroine&apos;s countenance, with the wondering, 
+<app type="ms">
+   <rdg wit="#MS">doubt<del>ful</del><add>ing</add></rdg>
+   <rdg wit="#K #P2 #P1 #F1 #B1 #A1">doubting</rdg>
+</app>,
+<app type="ms">
+   <rdg wit="#MS">half-<del>frightened</del><add>startled</add></rdg>
+   <rdg wit="#A1 #B1 #F1 #P1 #P2 #K">half-startled</rdg>
+</app> look of Ozema 
 <app type="punc">
    <rdg wit="#MS">, but,</rdg>
    <rdg wit="#B1">; but</rdg>
    <rdg wit="#A1 #P1 #P2">; but</rdg>
    <rdg wit="#F1">;but</rdg>
    <rdg wit="#K">; but,</rdg>
-</app> still the general likeness was so strong 
+</app> still 
+<app type="ms">
+   <rdg wit="#MS"><del type="dark">was</del></rdg>
+   <rdg wit="#K #P2 #P1 #F1 #B1 #A1"></rdg>
+</app>the general likeness 
+<app type="ms">
+   <rdg wit="#MS"><add type="dark">was</add></rdg>
+   <rdg wit="#A1 #B1 #F1 #P1 #P2 #K">was</rdg>
+</app>so strong 
 <app type="punc">
    <rdg wit="#K #MS"> </rdg>
    <rdg wit="#B1">,</rdg>
@@ -1761,7 +1810,11 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#A1 #P2"></rdg>
    <rdg wit="#F1"></rdg>
    <rdg wit="#K"></rdg>
-</app> meeting with the other.  Side by side, it would have been discovered that the face of Mercedes had the advantage in 
+</app> meeting with the other.  Side by side, it would have been discovered that 
+<app type="ms">
+   <rdg wit="#MS"><del>the</del> <add>the face of</add></rdg>
+   <rdg wit="#K #P2 #P1 #F1 #B1 #A1">the face of</rdg>
+</app>Mercedes had the advantage in 
 <app type="comp_err">
    <rdg wit="#K #MS #A1">finesse</rdg>
    <rdg wit="#P1 #P2">?</rdg>
@@ -1771,14 +1824,26 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
 <app type="comp_err">
    <rdg wit="#K #MS #P2 #P1 #B1 #A1">a</rdg>
    <rdg wit="#F1"></rdg>
-</app> cultivated woman; her blush more sensitive, betraying most of the consciousness of conventional habits 
+</app> cultivated woman; her blush more sensitive, 
+<app type="ms">
+   <rdg wit="#MS"><del>and</del></rdg>
+   <rdg wit="#A1 #B1 #F1 #P1 #P2 #K"></rdg>
+</app>betraying most of the consciousness of conventional habits 
 <app type="punc">
    <rdg wit="#MS">,</rdg>
    <rdg wit="#B1">;</rdg>
    <rdg wit="#A1 #P1 #P2">;</rdg>
    <rdg wit="#F1">;</rdg>
    <rdg wit="#K">;</rdg>
-</app> and that the expression generally was much more highly cultivated, than 
+</app> and 
+<app type="ms">
+   <rdg wit="#MS"><add type="dark">that</add></rdg>
+   <rdg wit="#K #P2 #P1 #F1 #B1 #A1">that</rdg>
+</app>the expression generally was much more highly 
+<app type="ms">
+   <rdg wit="#MS"><del type="dark">elevated</del> <add type="dark">cultivated</add></rdg>
+   <rdg wit="#A1 #B1 #F1 #P1 #P2 #K">cultivated</rdg>
+</app>, than 
 <app type="auth_err">
    <rdg wit="#MS"> </rdg>
    <rdg wit="#B1">that</rdg>
@@ -1796,7 +1861,19 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#B1">Nevertheless</rdg>
    <rdg wit="#A1 #P1 #P2">Nevertheless</rdg>
    <rdg wit="#F1">Nevertheless</rdg>
-</app>, in mere beauty, in youth, and tint, and outline, the disparity was scarcely perceptible, while the 
+</app>, in 
+<app type="ms">
+   <rdg wit="#MS"><del>outer</del> <add>mere</add></rdg>
+   <rdg wit="#K #P2 #P1 #F1 #B1 #A1">mere</rdg>
+</app> beauty, 
+<app type="auth_err">
+   <rdg wit="#MS">of <add>in</add></rdg>
+   <rdg wit="#K #A1 #B1 #F1 #P1 #P2">in</rdg>
+</app> youth, and tint, and outline, the disparity was scarcely perceptible, 
+<app type="ms">
+   <rdg wit="#MS"><del>was</del> <add>while</add></rdg>
+   <rdg wit="#P2 #P1 #F1 #B1 #A1 #K">while</rdg>
+</app> the 
 <app type="orth">
    <rdg wit="#MS">resemblence</rdg>
    <rdg wit="#B1">resemblance</rdg>
@@ -1811,13 +1888,21 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
    <rdg wit="#A1 #P1 #P2">; and,</rdg>
    <rdg wit="#F1">; and,</rdg>
 </app> 
-on the score of animation, native frankness, ingenuousness, and all that witchery which ardent and undisguised feeling lends to woman, many might have preferred the confiding abandon of  the beautiful young Indian 
+on the score of animation, native frankness, ingenuousness, and all that witchery which 
+<app type="ms">
+   <rdg wit="#MS"><del>an</del></rdg>
+   <rdg wit="#K #A1 #B1 #F1 #P1 #P2"></rdg>
+</app>ardent and undisguised feeling lends to woman, many might have preferred the confiding <hi rend="underline">abandon</hi> of the 
+<app type="ms">
+   <rdg wit="#MS"><add>beautiful young</add></rdg>
+   <rdg wit="#P2 #P1 #F1 #B1 #A1 #K">beautiful young</rdg>
+</app>Indian 
 <app type="punc">
    <rdg wit="#K #MS"> </rdg>
    <rdg wit="#B1">,</rdg>
    <rdg wit="#A1 #P2 #P1">,</rdg>
    <rdg wit="#F1">,</rdg>
-</app> to the more trained and dignified  reserve of the Castilian heiress.  What 
+</app> to the more trained and dignified reserve of the Castilian heiress.  What 
 <app type="punc">
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1"></rdg>
@@ -1833,7 +1918,15 @@ on the score of animation, native frankness, ingenuousness, and all that witcher
    <rdg wit="#B1">out?pourings</rdg>
    <rdg wit="#A1 #P1 #P2">outpourings</rdg>
    <rdg wit="#F1">outpourings</rdg>
-</app> of unguided impulses, which, however feminine in their origin, were but little regulated in their indulgence.</p>
+</app> of unguided impulses, 
+<app type="ms">
+   <rdg wit="#MS"><del>that were</del> <add>which, however</add></rdg>
+   <rdg wit="#K #A1 #B1 #F1 #P1 #P2">which, however</rdg>
+</app> feminine in their origin, 
+<app type="ms">
+   <rdg wit="#MS"><add>were</add></rdg>
+   <rdg wit="#P2 #P1 #F1 #B1 #A1 #K">were</rdg>
+</app>but little regulated in their indulgence.</p>
 <p>&quot;Mercedes!&quot; exclaimed our hero, when this vision of Indian loveliness unexpectedly broke on his sight.
  <app type="punc">
     <rdg wit="#K #MS">&quot;Mercedes--&quot;</rdg>
