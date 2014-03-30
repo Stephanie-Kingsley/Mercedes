@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+<xsl:stylesheet 
+    xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:tei="http://www.tei-c.org/ns/1.0"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     exclude-result-prefixes="tei xs"
     version="2.0">
-    
     <xsl:output method="html" encoding="UTF-8" indent="yes"/>
+    
     
     <xsl:template match="/tei:TEI">
         <xsl:text disable-output-escaping="yes">&lt;!DOCTYPE html&gt;</xsl:text>
@@ -80,5 +81,12 @@
         </xsl:variable><span class="rdg {$class}"><xsl:apply-templates /></span>
     </xsl:template>
     
+    <xsl:template match="tei:del">
+        <del><xsl:apply-templates/></del>
+    </xsl:template>
+    
+    <xsl:template match="tei:add">
+        <ins><xsl:apply-templates/></ins>
+    </xsl:template>
     
 </xsl:stylesheet>
