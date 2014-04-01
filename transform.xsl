@@ -77,8 +77,9 @@
         
     <xsl:template match="tei:rdg">
         <xsl:variable name="class">
-        <xsl:value-of select="translate(@wit, '#','')"/>
-        </xsl:variable><span class="rdg {$class}"><xsl:apply-templates /></span>
+            <xsl:value-of select="translate(@wit, '#','')"/>
+        </xsl:variable>
+        <span class="rdg {$class}"><xsl:apply-templates /></span>
     </xsl:template>
     
     <xsl:template match="tei:del">
@@ -87,6 +88,19 @@
     
     <xsl:template match="tei:add">
         <ins><xsl:apply-templates/></ins>
+    </xsl:template>
+    
+    <xsl:template match="tei:hi">
+        <i><xsl:apply-templates/></i>
+    </xsl:template>
+    
+    <xsl:template match="tei:note">
+        <table class="annotated" summary="Text with annotations in the second column.">
+            <tr>
+                <td><tei:note type="noteref"/></td>
+                <td class="sidenote"><tei:note type="note"/></td>
+            </tr>
+        </table>
     </xsl:template>
     
 </xsl:stylesheet>

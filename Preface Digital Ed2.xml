@@ -1032,9 +1032,10 @@ Mattinao was received by his people
    <rdg wit="#K"></rdg>
 </app> Sancho being led away by the 
 <app type="style">
-   <rdg wit="#K #MS">oi polloi,</rdg>
+   <rdg wit="#K"><hi rend="underline">oi polloi</hi>,</rdg>
+   <rdg wit="#MS"><hi rend="underline">oi polloi</hi>,</rdg>
    <rdg wit="#B1">[GREEK]</rdg>
-   <rdg wit="#A1 #P1 #P2">oi polloi</rdg>
+   <rdg wit="#A1 #P1 #P2"><hi rend="underline">oi polloi</hi></rdg>
    <rdg wit="#F1">[GREEK]</rdg>
 </app> to a sort of square in the centre of the village, leaving Don Luis in the habitation of the Cacique.</p>
 <p>
@@ -1954,7 +1955,7 @@ on the score of animation, native frankness, ingenuousness, and all that witcher
 </app> mistook for an expression of admiration, in her own low, melodious voice.</p>
 <p>Conversation being out of the question, there remained nothing 
 <app type="comp_err">
-   <rdg wit="#MS">but for the parties</rdg>
+   <rdg wit="#MS"><del type="dark">for all</del> <add type="dark">but for the</add> parties <del type="dark">but</del></rdg>
    <rdg wit="#B1">for the parties but</rdg>
    <rdg wit="#A1">for the parties but</rdg>
    <rdg wit="#F1">for the parties but</rdg>
@@ -1978,161 +1979,233 @@ on the score of animation, native frankness, ingenuousness, and all that witcher
    <rdg wit="#K #MS #A1">cacique</rdg>
    <rdg wit="#B1">Cacique</rdg>
    <rdg wit="#F1">Cacique</rdg>
-</app>, he had brought up  from the village below 
+</app>, he had brought up  from the 
+<app type="ms">
+   <rdg wit="#MS"><del>can</del> village</rdg>
+   <rdg wit="#A1 #B1 #F1 #K #P1 #P2">village</rdg>
+</app> below 
 <app type="punc">
    <rdg wit="#K #MS #A1">,</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#F1"></rdg>
-</app> several articles that he supposed might suit her untutored  fancy 
+</app> several articles that he 
+<app type="ms">
+   <rdg wit="#MS"><del type="dark">had</del></rdg>
+   <rdg wit="#P2 #P1 #K #F1 #B1 #A1"></rdg>
+</app> supposed might suit her untutored fancy 
 <app type="style">
    <rdg wit="#K #MS #A1">.  But</rdg>
    <rdg wit="#B1">; but</rdg>
    <rdg wit="#F1">; but</rdg>
-</app> the moment he beheld the vision that actually stood before him, they all seemed unworthy of such a being.  In one of his onsets against the Moors, he had brought off a turban of rich but light cloth, and he had kept it as a trophy, occasionally wearing it 
+</app> the moment he beheld the vision that 
+<app type="ms">
+   <rdg wit="#MS"><add type="dark"><del>now</del> actually</add></rdg>
+   <rdg wit="#A1 #B1 #F1 #K #P1 #P2">actually</rdg>
+</app>stood before him, they all seemed unworthy of such a being.  In one of his onsets 
+<app type="ms">
+   <rdg wit="#MS"><del>with</del> <add>against</add></rdg>
+   <rdg wit="#P2 #P1 #K #F1 #B1 #A1">against</rdg>
+</app> the Moors, he had brought off a turban of rich 
+<app type="ms">
+   <rdg wit="#MS"><add>but light</add></rdg>
+   <rdg wit="#A1 #B1 #F1 #K #P1 #P2">but light</rdg>
+</app>cloth
+<app type="ms">
+   <rdg wit="#MS"><add type="dark">,</add></rdg>
+   <rdg wit="#P2 #P1 #K #F1 #B1 #A1">,</rdg>
+</app>and he had kept it as a trophy, occasionally wearing it 
 <app type="punc">
    <rdg wit="#K #MS #A1">, in his visits to the shore,</rdg>
    <rdg wit="#B1"> in his visits to the shore</rdg>
    <rdg wit="#F1"> in his visits to the shore</rdg>
-</app> out of pure caprice, and as a sort of ornament that might well impose on the 
+</app> 
+<app type="ms">
+   <rdg wit="#MS"><add>out of pure caprice, and</add></rdg>
+   <rdg wit="#A1 #B1 #F1 #K #P1 #P2">out of pure caprice, and</rdg>
+</app> as a sort of ornament that might 
+<app type="ms">
+   <rdg wit="#MS"><add>well</add></rdg>
+   <rdg wit="#P2 #P1 #K #F1 #B1 #A1">well</rdg>
+</app> impose on the 
 <app type="orth">
    <rdg wit="#K #MS">simple minded</rdg>
    <rdg wit="#B1">simple-minded</rdg>
-   <rdg wit="#A1">simple-minded</rdg>
+   <rdg wit="#A1 #P1 #P2">simple-minded</rdg>
    <rdg wit="#F1">simple-minded</rdg>
 </app> natives.  These vagaries excited no remarks, as mariners are apt to indulge 
 <app type="orth">
    <rdg wit="#MS">thier</rdg>
    <rdg wit="#B1">their</rdg>
-   <rdg wit="#A1">their</rdg>
+   <rdg wit="#A1 #P2 #P1">their</rdg>
    <rdg wit="#F1">their</rdg>
    <rdg wit="#K">their</rdg>
 </app> whims 
 <app type="punc">
    <rdg wit="#K #MS">, in this manner,</rdg>
    <rdg wit="#B1">in this manner</rdg>
-   <rdg wit="#A1"> in this manner,</rdg>
+   <rdg wit="#A1 #P1 #P2"> in this manner,</rdg>
    <rdg wit="#F1">in this manner</rdg>
-</app> when far from the observations of those to whom they habitually defer.  This turban was on his head 
+</app> when far from the observations of those 
+<app type="ms">
+   <rdg wit="#MS"><add>to</add></rdg>
+   <rdg wit="#P1 #P2 #A1 #B1 #F1 #K">to</rdg>
+</app>whom they habitually defer.  This turban was on his head 
 <app type="punc">
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1"></rdg>
-   <rdg wit="#A1"></rdg>
+   <rdg wit="#A1 #P2 #P1"></rdg>
    <rdg wit="#F1"></rdg>
-</app> at the moment he entered the apartment of Ozema, and 
+</app> at the moment
+<app type="ms">
+   <rdg wit="#MS"><del type="dark">,</del></rdg>
+   <rdg wit="#K"></rdg>
+   <rdg wit="#F1 #B1 #A1 #P2 #P1"></rdg>
+</app>he entered the apartment of Ozema, and 
 <app type="punc">
    <rdg wit="#K #MS"> </rdg>
    <rdg wit="#B1">,</rdg>
-   <rdg wit="#A1">,</rdg>
+   <rdg wit="#A1 #P1 #P2">,</rdg>
    <rdg wit="#F1">,</rdg>
 </app> overcome with the delight of finding so unexpected a resemblance, and 
 <app type="punc">
-   <rdg wit="#K #MS #A1">, possibly,</rdg>
+   <rdg wit="#K #MS #P2 #P1 #A1">, possibly,</rdg>
    <rdg wit="#B1">possibly</rdg>
    <rdg wit="#F1">possibly</rdg>
 </app> excited by so 
 <app type="orth">
    <rdg wit="#MS">unlooked for</rdg>
    <rdg wit="#B1">unlooked-for</rdg>
-   <rdg wit="#A1">unlooked-for</rdg>
+   <rdg wit="#A1 #P1 #P2">unlooked-for</rdg>
    <rdg wit="#F1">unlooked-for</rdg>
    <rdg wit="#K">unlooked-for</rdg>
 </app> an 
 <app type="comp_err">
-   <rdg wit="#K #MS #B1 #A1">exhibition</rdg>
+   <rdg wit="#K #MS #B1 #P2 #P1 #A1">exhibition</rdg>
    <rdg wit="#F1">exhibibition</rdg>
 </app> of feminine loveliness, he gallantly unrolled it, 
 <app type="auth_err">
    <rdg wit="#MS">through</rdg>
    <rdg wit="#B1">threw</rdg>
-   <rdg wit="#A1">threw</rdg>
+   <rdg wit="#A1 #P1 #P2">threw</rdg>
    <rdg wit="#F1">threw</rdg>
    <rdg wit="#K">threw</rdg>
 </app> out the folds of rich cloth, and cast it over the shoulders of the beautiful Ozema 
 <app type="punc">
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1"></rdg>
-   <rdg wit="#A1"></rdg>
+   <rdg wit="#A1 #P1 #P2"></rdg>
    <rdg wit="#F1"></rdg>
 </app> as a mantle.</p>
 <p>The expressions of gratitude and delight that escaped this unsophisticated young creature 
 <app type="punc">
-   <rdg wit="#K #MS #A1">,</rdg>
+   <rdg wit="#K #MS #P2 #P1 #A1">,</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#F1"></rdg>
 </app> were warm, sincere, and undisguised.  She cast the ample robe on the ground before her, repeated the word &quot;Mercedes 
 <app type="punc">
-   <rdg wit="#K #MS #A1">,&quot;</rdg>
+   <rdg wit="#K #MS #P1 #P2 #A1">,&quot;</rdg>
    <rdg wit="#B1">&quot;</rdg>
    <rdg wit="#F1">&quot;</rdg>
-</app> again and again, and manifested her pleasure with all the warmth of a generous and ingenuous nature.  If we were to say that this display of Ozema was altogether free from the child-like rapture that was 
+</app> again and again, and manifested her 
+<app type="ms">
+   <rdg wit="#MS"><del>rapture</del><add>pleasure</add></rdg>
+   <rdg wit="#P2 #P1 #A1 #B1 #F1 #K">pleasure</rdg>
+</app>with all the warmth of a generous and ingenuous nature.  If we were to say that this 
+<app type="ms">
+   <rdg wit="#MS"><del>delight</del> <del><add>pleasure</add></del> <add>display</add></rdg>
+   <rdg wit="#K #F1 #B1 #A1 #P1 #P2">display</rdg>
+</app>of Ozema was altogether free from the child-like 
+<app type="ms">
+   <rdg wit="#MS"><del>delight</del> <add>rapture</add></rdg>
+   <rdg wit="#P2 #P1 #A1 #B1 #F1 #K">rapture</rdg>
+</app>that was 
 <app type="punc">
    <rdg wit="#K #MS"> perhaps</rdg>
    <rdg wit="#B1">, perhaps,</rdg>
-   <rdg wit="#A1">, perhaps,</rdg>
+   <rdg wit="#A1 #P1 #P2">, perhaps,</rdg>
    <rdg wit="#F1">, perhaps,</rdg>
 </app> 
 <app type="orth">
    <rdg wit="#K #MS">unseparable</rdg>
    <rdg wit="#B1">inseparable</rdg>
-   <rdg wit="#A1">inseparable</rdg>
+   <rdg wit="#A1 #P2 #P1">inseparable</rdg>
    <rdg wit="#F1">inseparable</rdg>
 </app> from her ignorance, it would be attributing to her benighted condition the experience and regulated feelings of 
-<app type="rev">
+<app type="comp_err">
    <rdg wit="#MS">an</rdg>
    <rdg wit="#B1"></rdg>
-   <rdg wit="#A1"></rdg>
+   <rdg wit="#A1 #P1 #P2"></rdg>
    <rdg wit="#F1"></rdg>
-   <rdg wit="#K"></rdg>
-</app> advanced civilization; but, notwithstanding the guileless simplicity with which she betrayed her emotions, her delight was not without much of the dignity and tone that usually mark the conduct of the superior classes all over the world.  Luis fancied it as graceful as it was naive and charming.  He 
+   <rdg wit="#K">an</rdg>
+</app> advanced civilization; but, notwithstanding the guileless simplicity with which she betrayed her emotions
+<app type="ms">
+   <rdg wit="#MS"><del>on this occasion</del></rdg>
+   <rdg wit="#P2 #P1 #K #F1 #B1 #A1"></rdg>
+</app>, her delight was not without much of the dignity and tone that usually mark the conduct of the superior classes 
+<app type="ms">
+   <rdg wit="#MS"><del type="dark">in other countries</del> <add type="dark">all over the world</add></rdg>
+   <rdg wit="#A1 #B1 #F1 #K #P1 #P2">all over the world</rdg>
+</app>.  Luis fancied it as graceful as it was <hi rend="underline">naive</hi> and charming.  He 
 <app type="orth">
    <rdg wit="#K #MS">endeavored</rdg>
    <rdg wit="#B1">endeavoured</rdg>
-   <rdg wit="#A1">endeavoured</rdg>
+   <rdg wit="#A1 #P2 #P1">endeavoured</rdg>
    <rdg wit="#F1">endeavoured</rdg>
-</app> to imagine the manner in which the Lady of Valverde might receive an offering of precious stones from the gracious hands of Dona Isabella, and he even thought it very possible that the artless grace of Ozema was not far behind 
+</app> to imagine the manner in which the Lady of Valverde might receive an offering of precious stones from the 
+<app type="ms">
+   <rdg wit="#MS"><add>gracious</add></rdg>
+   <rdg wit="#P1 #P2 #K #F1 #B1 #A1">gracious</rdg>
+</app>hands of Dona Isabella, and he even thought it very possible that the artless grace of Ozema was not far behind 
 <app type="punc">
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1"></rdg>
-   <rdg wit="#A1"></rdg>
+   <rdg wit="#A1 #P2 #P1"></rdg>
    <rdg wit="#F1"></rdg>
 </app> what he knew would be the meek self-respect, mingled with 
 <app type="rev">
    <rdg wit="#MS">gratitude</rdg>
    <rdg wit="#B1">grateful pleasure</rdg>
-   <rdg wit="#A1">grateful pleasure</rdg>
+   <rdg wit="#A1 #P1 #P2">grateful pleasure</rdg>
    <rdg wit="#F1">grateful pleasure</rdg>
    <rdg wit="#K">grateful pleasure</rdg>
-</app>, that Mercedes could not fail to exhibit.  While thoughts  like these were passing through his mind, the Indian girl laid aside her own less enticing robe, without a thought of shame, and then she folded her faultless form in the cloth of the turban.  This 
+</app>, that Mercedes could not fail to exhibit.  While thoughts like these were passing through his mind, the Indian girl laid aside her own less enticing robe, without a thought of shame, and then she 
+<app type="ms">
+   <rdg wit="#MS"><del>wrapped</del> <add>folded her</add> <add>faultless form in</add></rdg>
+   <rdg wit="#P2 #P1 #A1 #B1 #F1 #K">folded her faultless form in </rdg>
+</app>the cloth of the turban.  This 
 <app type="comp_err">
    <rdg wit="#K #MS">act</rdg>
    <rdg wit="#B1"></rdg>
-   <rdg wit="#A1"></rdg>
+   <rdg wit="#A1 #P1 #P2"></rdg>
    <rdg wit="#F1"></rdg>
 </app> was no sooner done, with a grace and freedom peculiar to her unfettered mind, than she drew the necklace of shells from her 
 <app type="rev">
    <rdg wit="#MS">finery</rdg>
+   <rdg wit="#P1"><del>finery</del> <add>person,</add></rdg>
    <rdg wit="#B1">person,</rdg>
-   <rdg wit="#A1">person,</rdg>
+   <rdg wit="#A1 #P2">person,</rdg>
    <rdg wit="#F1">person,</rdg>
    <rdg wit="#K">person,</rdg>
 </app> and 
 <app type="rev">
    <rdg wit="#MS">advanced</rdg>
+   <rdg wit="#P1">advanc<del>ed</del><add>ing</add></rdg>
    <rdg wit="#B1">advancing</rdg>
-   <rdg wit="#A1">advancing</rdg>
+   <rdg wit="#A1 #P2">advancing</rdg>
    <rdg wit="#F1">advancing</rdg>
    <rdg wit="#K">advancing</rdg>
 </app> a step or two 
 <app type="punc">
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1"></rdg>
-   <rdg wit="#A1"></rdg>
+   <rdg wit="#A1 #P1 #P2"></rdg>
    <rdg wit="#F1"></rdg>
 </app> towards our hero, 
 <app type="rev">
    <rdg wit="#MS">extending</rdg>
+   <rdg wit="#P1">extend<del>ing</del><add>ed</add></rdg>
    <rdg wit="#B1">extended</rdg>
-   <rdg wit="#A1">extended</rdg>
+   <rdg wit="#A1 #P2">extended</rdg>
    <rdg wit="#F1">extended</rdg>
    <rdg wit="#K">extended</rdg>
 </app> the offering with a 
@@ -2141,160 +2214,231 @@ on the score of animation, native frankness, ingenuousness, and all that witcher
    <rdg wit="#B1">half-averted</rdg>
    <rdg wit="#A1">half-averted</rdg>
    <rdg wit="#F1">half-averted</rdg>
-   <rdg wit="#K">half-averted</rdg>
-</app> face, though the laughing and willing eyes more than supplied the place of language.  Luis accepted the gift 
+   <rdg wit="#K">half averted</rdg>
+</app> face, though the laughing 
+<app type="ms">
+   <rdg wit="#MS"><add>and willing</add></rdg>
+   <rdg wit="#A1 #P2 #P1 #K #F1 #B1">and willing</rdg>
+</app>eyes 
+<app type="ms">
+   <rdg wit="#MS"><add>more than</add></rdg>
+   <rdg wit="#B1 #F1 #K #P1 #P2 #A1">more than</rdg>
+</app>supplied the place of language.  Luis accepted the gift 
 <app type="punc">
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#A1"></rdg>
    <rdg wit="#F1"></rdg>
-</app> with suitable eagerness, nor did he refrain from using the Castilian gallantry of kissing the pretty hand  from which he took the 
+</app> with suitable 
+<app type="ms">
+   <rdg wit="#MS"><del>gallantry</del> <add>eagerness</add></rdg>
+   <rdg wit="#A1 #P2 #P1 #K #F1 #B1">eagerness</rdg>
+</app>, 
+<app type="ms">
+   <rdg wit="#MS"><del type="dark">not even</del> <add type="dark">nor did he</add></rdg>
+   <rdg wit="#B1 #F1 #K #P1 #P2 #A1">nor did he</rdg>
+</app> refrain from 
+<app type="ms">
+   <rdg wit="#MS"><add type="dark">using</add></rdg>
+   <rdg wit="#A1 #P2 #P1 #K #F1 #B1">using</rdg>
+</app>the Castilian gallantry of kissing the pretty hand  from which he took the 
 <app type="orth">
    <rdg wit="#K #MS">bawbles</rdg>
    <rdg wit="#B1">bauble</rdg>
-   <rdg wit="#A1">bauble</rdg>
+   <rdg wit="#A1 #P1 #P2">bauble</rdg>
    <rdg wit="#F1">bauble</rdg>
 </app>.</p>
 <p>The 
 <app type="cap">
    <rdg wit="#K #MS #F1 #B1">Cacique</rdg>
-   <rdg wit="#A1">cacique</rdg>
+   <rdg wit="#A1 #P2 #P1">cacique</rdg>
 </app>, who had been a pleased spectator of all that passed, now signed for the 
 <app type="cap">
    <rdg wit="#K #MS #F1 #B1">Count</rdg>
-   <rdg wit="#A1">count</rdg>
+   <rdg wit="#A1 #P1 #P2">count</rdg>
 </app> to follow him, leading the way towards another dwelling.  Here 
 <app type="rev">
    <rdg wit="#MS">our hero</rdg>
+   <rdg wit="#P1"><del>our hero</del> <add>Don Luis</add></rdg>
    <rdg wit="#B1">Don Luis</rdg>
-   <rdg wit="#A1">Don Luis</rdg>
+   <rdg wit="#A1 #P2">Don Luis</rdg>
    <rdg wit="#F1">Don Luis</rdg>
    <rdg wit="#K">Don Luis</rdg>
 </app>  was introduced to other young females, and to two or three children, the former of whom 
 <app type="punc">
-   <rdg wit="#K #MS #A1">, he soon discovered,</rdg>
+   <rdg wit="#MS"><add type="dark">,</add> he soon discovered<add type="dark">,</add></rdg>
+   <rdg wit="#K #P1 #P2 #A1">, he soon discovered,</rdg>
    <rdg wit="#B1">he soon discovered</rdg>
    <rdg wit="#F1">he soon discovered</rdg>
-</app> were the wives of Mattinao, and the latter his offspring.  By dint of gestures, a few words, and such other means of explanation as were resorted to between the Spaniards and the natives, he now succeeded in ascertaining the real affinity which existed  between the 
+</app> were the wives of Mattinao, and the latter his offspring.  By dint of gestures, a few words, and such other 
+<app type="ms">
+   <rdg wit="#MS"><add>means of</add> explanation<del>s</del></rdg>
+   <rdg wit="#P1 #P2 #B1 #F1 #K #A1">means of explanation </rdg>
+</app>as were resorted to between the 
+<app type="ms">
+   <rdg wit="#MS"><del>parties</del> <add>Spaniards and the natives,</add></rdg>
+   <rdg wit="#A1 #K #F1 #B1 #P2 #P1">Spaniards and the natives</rdg>
+</app>, he now succeeded in ascertaining the real affinity which existed  between the 
 <app type="cap">
-   <rdg wit="#K #MS #A1">cacique</rdg>
+   <rdg wit="#K #MS #P1 #P2 #A1">cacique</rdg>
    <rdg wit="#B1">Cacique</rdg>
    <rdg wit="#F1">Cacique</rdg>
 </app> and Ozema.  
 <app type="rev">
    <rdg wit="#MS">Luis</rdg>
+   <rdg wit="#P1"><del>Luis</del> <add>Our hero</add></rdg>
    <rdg wit="#B1">Our hero</rdg>
-   <rdg wit="#A1">Our hero</rdg>
+   <rdg wit="#A1 #P2">Our hero</rdg>
    <rdg wit="#F1">Our hero</rdg>
    <rdg wit="#K">Our hero</rdg>
 </app> felt a sensation like pleasure when he discovered that the Indian beauty was not married 
 <app type="punc">
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1">;</rdg>
-   <rdg wit="#A1">;</rdg>
+   <rdg wit="#A1 #P2 #P1">;</rdg>
    <rdg wit="#F1">;</rdg>
 </app> and he was fain to refer the feeling
 <app type="punc">
-   <rdg wit="#K #MS #A1">--perhaps justly--</rdg>
+   <rdg wit="#K #MS #P1 #P2 #A1">--perhaps justly--</rdg>
    <rdg wit="#B1">, perhaps justly, </rdg>
    <rdg wit="#F1">, perhaps justly, </rdg>
 </app> to a sort of jealous sensitiveness that grew out of her resemblance to Mercedes.</p>
-<p>The remainder of that, and the whole of the three following days, were passed by Luis 
+<p>The remainder of that, and the whole of the 
+<app type="ms">
+   <rdg wit="#MS"><add>three</add></rdg>
+   <rdg wit="#P1 #P2 #B1 #F1 #K #A1">three</rdg>
+</app>following days, were passed by Luis 
 <app type="punc">
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1"></rdg>
-   <rdg wit="#A1"></rdg>
+   <rdg wit="#A1 #P1 #P2"></rdg>
    <rdg wit="#F1"></rdg>
 </app> with his friend 
 <app type="punc">
    <rdg wit="#K #MS"> </rdg>
    <rdg wit="#B1">,</rdg>
-   <rdg wit="#A1">,</rdg>
+   <rdg wit="#A1 #P2 #P1">,</rdg>
    <rdg wit="#F1">,</rdg>
 </app> the 
 <app type="cap">
-   <rdg wit="#K #MS #A1">cacique</rdg>
+   <rdg wit="#K #MS #P1 #P2 #A1">cacique</rdg>
    <rdg wit="#B1">Cacique</rdg>
    <rdg wit="#F1">Cacique</rdg>
 </app>, in this, the 
 <app type="orth">
    <rdg wit="#K #MS">favorite</rdg>
    <rdg wit="#B1">favourite</rdg>
-   <rdg wit="#A1">favourite</rdg>
+   <rdg wit="#A1 #P1 #P2">favourite</rdg>
    <rdg wit="#F1">favourite</rdg>
 </app> and sacred residence of the latter.  Of course our hero was, if 
 <app type="orth">
    <rdg wit="#K #MS">any thing</rdg>
    <rdg wit="#B1">anything</rdg>
-   <rdg wit="#A1">anything</rdg>
+   <rdg wit="#A1 #P1 #P2">anything</rdg>
    <rdg wit="#F1">anything</rdg>
 </app>, a subject of greater interest to all his hosts 
 <app type="punc">
-   <rdg wit="#K #MS #A1">,</rdg>
+   <rdg wit="#K #MS #P2 #P1 #A1">,</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#F1"></rdg>
-</app> than they could possibly be to him.  They took a thousand innocent liberties with 
+</app> than they could possibly be to 
+<app type="ms">
+   <rdg wit="#MS"><del type="dark">them</del> <add type="dark">him</add></rdg>
+   <rdg wit="#A1 #K #F1 #B1 #P2 #P1">him</rdg>
+</app>.  They took a thousand innocent liberties with 
 <app type="rev">
    <rdg wit="#MS">him,</rdg>
+   <rdg wit="#P1"><del>him,</del> <add>his person;</add></rdg>
    <rdg wit="#B1">his person;</rdg>
-   <rdg wit="#A1">his person;</rdg>
+   <rdg wit="#A1 #P2">his person;</rdg>
    <rdg wit="#F1">his person;</rdg>
    <rdg wit="#K">his person;</rdg>
 </app> examining his dress 
 <app type="punc">
    <rdg wit="#K #MS"> </rdg>
    <rdg wit="#B1">,</rdg>
-   <rdg wit="#A1">,</rdg>
+   <rdg wit="#A1 #P2 #P1">,</rdg>
    <rdg wit="#F1">,</rdg>
-</app> and the ornaments he wore, not failing to compare the whiteness of his skin with the redder tint of that of Mattinao.  On 
+</app> 
+<app type="ms">
+   <rdg wit="#MS"><add>and the ornaments he wore</add></rdg>
+   <rdg wit="#P1 #P2 #B1 #F1 #K #A1">and the ornaments he wore</rdg>
+</app>, not failing to compare the whiteness of his skin with the redder tint of that of Mattinao.  On 
 <app type="comp_err">
    <rdg wit="#K #MS">all</rdg>
    <rdg wit="#B1"></rdg>
-   <rdg wit="#A1"></rdg>
+   <rdg wit="#A1 #P2 #P1"></rdg>
    <rdg wit="#F1"></rdg>
 </app> these occasions Ozema was the most reserved and shy, though her look followed every movement, and her pleased countenance denoted the interest she felt in all that concerned the stranger.  Hours at a time 
 <app type="punc">
-   <rdg wit="#K #MS #A1">,</rdg>
+   <rdg wit="#K #MS #P1 #P2 #A1">,</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#F1"></rdg>
-</app> did Luis lie stretched on fragrant mats near this artless and lovely creature, studying the wayward expression of her features, in the fond hope of seeing stronger and stronger resemblances to Mercedes, and sometimes losing himself in that which was peculiarly her own.  In the course of the time passed 
+</app> did Luis lie stretched on fragrant mats near this artless and lovely creature, studying the 
+<app type="ms">
+   <rdg wit="#MS"><del>changing</del> <add>wayward</add></rdg>
+   <rdg wit="#P2 #P1 #A1 #K #F1 #B1">wayward</rdg>
+</app>expression of her features, in the fond hope of seeing stronger and stronger resemblances to Mercedes, and sometimes losing himself in that which was peculiarly her own.  In the course of the time passed 
 <app type="punc">
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1"></rdg>
-   <rdg wit="#A1"></rdg>
+   <rdg wit="#A1 #P1 #P2"></rdg>
    <rdg wit="#F1"></rdg>
-</app> in these dwellings, efforts were made by 
+</app> in these dwellings, efforts were made 
 <app type="rev">
-   <rdg wit="#MS">our hero</rdg>
-   <rdg wit="#B1">the Count</rdg>
-   <rdg wit="#A1">the count</rdg>
-   <rdg wit="#F1">the Count</rdg>
-   <rdg wit="#K">the count</rdg>
-</app> to obtain some useful information of the island 
+   <rdg wit="#MS"><del>at</del> <add>by our hero to</add></rdg>
+   <rdg wit="#P1">by <del>our hero</del> <add>the count</add> to</rdg>
+   <rdg wit="#B1">by the Count to</rdg>
+   <rdg wit="#A1">by the count to</rdg>
+   <rdg wit="#F1">by the Count to</rdg>
+   <rdg wit="#K">by the count to</rdg>
+</app> 
+<app type="ms">
+   <rdg wit="#MS">obtain<del>ing</del></rdg>
+   <rdg wit="#P1 #P2 #B1 #F1 #K #A1">obtain</rdg>
+</app>
+<app type="ms">
+   <rdg wit="#MS"><add>some</add></rdg>
+   <rdg wit="#A1 #K #F1 #B1 #P2 #P1">some</rdg>
+</app>useful information 
+<app type="ms">
+   <rdg wit="#MS"><add>of the island</add></rdg>
+   <rdg wit="#P1 #P2 #B1 #F1 #K #A1">of the island</rdg>
+</app> 
 <app type="punc">
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1">;</rdg>
-   <rdg wit="#A1">;</rdg>
+   <rdg wit="#A1 #P2 #P1">;</rdg>
    <rdg wit="#F1">;</rdg>
-</app> and whether it was owing to her superior rank, or to a native superiority of mind, or to a charm of manner, he soon fancied that the 
+</app> and whether it was owing to her superior rank, or to a native superiority of mind, 
+<app type="ms">
+   <rdg wit="#MS"><del>he seemed</del> <del>foun</del></rdg>
+   <rdg wit="#P1 #P2 #A1 #K #F1 #B1"></rdg>
+</app>or to a charm of manner, he soon 
+<app type="ms">
+   <rdg wit="#MS"><del>found</del> <add>fancied</add></rdg>
+   <rdg wit="#B1 #F1 #K #A1 #P2 #P1">fancied</rdg>
+</app>that the 
 <app type="cap">
    <rdg wit="#MS">Caciques</rdg>
    <rdg wit="#B1">Cacique</rdg>
-   <rdg wit="#A1">cacique</rdg>
+   <rdg wit="#A1 #P1 #P2">cacique</rdg>
    <rdg wit="#F1">Cacique</rdg>
    <rdg wit="#K">Cacique</rdg>
 </app> &apos;s 
 <app type="rev">
    <rdg wit="#MS"> </rdg>
+   <rdg wit="#P1"><add>beautiful</add></rdg>
    <rdg wit="#B1">beautiful</rdg>
-   <rdg wit="#A1">beautiful</rdg>
+   <rdg wit="#A1 #P2">beautiful</rdg>
    <rdg wit="#F1">beautiful</rdg>
    <rdg wit="#K">beautiful</rdg>
 </app> sister succeeded better in making him 
 <app type="rev">
    <rdg wit="#MS">comprehend</rdg>
+   <rdg wit="#P1"><del>comprehend</del> <add>understand</add></rdg>
    <rdg wit="#B1">understand</rdg>
-   <rdg wit="#A1">understand</rdg>
+   <rdg wit="#A1 #P2">understand</rdg>
    <rdg wit="#F1">understand</rdg>
    <rdg wit="#K">understand</rdg>
 </app> her meaning 
@@ -2302,206 +2446,279 @@ on the score of animation, native frankness, ingenuousness, and all that witcher
    <rdg wit="#K #MS #A1">,</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#F1"></rdg>
-</app> than either of the wives of Mattinao, or the 
+</app> than either of the wives 
+<app type="ms">
+   <rdg wit="#MS"><add type="dark">of Mattinao</add></rdg>
+   <rdg wit="#P2 #P1 #A1 #K #F1 #B1">of Mattinao</rdg>
+</app>, or the 
 <app type="cap">
    <rdg wit="#K #MS #F1 #B1">Cacique</rdg>
-   <rdg wit="#A1">cacique</rdg>
+   <rdg wit="#A1 #P1 #P2">cacique</rdg>
 </app> himself.  To Ozema, then, Luis put most of his questions 
 <app type="punc">
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1">;</rdg>
-   <rdg wit="#A1">;</rdg>
+   <rdg wit="#A1 #P2 #P1">;</rdg>
    <rdg wit="#F1">;</rdg>
 </app> and ere the day 
 <app type="rev">
    <rdg wit="#MS">was</rdg>
+   <rdg wit="#P1"><del>was</del> <add>had</add></rdg>
    <rdg wit="#B1">had</rdg>
-   <rdg wit="#A1">had</rdg>
+   <rdg wit="#A1 #P2">had</rdg>
    <rdg wit="#F1">had</rdg>
    <rdg wit="#K">had</rdg>
 </app> passed 
 <app type="punc">
-   <rdg wit="#K #MS #A1">,</rdg>
+   <rdg wit="#K #MS #P2 #P1 #A1">,</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#F1"></rdg>
-</app> this quick-witted and attentive girl had made greater progress in opening an intelligible understanding between the adventurers and her 
+</app> this quick-witted and 
+<app type="ms">
+   <rdg wit="#MS"><del>read</del> <add>attentive</add></rdg>
+   <rdg wit="#P1 #P2 #B1 #F1 #K #A1">attentive</rdg>
+</app>girl had made greater progress in opening an intelligible 
+<app type="ms">
+   <rdg wit="#MS"><del>communication</del> <add>understanding</add></rdg>
+   <rdg wit="#A1 #K #F1 #B1 #P2 #P1">understanding</rdg>
+</app> between the adventurers and her 
 <app type="orth">
    <rdg wit="#K #MS">country-men</rdg>
    <rdg wit="#B1">countrymen</rdg>
-   <rdg wit="#A1">countrymen</rdg>
+   <rdg wit="#A1 #P1 #P2">countrymen</rdg>
    <rdg wit="#F1">countrymen</rdg>
-</app>, than had been accomplished by the communications of the two previous months.  She caught the Spanish words  with a readiness that seemed instinctive, pronouncing them with an accent that only rendered 
+</app>, than had been 
+<app type="ms">
+   <rdg wit="#MS"><del>previously</del></rdg>
+   <rdg wit="#P2 #P1 #B1 #F1 #K #A1"></rdg>
+</app>accomplished by the communications of the two previous months.  She caught the Spanish words  with a readiness that seemed 
+<app type="ms">
+   <rdg wit="#MS"><del type="dark">miraculous</del> <add type="dark">instinctive</add></rdg>
+   <rdg wit="#A1 #K #F1 #B1 #P1 #P2">instinctive</rdg>
+</app>, pronouncing them with an accent that only rendered 
 <app type="rev">
    <rdg wit="#MS">the</rdg>
+   <rdg wit="#P1">the<add>m</add></rdg>
    <rdg wit="#B1">them</rdg>
-   <rdg wit="#A1">them</rdg>
+   <rdg wit="#A1 #P2">them</rdg>
    <rdg wit="#F1">them</rdg>
    <rdg wit="#K">them</rdg>
 </app> prettier and softer to the ear.</p>
+   <note type="noteref"><lb/></note>
+<note type="note">In the MS, a penciled rule and the initials "A.W." appear at this point, likely indicating a change in compositorial shifts.</note>
 <p>Luis de Bobadilla was just as good a 
 <app type="cap">
    <rdg wit="#K #MS">catholic</rdg>
    <rdg wit="#B1">Catholic</rdg>
-   <rdg wit="#A1">Catholic</rdg>
+   <rdg wit="#A1 #P2 #P1">Catholic</rdg>
    <rdg wit="#F1">Catholic</rdg>
 </app>  as a rigid education, a wandering life, and the habits of the camp 
 <app type="orth">
    <rdg wit="#K #MS"> </rdg>
    <rdg wit="#B1">,</rdg>
-   <rdg wit="#A1">,</rdg>
+   <rdg wit="#A1 #P1 #P2">,</rdg>
    <rdg wit="#F1">,</rdg>
-</app> would be apt to make one of his rank, years 
+</app> would be apt to 
+<app type="ms">
+   <rdg wit="#MS"><del>leave</del> <add>make</add></rdg>
+   <rdg wit="#P2 #P1 #B1 #F1 #K #A1">make</rdg>
+</app>one of his rank, years 
 <app type="punc">
    <rdg wit="#K #MS"> </rdg>
    <rdg wit="#B1">,</rdg>
-   <rdg wit="#A1">,</rdg>
+   <rdg wit="#A1 #P1 #P2">,</rdg>
    <rdg wit="#F1">,</rdg>
 </app> and temperament.  Still, that was an age 
 <app type="punc">
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1"></rdg>
-   <rdg wit="#A1"></rdg>
+   <rdg wit="#A1 #P2 #P1"></rdg>
    <rdg wit="#F1"></rdg>
 </app> in which most laymen had a deep reverence for religion, whether they  actually submitted to its purifying influence
 <app type="punc">
-   <rdg wit="#K #MS #A1">,</rdg>
+   <rdg wit="#K #MS #P1 #P2 #A1">,</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#F1"></rdg>
 </app> or not.  If there were any 
 <app type="style">
    <rdg wit="#K #MS">free-thinkers</rdg>
    <rdg wit="#B1">Freethinkers</rdg>
-   <rdg wit="#A1">free?thinkers</rdg>
+   <rdg wit="#A1 #P2 #P1">free?thinkers</rdg>
    <rdg wit="#F1">Freethinkers</rdg>
 </app> 
 <app type="punc">
-   <rdg wit="#K #MS #A1">,</rdg>
+   <rdg wit="#K #MS #P1 #P2 #A1">,</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#F1"></rdg>
 </app> at all, they existed principally among those who passed 
 <app type="orth">
    <rdg wit="#MS">thier</rdg>
    <rdg wit="#B1">their</rdg>
-   <rdg wit="#A1">their</rdg>
+   <rdg wit="#A1 #P2 #P1">their</rdg>
    <rdg wit="#F1">their</rdg>
    <rdg wit="#K">their</rdg>
 </app> lives in 
 <app type="orth">
    <rdg wit="#MS">thier</rdg>
    <rdg wit="#B1">their</rdg>
-   <rdg wit="#A1">their</rdg>
+   <rdg wit="#A1 #P1 #P2">their</rdg>
    <rdg wit="#F1">their</rdg>
    <rdg wit="#K">their</rdg>
-</app> closets, or were to be found  among the 
+</app> closets, or were to be found among the 
 <app type="cap">
-   <rdg wit="#K #MS #A1">churchmen,</rdg>
+   <rdg wit="#K #MS #P2 #P1 #A1">churchmen,</rdg>
    <rdg wit="#B1">Churchmen</rdg>
    <rdg wit="#F1">Churchmen</rdg>
-</app> themselves; who often used the cowl as a hood to conceal 
+</app> themselves
+<app type="ms">
+   <rdg wit="#MS"><del type="dark">,</del> <add type="dark">;</add></rdg>
+   <rdg wit="#P1 #P2 #A1 #K #F1 #B1">;</rdg>
+</app> who often used the cowl as a hood to conceal 
 <app type="orth">
    <rdg wit="#MS">thier</rdg>
    <rdg wit="#B1">their</rdg>
-   <rdg wit="#A1">their</rdg>
+   <rdg wit="#A1 #P2 #P1">their</rdg>
    <rdg wit="#F1">their</rdg>
    <rdg wit="#K">their</rdg>
 </app> infidelity.  His close association  with Columbus 
 <app type="punc">
-   <rdg wit="#K #MS #A1">,</rdg>
+   <rdg wit="#K #MS #P1 #P2 #A1">,</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#F1"></rdg>
-</app> too,  had contributed to strengthen our hero&apos;s tendency to believe in the constant supervision of Providence 
+</app> too,  had contributed to 
+<app type="ms">
+   <rdg wit="#MS"><del>stregth</del> <add>strengthen</add></rdg>
+   <rdg wit="#P2 #P1 #B1 #F1 #K #A1">strengthen</rdg>
+</app>our hero&apos;s tendency to believe in the constant supervision of Providence 
 <app type="punc">
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1">;</rdg>
-   <rdg wit="#A1">;</rdg>
+   <rdg wit="#A1 #P1 #P2">;</rdg>
    <rdg wit="#F1">;</rdg>
-</app> and he now felt a strong inclination to fancy that this extraordinary facility of Ozema&apos;s in acquiring languages 
+</app> and he now felt a strong inclination to fancy that this 
+<app type="ms">
+   <rdg wit="#MS"><add>extraordinary</add></rdg>
+   <rdg wit="#P2 #P1 #A1 #K #F1 #B1">extraordinary</rdg>
+</app>facility of Ozema&apos;s in acquiring languages 
 <app type="punc">
-   <rdg wit="#K #MS #A1">,</rdg>
+   <rdg wit="#K #MS #P1 #P2 #A1">,</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#F1"></rdg>
-</app> was one of its semi-miraculous provisions, made with a view to further the introduction of the religion of the 
+</app> was one of its 
+<app type="ms">
+   <rdg wit="#MS"><add>semi-miraculous</add></rdg>
+   <rdg wit="#P2 #P1 #B1 #F1 #K #A1">semi-miraculous</rdg>
+</app>provisions, made with a view to further the introduction of the religion of the 
 <app type="cap">
-   <rdg wit="#K #MS #A1">cross</rdg>
+   <rdg wit="#K #MS #P1 #P2 #A1">cross</rdg>
    <rdg wit="#B1">Cross</rdg>
    <rdg wit="#F1">Cross</rdg>
-</app> among her people.  Often  did he flatter himself, as he sat gazing into the sparkling, and yet mild 
+</app> 
+<app type="ms">
+   <rdg wit="#MS"><add type="dark">among her people</add></rdg>
+   <rdg wit="#P2 #P1 #A1 #K #F1 #B1">among her people</rdg>
+</app>.  Often  did he flatter himself, as he sat gazing into the sparkling, and yet mild 
 <app type="punc">
    <rdg wit="#MS #F1 #B1"> </rdg>
+   <rdg wit="#P1"></rdg>
+   <rdg wit="#P2"><add>,</add></rdg>
    <rdg wit="#A1">,</rdg>
    <rdg wit="#K">,</rdg>
 </app> eyes of the girl, listening to her earnest efforts to make him comprehend her meaning, 
 <app type="auth_err">
    <rdg wit="#MS"> </rdg>
    <rdg wit="#B1">that</rdg>
-   <rdg wit="#A1">that</rdg>
+   <rdg wit="#A1 #P2 #P1">that</rdg>
    <rdg wit="#F1">that</rdg>
    <rdg wit="#K">that</rdg>
 </app> he was to be the instrument of bringing about this great good 
 <app type="punc">
-   <rdg wit="#K #MS #B1 #A1">,</rdg>
+   <rdg wit="#K #MS #P1 #P2 #B1 #A1">,</rdg>
    <rdg wit="#F1"></rdg>
 </app> through so young and charming an agent.  The 
 <app type="cap">
-   <rdg wit="#K #MS #A1">admiral</rdg>
+   <rdg wit="#K #MS #P2 #P1 #A1">admiral</rdg>
    <rdg wit="#B1">Admiral</rdg>
    <rdg wit="#F1">Admiral</rdg>
-</app> had also  enjoined on him 
+</app> had 
+<app type="ms">
+   <rdg wit="#MS"><add type="dark">also</add></rdg>
+   <rdg wit="#P1 #P2 #B1 #F1 #K #A1">also</rdg>
+</app>enjoined on him 
 <app type="punc">
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1"></rdg>
-   <rdg wit="#A1"></rdg>
+   <rdg wit="#A1 #P2 #P1"></rdg>
    <rdg wit="#F1"></rdg>
 </app> the importance of ascertaining, if possible, the position of the mines 
 <app type="punc">
-   <rdg wit="#K #MS #A1">,</rdg>
+   <rdg wit="#K #MS #P1 #P2 #A1">,</rdg>
    <rdg wit="#B1">;</rdg>
    <rdg wit="#F1">;</rdg>
-</app> and he had actually succeeded in making Ozema comprehend his questions on a subject that was 
+</app> and he had actually succeeded in making Ozema comprehend his questions on 
+<app type="ms">
+   <rdg wit="#MS"><add>a subject</add> that <add>was</add></rdg>
+   <rdg wit="#P2 #P1 #A1 #K #F1 #B1">a subject that was</rdg>
+</app>
 <app type="orth">
    <rdg wit="#K #MS">all engrossing</rdg>
    <rdg wit="#B1">all-engrossing</rdg>
    <rdg wit="#A1">all-engrossing</rdg>
    <rdg wit="#F1">all-engrossing</rdg>
-</app> with most of the Spaniards.  Her answers were less intelligible, but Luis thought they never could be sufficiently full; flattering himself, the whole time, that he was only 
+</app> 
+<app type="ms">
+   <rdg wit="#MS"><del>subject</del></rdg>
+   <rdg wit="#B1 #F1 #K #A1 #P1 #P2"></rdg>
+</app>
+<app type="ms">
+   <rdg wit="#MS"><add>with most</add></rdg>
+   <rdg wit="#P2 #P1 #A1 #K #F1 #B1">with most</rdg>
+</app>of the Spaniards.  Her answers were less intelligible, but Luis thought they never could be sufficiently full; flattering himself, the whole time, that he was only 
 <app type="orth">
    <rdg wit="#K #MS">laboring</rdg>
    <rdg wit="#B1">labouring</rdg>
-   <rdg wit="#A1">labouring</rdg>
+   <rdg wit="#A1 #P1 #P2">labouring</rdg>
    <rdg wit="#F1">labouring</rdg>
 </app> to comply with the 
 <app type="comp_err">
-   <rdg wit="#K #MS #B1 #A1">wishes</rdg>
+   <rdg wit="#K #MS #P2 #P1 #B1 #A1">wishes</rdg>
    <rdg wit="#F1">wish</rdg>
 </app> of Columbus.</p>
 <p>The day after his arrival 
 <app type="punc">
-   <rdg wit="#K #MS #A1">,</rdg>
+   <rdg wit="#K #MS #P1 #P2 #A1">,</rdg>
    <rdg wit="#B1"></rdg>
    <rdg wit="#F1"></rdg>
 </app> our hero was treated to an exhibition of some of the Indian games.  These sports have been too often described to need repetition here 
 <app type="punc">
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1">;</rdg>
-   <rdg wit="#A1">;</rdg>
+   <rdg wit="#A1 #P2 #P1">;</rdg>
    <rdg wit="#F1">;</rdg>
-</app> but, in all their movements and exercises, which were altogether pacific, the young princess was conspicuous for grace and skill.  Luis, too, was required to show his powers 
+</app> but, in all their movements and exercises, 
+<app type="ms">
+   <rdg wit="#MS"><add>which were altogether pacific,</add></rdg>
+   <rdg wit="#P1 #P2 #B1 #F1 #K #A1">which were altogether pacific,</rdg>
+</app> the young princess was conspicuous for grace and skill.  Luis, too, was required to show his powers 
 <app type="punc">
-   <rdg wit="#K #MS #A1">,</rdg>
+   <rdg wit="#K #MS #P2 #P1 #A1">,</rdg>
    <rdg wit="#B1">;</rdg>
    <rdg wit="#F1">;</rdg>
 </app> and being exceedingly athletic and active, he easily bore away the palm from his friend Mattinao.  The young 
 <app type="cap">
-   <rdg wit="#K #MS #A1">cacique</rdg>
+   <rdg wit="#K #MS #P1 #P2 #A1">cacique</rdg>
    <rdg wit="#B1">Cacique</rdg>
    <rdg wit="#F1">Cacique</rdg>
 </app> manifested neither jealousy 
 <app type="punc">
    <rdg wit="#K #MS">, nor disappointment,</rdg>
    <rdg wit="#B1">nor disappointment</rdg>
-   <rdg wit="#A1">nor disappointment</rdg>
+   <rdg wit="#A1 #P1 #P2">nor disappointment</rdg>
    <rdg wit="#F1">nor disappointment</rdg>
-</app> at this result, while his sister laughed and clapped her hands with delight, when he was outdone, even at his own sports, by the greater strength 
+</app> 
+<app type="ms">
+   <rdg wit="#MS"><add type="dark">at this result,</add></rdg>
+</app> while his sister laughed and clapped her hands with delight, when he was outdone, even at his own sports, by the greater strength 
 <app type="punc">
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1"></rdg>
@@ -2603,7 +2820,7 @@ on the score of animation, native frankness, ingenuousness, and all that witcher
    <rdg wit="#K #MS #A1">at once</rdg>
    <rdg wit="#B1">, at once,</rdg>
    <rdg wit="#F1">, at once,</rdg>
-</app> have taken the alarm, and been completely disenthralled from his temporary delusion; but, on the contrary, all was so frank and natural with this artless girl; when she most betrayed the hold he had taken of her imagination, it was done with a simplicity so obvious, a naivete so irrepressible, and an ingenuousness so clearly the 
+</app> have taken the alarm, and been completely disenthralled from his temporary delusion; but, on the contrary, all was so frank and natural with this artless girl; when she most betrayed the hold he had taken of her imagination, it was done with a simplicity so obvious, a <hi rend="underline">naivete</hi> so irrepressible, and an ingenuousness so clearly the 
 <app type="comp_err">
    <rdg wit="#K #MS">fruits</rdg>
    <rdg wit="#B1">fruit</rdg>
@@ -2798,14 +3015,14 @@ on the score of animation, native frankness, ingenuousness, and all that witcher
    <rdg wit="#B1">bauble</rdg>
    <rdg wit="#A1">bauble</rdg>
    <rdg wit="#F1">bauble</rdg>
-</app> that copper so easily purchaseth?  Remember thou art a Castilian, and henceforth give two 
+</app> that copper so easily purchaseth?  Remember thou art a Castilian, and henceforth give <hi rend="underline">two</hi>
 <app type="orth">
    <rdg wit="#MS">hawks&apos; bells</rdg>
    <rdg wit="#B1">hawk&apos;s-bells</rdg>
    <rdg wit="#A1">hawk&apos;s-bells</rdg>
    <rdg wit="#F1">hawk&apos;s-bells</rdg>
    <rdg wit="#K">hawk&apos;s-bells</rdg>
-</app>, where thou hast hitherto given but one.&quot;</p>
+</app>, where thou hast hitherto given but <hi rend="underline">one</hi>.&quot;</p>
 <p>&quot;I never forget my birth, Senor, for happily the 
 <app type="cap">
    <rdg wit="#K #MS">Ship Yard</rdg>
