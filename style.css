@@ -11,12 +11,18 @@ margin: 50px auto;
 font-size: 1em;
 text-align: left;}
 
-span {}
+.rev {}
+.punc {}
+.cap {}
+.comp_err {}
+.auth_err {}
+.pub {}
+.style {}
 
 .MS { display: inline;}
 .A1 { display: none;}
-.P1 {display:none;}
-.P2 {display:none;}
+.P1 { display: none;}
+.P2 { display:none;}
 .B1 { display: none;}
 .F1 { display: none;}
 .K { display: none;}

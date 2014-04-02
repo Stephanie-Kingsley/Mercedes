@@ -72,7 +72,7 @@
     </xsl:template>
     
     <xsl:template match="tei:app">
-        <span class="app"><xsl:apply-templates /></span>
+        <span class="app {@rev} {@type}"><xsl:apply-templates /></span>
     </xsl:template>
         
     <xsl:template match="tei:rdg">
@@ -95,12 +95,11 @@
     </xsl:template>
     
     <xsl:template match="tei:note">
-        <table class="annotated" summary="Text with annotations in the second column.">
-            <tr>
-                <td><tei:note type="noteref"/></td>
-                <td class="sidenote"><tei:note type="note"/></td>
-            </tr>
-        </table>
+        <div class="annotated">
+            <div class="summary">Wayne made me do it this way</div>
+            <div class="sidenote"><xsl:value-of select="."/></div> 
+        </div>
+        
     </xsl:template>
     
 </xsl:stylesheet>
