@@ -19,10 +19,10 @@ text-align: left;}
 .pub {}
 .style {}
 
-.MS { display: inline;}
+.MS { display: none;}
 .A1 { display: none;}
-.P1 { display: none;}
-.P2 { display:none;}
+.P1 { display: inline;}
+.P2 { display: none;}
 .B1 { display: none;}
 .F1 { display: none;}
 .K { display: none;}

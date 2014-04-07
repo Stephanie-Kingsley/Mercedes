@@ -45,7 +45,7 @@
    <rdg wit="#B1 #F1"> </rdg>
    <rdg wit="#P1"><del>--and well written, too--</del>?</rdg>
    <rdg wit="#A1 #P2 #K">, </rdg>
-</app>touching the discovery of America
+</app> touching the discovery of America
 <app>
    <rdg wit="#K #F1 #B1 #A1 #P2 #P1"></rdg>
    <rdg wit="#MS"><del>of late years</del></rdg>
@@ -3985,14 +3985,22 @@ on the score of animation, native frankness, ingenuousness, and all that witcher
    <rdg wit="#K">and, there being</rdg>
 </app> a sufficient space of 
 <app type="orth">
-   <rdg wit="#K #MS">green sward</rdg>
+   <rdg wit="#K">green sward</rdg>
+   <rdg wit="#MS">green sward</rdg>
    <rdg wit="#B1">greensward</rdg>
-   <rdg wit="#A1 #P1 #P2">greensward</rdg>
+   <rdg wit="#A1">greensward</rdg>
+   <rdg wit="#P1">greensward</rdg>
+   <rdg wit="#P2">greensward</rdg>
    <rdg wit="#F1">greensward</rdg>
 </app> before them, 
 <app type="ms">
    <rdg wit="#MS"><del type="dark">for</del> <add type="dark">on which</add> a knight <del type="dark">to</del> <add type="dark">might well</add> display his prowess <del type="dark">on</del></rdg>
-   <rdg wit="#F1 #B1 #K #A1 #P1 #P2">on which a knight might well display his prowess</rdg>
+   <rdg wit="#F1">on which a knight might well display his prowess</rdg>
+   <rdg wit="#B1">on which a knight might well display his prowess</rdg>
+   <rdg wit="#K">on which a knight might well display his prowess</rdg>
+   <rdg wit="#A1">on which a knight might well display his prowess</rdg>
+   <rdg wit="#P1">on which a knight might well display his prowess</rdg>
+   <rdg wit="#P2">on which a knight might well display his prowess</rdg>
 </app>
 <app type="comp_err">
    <rdg wit="#MS">.  When</rdg>
@@ -4004,12 +4012,22 @@ on the score of animation, native frankness, ingenuousness, and all that witcher
    <rdg wit="#K">when</rdg>
 </app> in possession of this position 
 <app type="punc">
-   <rdg wit="#K #MS #P1 #P2 #A1">,</rdg>
+   <rdg wit="#K">,</rdg>
+   <rdg wit="#MS">,</rdg>
+   <rdg wit="#P1">,</rdg>
+   <rdg wit="#P2">,</rdg>
+   <rdg wit="#A1">,</rdg>
    <rdg wit="#B1">;</rdg>
    <rdg wit="#F1">;</rdg>
 </app> our hero felt himself strong, if not impregnable, 
 <app type="ms">
    <rdg wit="#MS"><del type="dark">as</del> <add type="dark">since</add></rdg>
+   <rdg wit="#P1">since</rdg>
+   <rdg wit="#A1">since</rdg>
+   <rdg wit="#P2">since</rdg>
+   <rdg wit="#B1">since</rdg>
+   <rdg wit="#F1">since</rdg>
+   <rdg wit="#K">since</rdg>
 </app> he could be assailed only in front.  Ozema was stationed  behind one of the fragments of the fallen rocks, her person only half concealed 
 <app type="punc">
    <rdg wit="#K #MS #P2 #P1 #A1">,</rdg>

@@ -34,6 +34,13 @@
                     <xsl:apply-templates select="tei:text"/>
                 </div>
                 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+                <script>
+                    $(document).ready(function(){
+                        $('.rdg').click(function(){
+                            $('#myModal').modal();
+                        });
+                    });
+                </script>
             </body>
         
         </html>
@@ -44,14 +51,15 @@
     </xsl:template>
     
     <xsl:template match="tei:listWit">
-        <ul>
+        <ul class="nav-tabs">
             <xsl:apply-templates />
         </ul>
     </xsl:template>
     
-    <xsl:template match="tei:witness">
-        <li data-id="${@xml.id}"><xsl:apply-templates /></li>
-    </xsl:template>
+    <!--<xsl:template match="tei:witness">
+        <li data-id="${@xml.id}" data-toggle="tab"><xsl:apply-templates /></li>
+        <a href="#MS" data-toggle="tab"></a>
+    </xsl:template>-->
     
     <xsl:template match="tei:p">
         <p>
@@ -71,9 +79,19 @@
         </blockquote>
     </xsl:template>
     
-    <xsl:template match="tei:app">
-        <span class="app {@rev} {@type}"><xsl:apply-templates /></span>
-    </xsl:template>
+    <!--<xsl:template match="tei:app">
+        <xsl:variable name="json">
+            This is where you tell this how to create the proper json
+            <xsl:value-of select="child::node()"></xsl:value-of>
+            <xsl:text>{<xsl:value-of=""/>}</xsl:text>
+        </xsl:variable>
+        
+        <span id="{generate-id()}" class="app {@rev} {@type}" data-toggle="modal" data-target="" data-reading=""><xsl:apply-templates /></span>
+        <div class="modal fade">
+            <div class="modal-dialog">
+            </div>
+        </div>
+    </xsl:template>-->
         
     <xsl:template match="tei:rdg">
         <xsl:variable name="class">
