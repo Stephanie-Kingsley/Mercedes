@@ -1,38 +1,8 @@
-body, header, nav, footer {background-color: #FFDEAD;color: #8B0000;}
-p {color: black;}
-
-body {
-font-family: "Times New Roman", "Georgia", Arial, sans-serif, cursive;
-width: 68%;
-margin: 50px auto;
-font-size: 1em;
-text-align: left;}
 
 .MS { display: none;}
 .A1 { display: none;}
 .B1 { display: none;}
 .F1 { display: none;}
 .K { display: inline;}
-header {
-	font-family: Century, Times, Garamond;
-	text-align: left;
-}
 
-ul {text-align: left; padding-top: 2px;}
-
-
-header, nav, footer, img {text-align: center;}
-
-nav a {text-align: block;
-	font-family: Century, Times, Garamond; 
-	padding: 6px;}
-a:link {color: #8B0000}
-a:visited {color: #8E388E}
-a:hover {color: #008B45}
-
-p {float:left;width: 65%;background-size: 50%}
-footer {clear: both;
-padding-top: 10px;
-text-align: center;
-color: black;}
 
