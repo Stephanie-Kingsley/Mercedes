@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema"
-    exclude-result-prefixes="tei xs" version="2.0">
-
+<xsl:stylesheet 
+    xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+    xmlns:tei="http://www.tei-c.org/ns/1.0"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    exclude-result-prefixes="tei xs"
+    version="2.0">
     <xsl:output method="html" encoding="UTF-8" indent="yes"/>
-
+    
     <xsl:template match="/tei:TEI">
         <xsl:text disable-output-escaping="yes">&lt;!DOCTYPE html&gt;</xsl:text>
         <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -21,7 +23,6 @@
                 <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css"/>
                 <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css"/>
                 <link rel="stylesheet" href="style.css"/>
-                <style>.app { color: red; }</style>
                 <title>
                     <xsl:value-of select="tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/>
                 </title>
@@ -63,13 +64,16 @@
                     </div>
                 
                 
-                <div class="main" role="main">
-                    <xsl:apply-templates select="tei:text"/>
+                    <div class="main" role="main">
+                        <xsl:apply-templates select="tei:text"/>
+                    </div>
                 </div>
-                </div>
+
+
                 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"/>
                 <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
                 <script src="foobar.js"></script>
+
             </body>
 
         </html>
@@ -87,12 +91,15 @@
         <!-- <ul>
             <xsl:apply-templates/>
         </ul> -->
+
     </xsl:template>
 
     <xsl:template match="tei:witness">
+
         <li data-id="${@xml.id}">
             <xsl:apply-templates/>
         </li>
+
     </xsl:template>
 
     <xsl:template match="tei:p">
@@ -100,6 +107,7 @@
             <xsl:apply-templates/>
         </p>
     </xsl:template>
+
 
     <xsl:template match="tei:app">
         <span class="app">
@@ -124,6 +132,44 @@
                 <xsl:with-param name="node" select="node()" />
             </xsl:call-template>
         </xsl:variable>
+    </xsl:template>
+    
+    <xsl:template match="tei:lb">
+        <br>
+            <xsl:apply-templates/>    
+        </br>
+    </xsl:template>
+    
+    <xsl:template match="tei:quote">
+        <blockquote>
+            <xsl:apply-templates/>    
+        </blockquote>
+    </xsl:template>
+    
+    <!--<xsl:template match="tei:app">
+        <xsl:variable name="json">
+            This is where you tell this how to create the proper json
+            <xsl:value-of select="child::node()"></xsl:value-of>
+            <xsl:text>{<xsl:value-of=""/>}</xsl:text>
+        </xsl:variable>
+        
+        <span id="{generate-id()}" class="app {@rev} {@type}" data-toggle="modal" data-target="" data-reading=""><xsl:apply-templates /></span>
+        <div class="modal fade">
+            <div class="modal-dialog">
+            </div>
+        </div>
+    </xsl:template>-->
+        
+    <xsl:template match="tei:rdg">
+        <xsl:variable name="class">
+            <xsl:value-of select="translate(@wit, '#','')"/>
+        </xsl:variable>
+        
+        <xsl:variable name="witnesses">
+            <xsl:call-template name="like">
+                <xsl:with-param name="node" select="node()" />
+            </xsl:call-template>
+        </xsl:variable>
         
         <span class="rdg {$class}" data-container="body" data-toggle="popover" data-placement="auto" data-content="{$witnesses}">
             <xsl:apply-templates/>
@@ -131,5 +177,25 @@
 
     </xsl:template>
 
-
+    
+    <xsl:template match="tei:del">
+        <del><xsl:apply-templates/></del>
+    </xsl:template>
+    
+    <xsl:template match="tei:add">
+        <ins><xsl:apply-templates/></ins>
+    </xsl:template>
+    
+    <xsl:template match="tei:hi">
+        <i><xsl:apply-templates/></i>
+    </xsl:template>
+    
+    <xsl:template match="tei:note">
+        <div class="annotated">
+            <div class="summary">Wayne made me do it this way</div>
+            <div class="sidenote"><xsl:value-of select="."/></div> 
+        </div>
+        
+    </xsl:template>
+    
 </xsl:stylesheet>

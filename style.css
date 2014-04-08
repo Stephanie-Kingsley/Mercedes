@@ -1,8 +1,41 @@
 
+
+.rev {}
+.punc {}
+.cap {}
+.comp_err {}
+.auth_err {}
+.pub {}
+.style {}
+
 .MS { display: none;}
 .A1 { display: none;}
+.P1 { display: inline;}
+.P2 { display: none;}
 .B1 { display: none;}
 .F1 { display: none;}
 .K { display: inline;}
 
+
+ins {color:green;}
+del {
+  color:red;
+  text-decoration:line-through;
+}
+
+header {
+  font-family: Century, Times, Garamond;
+  text-align: left;
+}
+
+blockquote {float:left;}
+
+ul {text-align: left; padding-top: 2px;}
+
+
+header, nav, footer, img {text-align: center;}
+
+a:link {color: #8B0000}
+a:visited {color: #8E388E}
+a:hover {color: #008B45}
 
