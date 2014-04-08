@@ -24,11 +24,11 @@
                 <listWit>
                     <witness xml:id="K">Kingsley</witness>
                     <witness xml:id="MS">MS</witness>
+                    <witness xml:id="P1">Proof Set 1</witness>
+                    <witness xml:id="P2">Proof Set 2</witness>
                     <witness xml:id="A1">First American</witness>
                     <witness xml:id="B1">First British</witness>
                     <witness xml:id="F1">First Paris</witness>
-                    <witness xml:id="P1">Proof Set 1</witness>
-                    <witness xml:id="P2">Proof Set 2</witness>
                 </listWit>
             </div>
         </front>
@@ -37,23 +37,40 @@
    <p>Preface</p>
            <p>So much has been written 
 <app type="ms">
-   <rdg wit="#P1 #P2 #A1 #B1 #F1 #K">of late years</rdg>
+   <rdg wit="#P1">of late years</rdg>
+   <rdg wit="#P2">of late years</rdg>
+   <rdg wit="#K">of late years</rdg>
+   <rdg wit="#A1">of late years</rdg>
+   <rdg wit="#B1">of late years</rdg>
+   <rdg wit="#F1">of late years</rdg>
    <rdg wit="#MS"><add>of late years</add></rdg>
 </app>
 <app type="rev">
    <rdg wit="#MS">--and well written, too--</rdg>
-   <rdg wit="#B1 #F1"> </rdg>
+   <rdg wit="#B1"> </rdg>
+   <rdg wit="#F1"> </rdg>
    <rdg wit="#P1"><del>--and well written, too--</del>?</rdg>
-   <rdg wit="#A1 #P2 #K">, </rdg>
+   <rdg wit="#A1">, </rdg>
+   <rdg wit="#P2">, </rdg>
+   <rdg wit="#K">, </rdg>
 </app> touching the discovery of America
 <app>
-   <rdg wit="#K #F1 #B1 #A1 #P2 #P1"></rdg>
+   <rdg wit="#K"></rdg>
+   <rdg wit="#F1"></rdg>
+   <rdg wit="#B1"></rdg>
+   <rdg wit="#A1"></rdg>
+   <rdg wit="#P1"></rdg>
+   <rdg wit="#P2"></rdg>
    <rdg wit="#MS"><del>of late years</del></rdg>
 </app>, that it would not be at all surprising should there exist a disposition in a certain class of readers to deny the accuracy of
 <app type="comp_error">
    <rdg wit="#K"></rdg>
    <rdg wit="#MS"><del>all</del> <del><add>some of</add></del></rdg>
-   <rdg wit="#A1 #P1 #P2 #B1 #F1"> all</rdg>
+   <rdg wit="#A1"> all</rdg>
+   <rdg wit="#P1"> all</rdg>
+   <rdg wit="#P2"> all</rdg>
+   <rdg wit="#B1"> all</rdg>
+   <rdg wit="#F1"> all</rdg>
 </app> the statements 
 <app type="rev">
    <rdg wit="#MS">of</rdg>
@@ -67,10 +84,19 @@
 <app type="rev">
    <rdg wit="#MS">desire</rdg>
    <rdg wit="#P1"><del>desire</del> <add>view</add></rdg>
-   <rdg wit="#A1 #P2 #B1 #F1 #K">view</rdg>
+   <rdg wit="#A1">view</rdg>
+   <rdg wit="#P2">view</rdg>
+   <rdg wit="#B1">view</rdg>
+   <rdg wit="#F1">view</rdg>
+   <rdg wit="#K">view</rdg>
 </app> to prove that there never 
 <app type="ms">
-   <rdg wit="#P1 #P2 #A1 #B1 #F1 #K">were</rdg>
+   <rdg wit="#P1">were</rdg>
+   <rdg wit="#P2">were</rdg>
+   <rdg wit="#A1">were</rdg>
+   <rdg wit="#B1">were</rdg>
+   <rdg wit="#F1">were</rdg>
+   <rdg wit="#K">were</rdg>
    <rdg wit="#MS">w<del>as</del><add>ere</add></rdg>
 </app>such 
 <app type="ms">
@@ -80,50 +106,95 @@
 <app type="rev">
    <rdg wit="#MS">All that we have to say in answer to this anticipated objection is</rdg>
    <rdg wit="#P1"><del>All that we have to say i</del><add>. I</add>n answer to this anticipated objection<del>is</del><add>, we will state,</add></rdg>
-   <rdg wit="#A1 #P2 #B1 #F1 #K">In answer to this anticipated objection, we will state,</rdg>
+   <rdg wit="#A1">In answer to this anticipated objection, we will state,</rdg>
+   <rdg wit="#P2">In answer to this anticipated objection, we will state,</rdg>
+   <rdg wit="#B1">In answer to this anticipated objection, we will state,</rdg>
+   <rdg wit="#F1">In answer to this anticipated objection, we will state,</rdg>
+   <rdg wit="#K">In answer to this anticipated objection, we will state,</rdg>
 </app> that after carefully perusing 
 <app type="orth">
    <rdg wit="#MS">severel</rdg>
-   <rdg wit="#A1 #P1 #P2 #B1 #F1 #K">several</rdg>
+   <rdg wit="#A1">several</rdg>
+   <rdg wit="#P1">several</rdg>
+   <rdg wit="#P2">several</rdg>
+   <rdg wit="#B1">several</rdg>
+   <rdg wit="#F1">several</rdg>
+   <rdg wit="#K">several</rdg>
 </app> of the Spanish writers, 
 <app type="ms">
    <rdg wit="#MS"><add>from Cervantes to the translator of the journal of Columbus, the Alpha and Omega of peninsular literature,</add></rdg>
-   <rdg wit="#P1 #P2 #A1 #B1 #F1 #K">from Cervantes to the translator of the journal of Columbus, the Alpha and Omega of peninsular literature,</rdg>
+   <rdg wit="#P1">from Cervantes to the translator of the journal of Columbus, the Alpha and Omega of peninsular literature,</rdg>
+   <rdg wit="#P2">from Cervantes to the translator of the journal of Columbus, the Alpha and Omega of peninsular literature,</rdg>
+   <rdg wit="#A1">from Cervantes to the translator of the journal of Columbus, the Alpha and Omega of peninsular literature,</rdg>
+   <rdg wit="#B1">from Cervantes to the translator of the journal of Columbus, the Alpha and Omega of peninsular literature,</rdg>
+   <rdg wit="#F1">from Cervantes to the translator of the journal of Columbus, the Alpha and Omega of peninsular literature,</rdg>
+   <rdg wit="#K">from Cervantes to the translator of the journal of Columbus, the Alpha and Omega of peninsular literature,</rdg>
 </app> and after having read both Irving and Prescott from beginning to end, we 
 <app type="rev">
    <rdg wit="#MS">can</rdg>
    <rdg wit="#P1"><del>can</del> <add>do</add></rdg>
-   <rdg wit="#A1 #P2 #B1 #F1 #K">do</rdg>
+   <rdg wit="#A1">do</rdg>
+   <rdg wit="#P2">do</rdg>
+   <rdg wit="#B1">do</rdg>
+   <rdg wit="#F1">do</rdg>
+   <rdg wit="#K">do</rdg>
 </app> not find a syllable in either of them, that we understand to be conclusive evidence, or indeed 
 <app type="rev">
    <rdg wit="#MS"></rdg>
    <rdg wit="#P1"><add>to be</add></rdg>
-   <rdg wit="#A1 #P2 #B1 #F1 #K">to be</rdg>
+   <rdg wit="#A1">to be</rdg>
+   <rdg wit="#P2">to be</rdg>
+   <rdg wit="#B1">to be</rdg>
+   <rdg wit="#F1">to be</rdg>
+   <rdg wit="#K">to be</rdg>
 </app> any evidence at all, on 
 <app type="rev">
    <rdg wit="#MS">this part of the subject</rdg>
    <rdg wit="#P1"><del>this part of the subject</del> <add>the portions of our subject that are likely to be disputed</add></rdg>
-   <rdg wit="#A1 #P2 #P1 #B1 #F1 #K">the portions of our subject that are likely to be disputed</rdg>
+   <rdg wit="#A1">the portions of our subject that are likely to be disputed</rdg>
+   <rdg wit="#P2">the portions of our subject that are likely to be disputed</rdg>
+   <rdg wit="#B1">the portions of our subject that are likely to be disputed</rdg>
+   <rdg wit="#F1">the portions of our subject that are likely to be disputed</rdg>
+   <rdg wit="#K">the portions of our subject that are likely to be disputed</rdg>
 </app>.  Until some solid affirmative proof, therefore, can be produced against us, we shall hold our case to be made out, and rest our claims to be believed on the authority of our own statements.  Nor do we think there is 
 <app type="orth">
-   <rdg wit="#MS #P1 #P2 #A1 #K">any thing</rdg>
-   <rdg wit="B1 #F1">anything</rdg>
+   <rdg wit="#MS">any thing</rdg>
+   <rdg wit="#P1">any thing</rdg>
+   <rdg wit="#P2">any thing</rdg>
+   <rdg wit="#A1">any thing</rdg>
+   <rdg wit="#K">any thing</rdg>
+   <rdg wit="#B1">anything</rdg>
+   <rdg wit="#F1">anything</rdg>
 </app> either unreasonable or unusual
 <app type="punc">
-   <rdg wit="#MS #K">, </rdg>
+   <rdg wit="#MS">, </rdg>
+   <rdg wit="#K">, </rdg>
    <rdg wit="#A1 #P1 #P2 #B1 #F1"> </rdg>
 </app>in this course, as perhaps the greater portion of that which is
 <app type="punc">
    <rdg wit="#K">, daily and hourly,</rdg>
    <rdg wit="#MS"><add>, daily and hourly,</add></rdg>
-   <rdg wit="#A1 #P2 #P1 #B1 #F1">daily and hourly</rdg>
+   <rdg wit="#A1">daily and hourly</rdg>
+   <rdg wit="#P2">daily and hourly</rdg>
+   <rdg wit="#P1">daily and hourly</rdg>
+   <rdg wit="#B1">daily and hourly</rdg>
+   <rdg wit="#F1">daily and hourly</rdg>
 </app> offered to the 
 <app type="ms">
    <rdg wit="#MS"><add>credence of the</add></rdg>
-   <rdg wit="#K #F1 #B1 #A1 #P2 #P1">credence of the</rdg>
+   <rdg wit="#K">credence of the</rdg>
+   <rdg wit="#F1">credence of the</rdg>
+   <rdg wit="#B1">credence of the</rdg>
+   <rdg wit="#A1">credence of the</rdg>
+   <rdg wit="#P2">credence of the</rdg>
+   <rdg wit="#P1">credence of the</rdg>
 </app>
 <app type="pub">
-   <rdg wit="#MS #P1 #P2 #A1 #K">American</rdg>
+   <rdg wit="#MS">American</rdg>
+   <rdg wit="#P1">American</rdg>
+   <rdg wit="#P2">American</rdg>
+   <rdg wit="#A1">American</rdg>
+   <rdg wit="#K">American</rdg>
    <rdg wit="#B1 #F1"></rdg>
 </app> public,
 <app type="ms">
@@ -132,8 +203,13 @@
 </app>
 rests on the same species of testimony
 <app type="punc">
-   <rdg wit="#MS #K">, </rdg>
-   <rdg wit="#A1 #P2 #P1 #B1 #F1">,--</rdg>
+   <rdg wit="#MS">, </rdg>
+   <rdg wit="#K">, </rdg>
+   <rdg wit="#A1">,--</rdg>
+   <rdg wit="#P2">,--</rdg>
+   <rdg wit="#P1">,--</rdg>
+   <rdg wit="#B1">,--</rdg>
+   <rdg wit="#F1">,--</rdg>
 </app>with the trifling difference that we state truths, with a profession of fiction, 
 <app type="ms">
    <rdg wit="#MS"><del>and</del></rdg>
@@ -142,7 +218,12 @@ rests on the same species of testimony
 while the great moral caterers of the 
 <app type="ms">
    <rdg wit="#MS"><del>republic</del> <add>age</add></rdg>
-   <rdg wit="#K #F1 #B1 #A1 #P2 #P1">age</rdg>
+   <rdg wit="#K">age</rdg>
+   <rdg wit="#F1">age</rdg>
+   <rdg wit="#B1">age</rdg>
+   <rdg wit="#A1">age</rdg>
+   <rdg wit="#P2">age</rdg>
+   <rdg wit="#P1">age</rdg>
 </app> state fiction with the profession of truth.  If any advantage can be fairly obtained over us, in consequence of this trifling discrepancy, we must 
 <app type="comp_err">
    <rdg wit="#MS"><add>fain</add></rdg>
@@ -157,33 +238,58 @@ while the great moral caterers of the
 <p>
 There is one point, notwithstanding, concerning which it may be well to be frank
 <app type="punc">
-   <rdg wit="#MS #K">,</rdg>
+   <rdg wit="#MS">,</rdg>
+   <rdg wit="#K">,</rdg>
    <rdg wit="#A1 #P2 #P1 #B1 #F1"></rdg>
 </app> at once.  The narrative of the &quot;Voyage to Cathay
 <app type="punc">
-   <rdg wit="#MS #P2 #P1 #A1 #K">,</rdg>
+   <rdg wit="#MS">,</rdg>
+   <rdg wit="#P2">,</rdg>
+   <rdg wit="#P1">,</rdg>
+   <rdg wit="#A1">,</rdg>
+   <rdg wit="#K">,</rdg>
    <rdg wit="#B1 #F1"></rdg>
 </app>&quot; has been written with the journal of the Admiral before us
 <app type="punc">
-   <rdg wit="#MS #P1 #P2 #A1 #B1 #K">; or,</rdg>
+   <rdg wit="#MS">; or,</rdg>
+   <rdg wit="#P1">; or,</rdg>
+   <rdg wit="#P2">; or,</rdg>
+   <rdg wit="#A1">; or,</rdg>
+   <rdg wit="#B1">; or,</rdg>
+   <rdg wit="#K">; or,</rdg>
    <rdg wit="#F1">, or</rdg>
 </app> rather with all of that journal
 <app type="punc">
-   <rdg wit="#MS #K">,</rdg>
+   <rdg wit="#MS">,</rdg>
+   <rdg wit="#K">,</rdg>
    <rdg wit="#A1 #P1 #P2 #B1 #F1"></rdg>
 </app> 
 <app type="style">
    <rdg wit="#MS"><del>as it</del> <add>that</add></rdg>
    <rdg wit="#K">that</rdg>
-   <rdg wit="#A1 #P2 #P1 #B1 #F1">which</rdg>
+   <rdg wit="#A1">which</rdg>
+   <rdg wit="#P2">which</rdg>
+   <rdg wit="#P1">which</rdg>
+   <rdg wit="#B1">which</rdg>
+   <rdg wit="#F1">which</rdg>
 </app> has been given to the world through the agency of a very incompetent and 
 <app type="orth">
-   <rdg wit="#MS #K">meager</rdg>
-   <rdg wit="#A1 #P1 #P2 #B1 #F1">meagre</rdg>
+   <rdg wit="#MS">meager</rdg>
+   <rdg wit="#K">meager</rdg>
+   <rdg wit="#A1">meagre</rdg>
+   <rdg wit="#P1">meagre</rdg>
+   <rdg wit="#P2">meagre</rdg>
+   <rdg wit="#B1">meagre</rdg>
+   <rdg wit="#F1">meagre</rdg>
 </app> editor.  Nothing is plainer than the 
 <app type="ms">
    <rdg wit="#MS"><add>general</add></rdg>
-   <rdg wit="#K #P1 #P2 #A1 #B1 #F1">general</rdg>   
+   <rdg wit="#K">general</rdg>
+   <rdg wit="#P1">general</rdg>
+   <rdg wit="#P2">general</rdg>
+   <rdg wit="#A1">general</rdg>
+   <rdg wit="#B1">general</rdg>
+   <rdg wit="#F1">general</rdg>   
 </app> fact that this person
 <app type="ms">
    <rdg wit="#MS"><del><add>generally</add></del></rdg>
@@ -192,15 +298,30 @@ There is one point, notwithstanding, concerning which it may be well to be frank
 did not
 <app type="ms">
    <rdg wit="#MS"><add>always</add></rdg>
-   <rdg wit="#K #P1 #P2 #A1 #B1 #F1">always</rdg>
+   <rdg wit="#K">always</rdg>
+   <rdg wit="#P1">always</rdg>
+   <rdg wit="#P2">always</rdg>
+   <rdg wit="#A1">always</rdg>
+   <rdg wit="#B1">always</rdg>
+   <rdg wit="#F1">always</rdg>
 </app> understand his author
 <app type="punc">
-   <rdg wit="#MS #P1 #P2 A1 #K">,</rdg>
-   <rdg wit="#B1 #F1">;</rdg>
+   <rdg wit="#MS">,</rdg>
+   <rdg wit="#P1">,</rdg>
+   <rdg wit="#P2">,</rdg>
+   <rdg wit="#A1">,</rdg>
+   <rdg wit="#K">,</rdg>
+   <rdg wit="#B1">;</rdg>
+   <rdg wit="#F1">;</rdg>
 </app> and in one particular circumstance he has written so obscurely, as not a little to embarass even a novelist, whose functions naturally include an entire familiarity with the thoughts, emotions, characters, and, occasionally, 
 <app type="ms">
    <rdg wit="#MS"><add>with</add></rdg>
-   <rdg wit="#F1 #B1 #A1 #P2 #P1 #K">with</rdg>
+   <rdg wit="#F1">with</rdg>
+   <rdg wit="#B1">with</rdg>
+   <rdg wit="#A1">with</rdg>
+   <rdg wit="#P2">with</rdg>
+   <rdg wit="#P1">with</rdg>
+   <rdg wit="#K">with</rdg>
 </app>
 the unknown fates of the subjects of his pen.  The nautical day formerly commenced 
 <app type="ms">

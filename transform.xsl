@@ -41,6 +41,13 @@
                         });
                     });
                 </script>
+                <script src="//code.jquery.com/jquery-1.9.1.js"></script>
+                <script src="//code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+                <script>
+                    $(function() {
+                    $( "#tabs" ).tabs();
+                    });
+                </script>
             </body>
         
         </html>
@@ -51,15 +58,16 @@
     </xsl:template>
     
     <xsl:template match="tei:listWit">
-        <ul class="nav-tabs">
-            <xsl:apply-templates />
-        </ul>
+        <div id="tabs">
+            <ul>
+                <xsl:apply-templates />
+            </ul>
+        </div>
     </xsl:template>
     
-    <!--<xsl:template match="tei:witness">
+    <xsl:template match="tei:witness">
         <li data-id="${@xml.id}" data-toggle="tab"><xsl:apply-templates /></li>
-        <a href="#MS" data-toggle="tab"></a>
-    </xsl:template>-->
+    </xsl:template>
     
     <xsl:template match="tei:p">
         <p>
