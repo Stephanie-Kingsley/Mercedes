@@ -119,7 +119,9 @@
         <xsl:param name="node" />
         
         <!-- Stephanie, this is where you are going to transform the XML to HTML for the popoever -->
-      
+        <xsl:text>
+            
+        </xsl:text>
     </xsl:template>
 
     <xsl:template match="tei:rdg">
@@ -196,6 +198,8 @@
             <div class="sidenote"><xsl:value-of select="."/></div> 
         </div>
         
-    </xsl:template>
+    </xsl:template>    
+        
+    
     
 </xsl:stylesheet>

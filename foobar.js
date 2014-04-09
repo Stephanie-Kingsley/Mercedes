@@ -4,16 +4,19 @@ var default_val = ".K";
 $(document).ready(function() {
 
   $('.rdg').popover();
+$('.rdg').click(function(){
 
+  console.log($(this));
+});
   //console.log('witnesses', witnesses.join(','));
 
-  $('.MS,.A1,.B1,.F1,.P1,.P2').hide();
+  $('.K,.MS,.A1,.B1,.F1,.P1,.P2').hide();
   $(default_val).show();
 
   $('.nav li a').click(function() {
     var element = '.' + $(this).data('witness');
 
-   $('.MS,.A1,.B1,.F1').hide(); 
+   $('.K,.MS,.A1,.B1,.F1,.P1,.P2').hide(); 
 
     $(element).show();
 

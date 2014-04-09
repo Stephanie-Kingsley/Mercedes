@@ -8,14 +8,6 @@
 .pub {}
 .style {}
 
-.MS { display: none;}
-.A1 { display: none;}
-.P1 { display: inline;}
-.P2 { display: none;}
-.B1 { display: none;}
-.F1 { display: none;}
-.K { display: inline;}
-
 
 ins {color:green;}
 del {
