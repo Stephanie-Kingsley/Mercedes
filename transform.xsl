@@ -93,6 +93,10 @@
         </ul> -->
 
     </xsl:template>
+    
+    <xsl:template match="tei:label">
+        <h1><xsl:apply-templates/></h1>
+    </xsl:template>
 
     <xsl:template match="tei:witness">
 
@@ -117,11 +121,24 @@
     
     <xsl:template name="like">
         <xsl:param name="node" />
+        <!-- Stephanie, this is where you are going to transform the XML to HTML for the popoever: 
+            can put in html tags; node; attributes you want @ sign; value-of-->
+            <xsl:for-each select="node ()">
+                <ul>
+                    <li><strong><xsl:value-of select="@wit"/>: </strong><xsl:apply-templates/></li>
+                </ul>
+            </xsl:for-each>
         
-        <!-- Stephanie, this is where you are going to transform the XML to HTML for the popoever -->
-        <xsl:text>
-            
-        </xsl:text>
+        
+        <!--
+        <li>
+            <xsl:apply-templates/>
+        </li><br/>-->
+        
+        <!-- <xsl:text>P1:</xsl:text>
+        <li value-of="${P1}">
+            <xsl:apply-templates/>
+        </li><br/>-->
     </xsl:template>
 
     <xsl:template match="tei:rdg">
@@ -194,7 +211,6 @@
     
     <xsl:template match="tei:note">
         <div class="annotated">
-            <div class="summary">Wayne made me do it this way</div>
             <div class="sidenote"><xsl:value-of select="."/></div> 
         </div>
         

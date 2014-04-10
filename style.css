@@ -1,11 +1,24 @@
+.container {
+	font-family: Times;
+	font-size: 20px;
+	padding-top: 20px;
+}
+
+a.navbar-brand {
+	color: blue;
+	font-size: 28px;
+}
+
+a.active {
+}
 
 
-.rev {}
-.punc {}
-.cap {}
-.comp_err {}
-.auth_err {}
-.pub {}
+.rev {color:purple;}
+.punc {color:blue;}
+.cap {color:aqua;}
+.comp_err {color:orange}
+.auth_err {color:olive}
+.pub {color:yellow}
 .style {}
 
 
@@ -16,14 +29,50 @@ del {
 }
 
 header {
-  font-family: Century, Times, Garamond;
+  font-family: Times, Garamond;
   text-align: left;
 }
+h1 {font-size: 20px;
+	font-weight: bold;
+	font-family: Times;
+	text-align: center;
+}
+blockquote {
+	text-align: left;
+	font-family: Times;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 16px;
+	line-height: 20px;
+	font-style: italic;
 
-blockquote {float:left;}
+}
 
 ul {text-align: left; padding-top: 2px;}
 
+
+
+p {
+	padding-top: none;
+	padding-bottom: none;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-bottom: none;
+	margin-top: none;
+	text-indent: 20px;
+	max-width: 65%;
+	font-family: Times;
+	font-size: 16px;
+	margin: auto;
+}
+
+.sidenote {
+	text-align: left;
+	float: right;
+	max-width: 16%;
+	font-family: Times;
+	font-size: 16px;
+}
 
 header, nav, footer, img {text-align: center;}
 
