@@ -3,7 +3,9 @@ var default_val = ".K";
 
 $(document).ready(function() {
 
-  $('.rdg').popover();
+  $('.rdg').popover({
+    html: true
+  });
 $('.rdg').click(function(){
 
   console.log($(this));
@@ -23,3 +25,5 @@ $('.rdg').click(function(){
     //console.log(element);
   });
 });
+
+

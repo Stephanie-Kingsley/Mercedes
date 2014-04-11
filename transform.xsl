@@ -33,34 +33,36 @@
                     <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
                 <![endif]-->
                 <div class="container">
-                    <div class="navbar navbar-default" role="navigation">
-                        <div class="container-fluid">
-                            <div class="navbar-header">
-                                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                                    <span class="sr-only">Toggle navigation</span>
-                                    <span class="icon-bar"></span>
-                                    <span class="icon-bar"></span>
-                                    <span class="icon-bar"></span>
-                                </button>
-                                <a class="navbar-brand" href="#"><xsl:value-of select="tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/></a>
-                            </div>
-                            <div class="navbar-collapse collapse">
-                                <ul class="nav navbar-nav">                           
-                                    <xsl:for-each select="tei:text/tei:front/tei:div/tei:listWit/tei:witness">
-                                        <xsl:choose>
-                                            <xsl:when test="node()[1]">
-                                                <li><a class="active" href="#{@xml:id}" data-witness="{@xml:id}"><xsl:value-of select="node()"/></a></li>
-                                            </xsl:when>
-                                            <xsl:otherwise>
-                                                <li><a href="#{@xml:id}" data-witness="{@xml:id}"><xsl:value-of select="node()"/></a></li>
-                                            </xsl:otherwise>
-                                        </xsl:choose>
-                                        
-                                    </xsl:for-each>      
-                                </ul>
-                                
-                            </div><!--/.nav-collapse -->
-                        </div><!--/.container-fluid -->
+                    <div class="banner">
+                        <div class="navbar navbar-default" role="navigation">
+                            <div class="container-fluid">
+                                <div class="navbar-header">
+                                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                        <span class="sr-only">Toggle navigation</span>
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
+                                    </button>
+                                    <a class="navbar-brand" href="#"><xsl:value-of select="tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/></a>
+                                </div>
+                                <div class="navbar-collapse collapse">
+                                    <ul class="nav navbar-nav">                           
+                                        <xsl:for-each select="tei:text/tei:front/tei:div/tei:listWit/tei:witness">
+                                            <xsl:choose>
+                                                <xsl:when test="node()[1]">
+                                                    <li><a class="active" href="#{@xml:id}" data-witness="{@xml:id}"><xsl:value-of select="node()"/></a></li>
+                                                </xsl:when>
+                                                <xsl:otherwise>
+                                                    <li><a href="#{@xml:id}" data-witness="{@xml:id}"><xsl:value-of select="node()"/></a></li>
+                                                </xsl:otherwise>
+                                            </xsl:choose>
+                                            
+                                        </xsl:for-each>      
+                                    </ul>
+                                    
+                                </div><!--/.nav-collapse -->
+                            </div><!--/.container-fluid -->
+                        </div>
                     </div>
                 
                 
@@ -73,7 +75,36 @@
                 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"/>
                 <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
                 <script src="foobar.js"></script>
-
+<!--<script>
+    $(function() {
+    // Stick the #nav to the top of the window
+    var nav = $('#navbar.navbar-default');
+    var navHomeY = nav.offset().top;
+    var isFixed = false;
+    var $w = $(window);
+    $w.scroll(function() {
+    var scrollTop = $w.scrollTop();
+    var shouldBeFixed = scrollTop > navHomeY;
+    if (shouldBeFixed &amp;&amp; !isFixed) 
+    {
+    nav.css({
+    position: 'fixed',
+    top: 0,
+    left: nav.offset().left,
+    width: nav.width()
+    });
+    isFixed = true;
+    }
+    else if (!shouldBeFixed &amp;&amp; isFixed)
+    {
+    nav.css({
+    position: 'static'
+    });
+    isFixed = false;
+    }
+    });
+    });
+</script>-->
             </body>
 
         </html>
@@ -114,7 +145,7 @@
 
 
     <xsl:template match="tei:app">
-        <span class="app">
+        <span class="app {@type}">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
@@ -123,11 +154,11 @@
         <xsl:param name="node" />
         <!-- Stephanie, this is where you are going to transform the XML to HTML for the popoever: 
             can put in html tags; node; attributes you want @ sign; value-of-->
-            <xsl:for-each select="node ()">
-                <ul>
-                    <li><strong><xsl:value-of select="@wit"/>: </strong><xsl:apply-templates/></li>
-                </ul>
-            </xsl:for-each>
+        &lt;ul&gt;
+        <xsl:for-each select="$node/tei:rdg">
+            &lt;li&gt;&lt;strong&gt;<xsl:value-of select="@wit"/>: &lt;/strong&gt;<xsl:apply-templates/>&lt;/li&gt;
+        </xsl:for-each>
+&lt;/ul&gt;
         
         
         <!--
@@ -141,17 +172,17 @@
         </li><br/>-->
     </xsl:template>
 
-    <xsl:template match="tei:rdg">
+    <!--<xsl:template match="tei:rdg">
         <xsl:variable name="class">
             <xsl:value-of select="translate(@wit, '#','')"/>
         </xsl:variable>
         
         <xsl:variable name="witnesses">
             <xsl:call-template name="like">
-                <xsl:with-param name="node" select="node()" />
+                <xsl:with-param name="node" select="parent::node()" />
             </xsl:call-template>
         </xsl:variable>
-    </xsl:template>
+    </xsl:template>-->
     
     <xsl:template match="tei:lb">
         <br>
@@ -186,7 +217,7 @@
         
         <xsl:variable name="witnesses">
             <xsl:call-template name="like">
-                <xsl:with-param name="node" select="node()" />
+                <xsl:with-param name="node" select="parent::node()" />
             </xsl:call-template>
         </xsl:variable>
         

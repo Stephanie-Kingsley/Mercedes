@@ -539,8 +539,8 @@ Our hero would not have been a true lover, had he remained indifferent to the gl
 </app>
 lay spread before his eyes, as he thus coasted the shores of 
 <app type="ms">
-   <rdg wit="#MS"><del>Hispaniola</del> <add type="dark">Espanola</add></rdg>
-   <rdg wit="#K #F1 #B1 #A1 #P1 #P2">Espanola</rdg>
+   <rdg wit="#MS"><del>Hispaniola</del> <add type="dark">Española</add></rdg>
+   <rdg wit="#K #F1 #B1 #A1 #P1 #P2">Española</rdg>
 </app>.  The boldness of the landscape, as in the Mediterranean, was relieved by the softness of a low latitude, which throws some such witchery around rocks and 
 <app type="orth">
    <rdg wit="#MS">promentories</rdg>
@@ -588,7 +588,7 @@ lay spread before his eyes, as he thus coasted the shores of
 <app type="ms">
    <rdg wit="#MS"><add>it</add></rdg>
    <rdg wit="#P1 #P2 #F1 #K #A1 #B1">it</rdg>
-</app>, Senor Conde,&quot; observed the seaman, when they had reached a spot 
+</app>, Señor Conde,&quot; observed the seaman, when they had reached a spot 
 <app type="orth">
    <rdg wit="#MS">severel</rdg>
    <rdg wit="#B1">several</rdg>
@@ -608,7 +608,7 @@ lay spread before his eyes, as he thus coasted the shores of
    <rdg wit="#F1">for granted,</rdg>
    <rdg wit="#A1 #P1 #P2">for granted,</rdg>
    <rdg wit="#K">for granted,</rdg>
-</app> Senor Conde, that 
+</app> Señor Conde, that 
 <app type="cap">
    <rdg wit="#MS">Your</rdg>
    <rdg wit="#B1">your</rdg>
@@ -678,7 +678,7 @@ lay spread before his eyes, as he thus coasted the shores of
 <app type="ms">
    <rdg wit="#MS"><add type="dark">it</add></rdg>
    <rdg wit="#K #B1 #A1 #F1 #P1 #P2">it</rdg>
-</app>, Senor, your 
+</app>, Señor, your 
 <app type="cap">
    <rdg wit="#K #MS #A1">excellency</rdg>
    <rdg wit="#B1">Excellency</rdg>
@@ -735,7 +735,7 @@ lay spread before his eyes, as he thus coasted the shores of
    <rdg wit="#A1 #P1 #P2">my lord</rdg>
    <rdg wit="#F1">my lord</rdg>
    <rdg wit="#K">my lord</rdg>
-</app>, the Senor Don Almirante 
+</app>, the Señor Don Almirante 
 <app type="punc">
    <rdg wit="#MS"> </rdg>
    <rdg wit="#B1">,</rdg>
@@ -760,7 +760,7 @@ lay spread before his eyes, as he thus coasted the shores of
    <rdg wit="#B1">gracious lady</rdg>
    <rdg wit="#A1 #P1 #P2">gracious lady</rdg>
    <rdg wit="#F1">gracious lady</rdg>
-</app>, the Dona Isabella, is henceforth and for ever to be 
+</app>, the Doña Isabella, is henceforth and for ever to be 
 <app type="cap">
    <rdg wit="#MS #F1 #B1">Queen</rdg>
    <rdg wit="#P1">Queen</rdg>
@@ -872,7 +872,11 @@ As the canoe shut in the coast, by entering between the two points that formed t
    <rdg wit="#B1">bay</rdg>
    <rdg wit="#A1 #P1 #P2">bay</rdg>
    <rdg wit="#F1">bay</rdg>
-</app> of Acul, on a visit to the wonderful strangers.  The natives in the canoe 
+</app> of 
+<app>
+   <rdg wit="#K #A1 #B1 #F1 #P1 #P2">Acúl</rdg>
+   <rdg wit="#MS">Ac<del>u</del><add>ú</add>l</rdg>
+</app>, on a visit to the wonderful strangers.  The natives in the canoe 
 <app type="punc">
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1"></rdg>
@@ -1155,9 +1159,9 @@ Mattinao was received by his people
 <app type="style">
    <rdg wit="#K"><hi rend="underline">oi polloi</hi>,</rdg>
    <rdg wit="#MS"><hi rend="underline">oi polloi</hi>,</rdg>
-   <rdg wit="#B1">[GREEK]</rdg>
+   <rdg wit="#B1">οί πολλοί</rdg>
    <rdg wit="#A1 #P1 #P2"><hi rend="underline">oi polloi</hi></rdg>
-   <rdg wit="#F1">[GREEK]</rdg>
+   <rdg wit="#F1">οί πολλοί</rdg>
 </app> to a sort of square in the centre of the village, leaving Don Luis in the habitation of the Cacique.</p>
 <p>
 No sooner did Mattinao find himself
@@ -2276,7 +2280,7 @@ on the score of animation, native frankness, ingenuousness, and all that witcher
 <app type="ms">
    <rdg wit="#MS"><add>gracious</add></rdg>
    <rdg wit="#P1 #P2 #K #F1 #B1 #A1">gracious</rdg>
-</app>hands of Dona Isabella, and he even thought it very possible that the artless grace of Ozema was not far behind 
+</app>hands of Doña Isabella, and he even thought it very possible that the artless grace of Ozema was not far behind 
 <app type="punc">
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1"></rdg>
@@ -3194,7 +3198,7 @@ on the score of animation, native frankness, ingenuousness, and all that witcher
    <rdg wit="#A1 #P2 #P1">lady</rdg>
    <rdg wit="#F1">lady</rdg>
 </app> the Queen!&quot;</p>
-<p>&quot;Double that, Senor Conde 
+<p>&quot;Double that, Señor Conde 
 <app type="punc">
    <rdg wit="#K #MS #P1 #P2 #A1">;</rdg>
    <rdg wit="#B1">,</rdg>
@@ -3288,7 +3292,7 @@ on the score of animation, native frankness, ingenuousness, and all that witcher
    <rdg wit="#MS"><del>one</del> <add><hi rend="underline">one</hi></add></rdg>
 </app>.&quot;
 </p>
-<p>&quot;I never forget my birth, Senor, for happily the 
+<p>&quot;I never forget my birth, Señor, for happily the 
 <app type="cap">
    <rdg wit="#K #MS">Ship Yard</rdg>
    <rdg wit="#B1">ship-yard</rdg>
@@ -3418,7 +3422,7 @@ on the score of animation, native frankness, ingenuousness, and all that witcher
    <rdg wit="#A1 #P2 #P1">Hawk&apos;s-bells</rdg>
    <rdg wit="#F1">Hawk&apos;s-bells</rdg>
    <rdg wit="#K">Hawk&apos;s-bells</rdg>
-</app> are of more account than gold, in Hayti, Senor, and happening to know it, I am willing to part with the precious things for the dross.  You see 
+</app> are of more account than gold, in Hayti, Señor, and happening to know it, I am willing to part with the precious things for the dross.  You see 
 <app type="punc">
    <rdg wit="#K #MS">,</rdg>
    <rdg wit="#B1"></rdg>
@@ -3438,7 +3442,7 @@ on the score of animation, native frankness, ingenuousness, and all that witcher
    <rdg wit="#B1">,</rdg>
    <rdg wit="#A1 #P1 #P2">,</rdg>
    <rdg wit="#F1">,</rdg>
-</app> by carrying this gold to Spain, I may be requited for my trouble, and get enough benefit to make an honest livelihood.  I hope Dona Isabella will have so much feeling for these 
+</app> by carrying this gold to Spain, I may be requited for my trouble, and get enough benefit to make an honest livelihood.  I hope Doña Isabella will have so much feeling for these 
 <app type="punc">
    <rdg wit="#MS"></rdg>
    <rdg wit="#B1">,</rdg>
@@ -3463,7 +3467,7 @@ on the score of animation, native frankness, ingenuousness, and all that witcher
    <rdg wit="#A1 #P1 #P2">favour</rdg>
    <rdg wit="#F1">favour</rdg>
 </app> in behalf of these poor islanders, and that too, Sancho, at the expense of thine own bones?&quot;</p>
-<p>&quot;Simply, Senor,&quot; answered the knave 
+<p>&quot;Simply, Señor,&quot; answered the knave 
 <app type="punc">
    <rdg wit="#K #MS"> </rdg>
    <rdg wit="#B1">,</rdg>
@@ -3613,7 +3617,7 @@ on the score of animation, native frankness, ingenuousness, and all that witcher
    <rdg wit="#A1 #P2 #P1">treachery</rdg>
    <rdg wit="#F1">treachery</rdg>
    <rdg wit="#K">treachery</rdg>
-</app>, Senor?&quot; exclaimed Sancho. &quot;
+</app>, Señor?&quot; exclaimed Sancho. &quot;
 <app type="ms">
    <rdg wit="#MS"><del>Are</del> <add>Have</add></rdg>
    <rdg wit="#P1 #P2 #K #A1 #B1 #F1">Have</rdg>
@@ -3661,7 +3665,7 @@ on the score of animation, native frankness, ingenuousness, and all that witcher
    <rdg wit="#K">&apos;Caonabo&apos;?&quot;</rdg>
 </app> 
 </p>
-<p>&quot;The very same, Senor!  That is the name of the 
+<p>&quot;The very same, Señor!  That is the name of the 
 <app type="orth">
    <rdg wit="#K #MS #P2 #P1 #A1">Carib</rdg>
    <rdg wit="#B1">Carrib</rdg>
