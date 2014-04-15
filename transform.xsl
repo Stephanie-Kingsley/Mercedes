@@ -224,9 +224,8 @@
         <span class="rdg {$class}" data-container="body" data-toggle="popover" data-placement="auto" data-content="{$witnesses}">
             <xsl:apply-templates/>
         </span>
-
+        
     </xsl:template>
-
     
     <xsl:template match="tei:del">
         <del><xsl:apply-templates/></del>

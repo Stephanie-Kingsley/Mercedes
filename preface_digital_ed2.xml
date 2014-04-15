@@ -65,13 +65,16 @@
 </app>, that it would not be at all surprising should there exist a disposition in a certain class of readers to deny the accuracy of
 <app type="comp_error">
    <rdg wit="#K"></rdg>
-   <rdg wit="#MS"><del>all</del> <del><add>some of</add></del></rdg>
+   <rdg wit="#MS"><del>all</del> <del><add>some of</add></del>[1]</rdg>
    <rdg wit="#A1"> all</rdg>
    <rdg wit="#P1"> all</rdg>
    <rdg wit="#P2"> all</rdg>
    <rdg wit="#B1"> all</rdg>
    <rdg wit="#F1"> all</rdg>
-</app> the statements 
+</app>[1]
+              <note type="noteref"></note>
+              <note type="note">1. In his MS, Cooper cancelled the word <hi rend="underline">all</hi>, which the compositor mistakenly set.</note> 
+the statements 
 <app type="rev">
    <rdg wit="#MS">of</rdg>
    <rdg wit="#P1"><del>of</del> <add>in</add></rdg>
@@ -352,7 +355,7 @@ the unknown fates of the subjects of his pen.  The nautical day formerly commenc
    <rdg wit="#MS #A1 #K">This little peculiarity might possibly embarrass a
       <app type="rev">
          <rdg wit="#MS">very accurate</rdg>
-         <rdg wit="#P1 #P2">?</rdg>
+         <rdg wit="#P1 #P2"><del>very accurate</del> <add>superficial</add></rdg>
          <rdg wit="#A1 #K">superficial</rdg>
       </app> critic
       <app type="punc">
@@ -374,12 +377,12 @@ the unknown fates of the subjects of his pen.  The nautical day formerly commenc
       convenience, and to save them from head-aches, have honestly stated this principal difficulty ourselves.
       <app type="rev">
          <rdg wit="#MS">If</rdg>
-         <rdg wit="#P1 #P2">?</rdg>
+         <rdg wit="#P1 #P2"><del>If</del> <add>Should</add></rdg>
          <rdg wit="#A1 #K">Should</rdg>
       </app> the publicity which is now given to the consequences of commencing a day in the middle,
       <app type="rev">
          <rdg wit="#MS">should</rdg>
-         <rdg wit="#P2 #P1">?</rdg>
+         <rdg wit="#P2 #P1"><del>should</del></rdg>
          <rdg wit="#A1 #K"></rdg>
       </app> have the effect to induce the government to order that it shall, in future, 
       <app type="ms">
@@ -389,16 +392,16 @@ the unknown fates of the subjects of his pen.  The nautical day formerly commenc
        commence at one of its ends,
       <app type="rev">
          <rdg wit="#MS">we are quite indifferent which,</rdg>
-         <rdg wit="#P1 #P2">?</rdg>
+         <rdg wit="#P1 #P2"><del>we are quite indifferent which,</del></rdg>
          <rdg wit="#A1 #K"></rdg>
       </app> something will be gained in the way of simplicity, and the writing of novels will, in-so-much, be rendered easier and more agreeable.
       <app type="rev">
          <rdg wit="#MS">It will, quite likely, remove the objections of one portion of the community to this innovation, to be told that the English have already made this change.</rdg>
          <rdg wit="#A1 #K"></rdg>
-         <rdg wit="#P2 #P1">?</rdg>
+         <rdg wit="#P2 #P1"><del>It will, quite likely, remove the objections of one portion of the community to this innovation, to be told that the English have already made this change.</del></rdg>
       </app>
    </rdg>
-   <rdg wit="#B1 #F1"></rdg>
+   <rdg wit="#B1 #F1">[LARGE OMITTED PASSAGE HERE]</rdg>
 </app> 
 </p>
 <p>As respects the minor characters of this work, very little need be said.  Every one knows that Columbus had seamen in  his vessels, and that he brought some of the natives of the islands he had discovered
@@ -484,7 +487,7 @@ Sutermeister
 <app type="style">
    <rdg wit="#MS #F1 #B1">.</rdg>
    <rdg wit="#A1"></rdg>
-   <rdg wit="#P2 #P1">?</rdg>
+   <rdg wit="#P2 #P1"></rdg>
    <rdg wit="#K"></rdg>
 </app>
 </quote>
@@ -619,7 +622,7 @@ lay spread before his eyes, as he thus coasted the shores of
 <app type="cap">
    <rdg wit="#K #MS #F1 #B1">Excellency</rdg>
    <rdg wit="#A1">excellency</rdg>
-   <rdg wit="#P1 #P2">?</rdg>
+   <rdg wit="#P1 #P2">excellency</rdg>
 </app> knoweth whither these naked gentry are paddling 
 <app type="punc">
    <rdg wit="#K #MS #A1 #P2 #P1">,</rdg>
@@ -1943,7 +1946,7 @@ The Haytians used a scanty dress, though it shocked none of their opinions to go
 </app>Mercedes had the advantage in 
 <app type="comp_err">
    <rdg wit="#K #MS #A1">finesse</rdg>
-   <rdg wit="#P1 #P2">?</rdg>
+   <rdg wit="#P1 #P2">finesse</rdg>
    <rdg wit="#B1">fineness</rdg>
    <rdg wit="#F1">fineness</rdg>
 </app> and delicacy; that her features and brow were nobler; her eye more illuminated by the intelligence within; her smile more radiant with thought and the feelings of 
@@ -2293,7 +2296,10 @@ on the score of animation, native frankness, ingenuousness, and all that witcher
    <rdg wit="#A1 #P1 #P2">grateful pleasure</rdg>
    <rdg wit="#F1">grateful pleasure</rdg>
    <rdg wit="#K">grateful pleasure</rdg>
-</app>, that Mercedes could not fail to exhibit.  While thoughts like these were passing through his mind, the Indian girl laid aside her own less enticing robe, without a thought of shame, and then she 
+</app>, that Mercedes could not fail to exhibit. [1]</p>
+          <note type="noteref"><lb/></note>
+          <note type="note">1. The first American edition introduces a paragraph break here, which I believe to be Cooper's own change in the first proof stage.  While the MS fuses these two paragraphs together, splitting them here adds drama to Ozema's disrobing and textually signifies the threat she poses to Mercedes as a distraction for Luis.</note>
+<p>While thoughts like these were passing through his mind, the Indian girl laid aside her own less enticing robe, without a thought of shame, and then she 
 <app type="ms">
    <rdg wit="#MS"><del>wrapped</del> <add>folded her</add> <add>faultless form in</add></rdg>
    <rdg wit="#P2 #P1 #A1 #B1 #F1 #K">folded her faultless form in </rdg>
@@ -2628,9 +2634,9 @@ on the score of animation, native frankness, ingenuousness, and all that witcher
    <rdg wit="#A1 #P2">them</rdg>
    <rdg wit="#F1">them</rdg>
    <rdg wit="#K">them</rdg>
-</app> prettier and softer to the ear.[1]</p>
+</app> prettier and softer to the ear.[2]</p>
    <note type="noteref"><lb/></note>
-<note type="note">1. In the MS, a penciled rule and the initials "A.W." appear at this point, likely indicating a change in compositorial shifts.</note>
+<note type="note">2. In the MS, a penciled rule and the initials "A.W." appear at this point, likely indicating a change in compositorial shifts.</note>
 <p>Luis de Bobadilla was just as good a 
 <app type="cap">
    <rdg wit="#K #MS">catholic</rdg>
