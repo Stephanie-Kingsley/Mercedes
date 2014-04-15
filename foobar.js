@@ -22,6 +22,7 @@ $('.rdg').click(function(){
 
     $(element).show();
 
+
     //console.log(element);
   });
 });

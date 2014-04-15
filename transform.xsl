@@ -28,6 +28,13 @@
                 </title>
             </head>
 
+            <nav>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">History of <i>Mercedes</i></a></li>
+                    <li><a href="#">Textual Commentary</a></li>
+                </ul>
+            </nav>
             <body>
                 <!--[if lt IE 8]>
                     <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>

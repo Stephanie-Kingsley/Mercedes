@@ -71,9 +71,7 @@
    <rdg wit="#P2"> all</rdg>
    <rdg wit="#B1"> all</rdg>
    <rdg wit="#F1"> all</rdg>
-</app>[1]
-              <note type="noteref"></note>
-              <note type="note">1. In his MS, Cooper cancelled the word <hi rend="underline">all</hi>, which the compositor mistakenly set.</note> 
+</app><ref target="#a1" type="noteAnchor">[1]</ref> 
 the statements 
 <app type="rev">
    <rdg wit="#MS">of</rdg>
@@ -238,6 +236,7 @@ while the great moral caterers of the
    <rdg wit="#K #F1 #B1 #A1 #P2 #P1"></rdg>
 </app>
 </p>
+          <note xml:id="a1" type="sidenote">1. In his MS, Cooper cancelled the word <hi rend="underline">all</hi>, which the compositor mistakenly set.</note>          
 <p>
 There is one point, notwithstanding, concerning which it may be well to be frank
 <app type="punc">

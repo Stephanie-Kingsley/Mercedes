@@ -9,7 +9,7 @@
 }
 
 .navbar.navbar-default {
-	margin: 10px auto;
+	margin: auto;
 	padding: 10px;
 	height: 125px;
 	width: 1000px;
@@ -88,7 +88,7 @@ p {
 	text-align: left;
 	float: right;
 	max-width: 16%;
-	font-family: Times;
+	font-family: serif;
 	font-size: 16px;
 }
 
