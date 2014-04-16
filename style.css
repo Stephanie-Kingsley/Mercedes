@@ -6,6 +6,7 @@ html {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+	font-size: 100%;
 }
 
 #books {
@@ -27,8 +28,17 @@ body {
 	padding-left: 10px;
 	padding-right: 10px;
 	padding-top: 1px;
-	padding-bottom: 1px;}
+	padding-bottom: 1px;
+	font-family: "Times New Roman", "Georgia", Arial, sans-serif, cursive;
+	width: 68%;
+	margin: 50px auto;
+	text-align: left;}
 
+hr {
+    height:1px;
+    border-top: 1px solid black;
+    border-top: 1px solid rgba(0,0,0,0.5);
+}
 
 
 nav a {
@@ -55,20 +65,47 @@ h2 {
 	margin-left: 12%;
 	margin-right: 12%;}
 
-body {
-	font-family: "Times New Roman", "Georgia", Arial, sans-serif, cursive;
-	width: 68%;
-	margin: 50px auto;
-	font-size: 1em;
-	text-align: left;}
-
 .navbar-collapse {
-	float: right;
-	width: 30%;
+	float: left;
+	width: 20%;
+	padding:0;
+    background: #E5D8C7;
+    background: rgba(0,0,0,0.1);
+}
+
+.navbar-collapse.fixed {
+    position:fixed;
+    top: 10px;
+    width: 13.25%;
+}
+
+.navbar-collapse ul {
+    float:none;
+}
+
+.navbar-nav > li {
+    float:none;
+}
+
+.navbar-nav > li > a {
+    padding: 5px;
+    display:block !important;
+}
+
+.nav > li > a:hover {
+    background-color: rgba(0,0,0,.025);
+    border:0;
+    outline:0;
+}
+
+.nav > li > a:focus {
+    background-color: rgba(0,0,0,.05);
+    border:0;
+    outline:0;
 }
 
 .navbar-collapse + .main {
-	margin-right: 35%;
+	margin-left: 25%;
 }
 
 .navbar.navbar-default {

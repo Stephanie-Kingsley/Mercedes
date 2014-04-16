@@ -29,4 +29,20 @@ $('.rdg').click(function(){
   });
 });
 
+var fixNav = function() {
+     var navBar = $('.navbar-collapse');
+
+     if ($(window).scrollTop() > (navBar.height() - 10)) {
+         navBar.addClass('fixed');
+     }
+     else {
+         navBar.removeClass('fixed');
+     }
+};
+
+$(window).bind('scroll', function() {
+    fixNav();
+});
+
+fixNav();
 
