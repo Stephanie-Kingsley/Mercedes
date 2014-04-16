@@ -65,6 +65,8 @@ h2 {
 	float: right;
 	width: 20%;
 	padding:0;
+    background: #E5D8C7;
+    background: rgba(0,0,0,0.1);
 }
 
 .navbar-collapse ul {
