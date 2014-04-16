@@ -34,7 +34,11 @@ body {
 	margin: 50px auto;
 	text-align: left;}
 
-
+hr {
+    height:1px;
+    border-top: 1px solid black;
+    border-top: 1px solid rgba(0,0,0,0.5);
+}
 
 
 nav a {
