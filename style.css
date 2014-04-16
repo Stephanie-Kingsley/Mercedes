@@ -63,11 +63,37 @@ h2 {
 
 .navbar-collapse {
 	float: right;
-	width: 30%;
+	width: 20%;
+	padding:0;
+}
+
+.navbar-collapse ul {
+    float:none;
+}
+
+.navbar-nav > li {
+    float:none;
+}
+
+.navbar-nav > li > a {
+    padding: 5px;
+    display:block !important;
+}
+
+.nav > li > a:hover {
+    background-color: rgba(0,0,0,.025);
+    border:0;
+    outline:0;
+}
+
+.nav > li > a:focus {
+    background-color: rgba(0,0,0,.05);
+    border:0;
+    outline:0;
 }
 
 .navbar-collapse + .main {
-	margin-right: 35%;
+	margin-right: 25%;
 }
 
 .navbar.navbar-default {
