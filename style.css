@@ -6,6 +6,7 @@ html {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+	font-size: 100%;
 }
 
 #books {
@@ -27,7 +28,12 @@ body {
 	padding-left: 10px;
 	padding-right: 10px;
 	padding-top: 1px;
-	padding-bottom: 1px;}
+	padding-bottom: 1px;
+	font-family: "Times New Roman", "Georgia", Arial, sans-serif, cursive;
+	width: 68%;
+	margin: 50px auto;
+	text-align: left;}
+
 
 
 
@@ -54,13 +60,6 @@ h2 {
 	text-align: center;
 	margin-left: 12%;
 	margin-right: 12%;}
-
-body {
-	font-family: "Times New Roman", "Georgia", Arial, sans-serif, cursive;
-	width: 68%;
-	margin: 50px auto;
-	font-size: 1em;
-	text-align: left;}
 
 .navbar-collapse {
 	float: right;
