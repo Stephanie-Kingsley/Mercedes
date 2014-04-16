@@ -1,11 +1,33 @@
-.container {
-	font-family: Times;
+html {
+	background: url(SpanishPlate1.jpg) center;
+	background-repeat: repeat-y;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;}
+
+header, body, div, nav, footer {
+	background-color: #FAEBD7}
+
+img {
+	max-width: 25%;
+	float: right;
 }
 
-.banner {
-	position: fixed;
-	top: 0;
-	width: 100%;
+h1 {
+	font: Times;
+	text-align: center;
+}
+h2 {
+	font: Times;
+	text-align: left;
+}
+
+
+
+
+.container {
+	font: Times;
 }
 
 .navbar.navbar-default {

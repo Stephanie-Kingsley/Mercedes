@@ -27,15 +27,21 @@
                     <xsl:value-of select="tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/>
                 </title>
             </head>
-
-            <nav>
-                <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">History of <i>Mercedes</i></a></li>
-                    <li><a href="#">Textual Commentary</a></li>
-                </ul>
-            </nav>
+            
             <body>
+                
+                <h1>Mercedes of Castile: A Digital Edition</h1>
+                <h5>A Project for the Rare Book School by Stephanie Kingsley</h5>
+                
+                <hr/>
+                <nav>
+                    <a href="home.html">Home</a>
+                    <a href="index.html">The Digital Edition</a>
+                    <a href="history.html">History of <i>Mercedes</i></a>
+                    <a href="textual.html">Textual Commentary</a>
+                </nav>
+                <hr/>
+                
                 <!--[if lt IE 8]>
                     <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
                 <![endif]-->
