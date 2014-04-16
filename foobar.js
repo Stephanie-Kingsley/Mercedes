@@ -12,6 +12,22 @@ $('.rdg').click(function(){
 });
 
 
+
+$('#app-toggle-off').click(function(){
+  console.log($(this));
+  $('.rev, .punc,.cap,.comp_err,.auth_err,.pub').css('color', 'black');
+});
+$('#app-toggle-on').click(function(){
+  console.log($(this));
+  $('.rev').css('color', 'purple');
+  $('.punc').css('color', 'blue');
+  $('.cap').css('color', 'aqua');
+  $('.comp_err').css('color', 'orange');
+  $('.auth_err').css('color', 'olive');
+  $('.pub').css('color', 'fuchsia');
+});
+
+
   //console.log('witnesses', witnesses.join(','));
 
   $('.K,.MS,.A1,.B1,.F1,.P1,.P2').hide();
@@ -23,7 +39,7 @@ $('.rdg').click(function(){
    $('.K,.MS,.A1,.B1,.F1,.P1,.P2').hide(); 
 
     $(element).show();
-
+//Look up the jquery CSS method.
 
     //console.log(element);
   });

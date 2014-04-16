@@ -135,6 +135,7 @@ a.active {
 .pub {color:fuchsia}
 .style {}
 
+a {cursor: pointer;}
 
 ins {color:green;}
 del {

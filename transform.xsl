@@ -52,6 +52,11 @@
                                             
                                         </xsl:for-each>      
                                     </ul>
+                                    <div class="app-toggle">Variant Color Coding
+                                        
+                                        <a class="active" id="app-toggle-on">ON  </a>
+                                        <a class="active" id="app-toggle-off">OFF</a>
+                                    </div>
                                     
                                 </div><!--/.nav-collapse -->
                 
