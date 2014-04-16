@@ -62,11 +62,17 @@ h2 {
 	margin-right: 12%;}
 
 .navbar-collapse {
-	float: right;
+	float: left;
 	width: 20%;
 	padding:0;
     background: #E5D8C7;
     background: rgba(0,0,0,0.1);
+}
+
+.navbar-collapse.fixed {
+    position:fixed;
+    top: 10px;
+    width: 13.25%;
 }
 
 .navbar-collapse ul {
@@ -95,7 +101,7 @@ h2 {
 }
 
 .navbar-collapse + .main {
-	margin-right: 25%;
+	margin-left: 25%;
 }
 
 .navbar.navbar-default {
