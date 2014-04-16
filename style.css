@@ -6,11 +6,8 @@ html {
 	-o-background-size: cover;
 	background-size: cover;}
 
-header, body, div, nav, footer {
-	background-color: #FAEBD7}
-
-img {
-	max-width: 25%;
+#books {
+	max-width: 35%;
 	float: right;
 }
 
@@ -23,20 +20,14 @@ h2 {
 	text-align: left;
 }
 
-html {
-	background: url(FrenchPlate2.jpg) center;
-	background-repeat: repeat-y;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;}
-
-header, body, div, nav, footer {
+body {
 	background-color: #FAEBD7;
 	padding-left: 10px;
 	padding-right: 10px;
 	padding-top: 1px;
 	padding-bottom: 1px;}
+
+
 
 nav a {
 	text-align: block;
@@ -69,13 +60,13 @@ body {
 	font-size: 1em;
 	text-align: left;}
 
-img {width: 40%; float: right;}
-#content{width: 55%; float:left;}
-div{width: 25%;}
+.navbar-collapse {
+	float: right;
+	width: 30%;
+}
 
-
-.container {
-	font: Times;
+.navbar-collapse + .main {
+	margin-right: 35%;
 }
 
 .navbar.navbar-default {
@@ -83,10 +74,6 @@ div{width: 25%;}
 	padding: 10px;
 	height: 125px;
 	width: 1000px;
-}
-
-.main {
-	padding-top: 200px;
 }
 
 a.navbar-brand {
@@ -117,17 +104,14 @@ del {
 }
 
 header {
-  font-family: Times, Garamond;
   text-align: left;
 }
 h1 {font-size: 20px;
 	font-weight: bold;
-	font-family: Times;
 	text-align: center;
 }
 blockquote {
 	text-align: left;
-	font-family: Times;
 	margin-left: auto;
 	margin-right: auto;
 	font-size: 16px;
@@ -141,17 +125,9 @@ ul {text-align: left; padding-top: 2px;}
 
 
 p {
-	padding-top: none;
-	padding-bottom: none;
-	padding-left: 20px;
-	padding-right: 20px;
-	margin-bottom: none;
-	margin-top: none;
+	margin:0;
 	text-indent: 20px;
-	max-width: 65%;
-	font-family: Times;
 	font-size: 16px;
-	margin: auto;
 }
 
 .sidenote {

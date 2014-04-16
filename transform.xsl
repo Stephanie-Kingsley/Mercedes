@@ -9,13 +9,8 @@
     
     <xsl:template match="/tei:TEI">
         <xsl:text disable-output-escaping="yes">&lt;!DOCTYPE html&gt;</xsl:text>
-        <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-        <!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
-        <!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
-        <!--[if gt IE 8]><!-->
 
         <html class="no-js" lang="en">
-            <!--<![endif]-->
 
             <head>
                 <meta charset="utf-8"/>
@@ -42,22 +37,7 @@
                 </nav>
                 <hr/>
                 
-                <!--[if lt IE 8]>
-                    <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-                <![endif]-->
-                <div class="container">
-                    <div class="banner">
-                        <div class="navbar navbar-default" role="navigation">
-                            <div class="container-fluid">
-                                <div class="navbar-header">
-                                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                                        <span class="sr-only">Toggle navigation</span>
-                                        <span class="icon-bar"></span>
-                                        <span class="icon-bar"></span>
-                                        <span class="icon-bar"></span>
-                                    </button>
-                                    <a class="navbar-brand" href="#"><xsl:value-of select="tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/></a>
-                                </div>
+
                                 <div class="navbar-collapse collapse">
                                     <ul class="nav navbar-nav">                           
                                         <xsl:for-each select="tei:text/tei:front/tei:div/tei:listWit/tei:witness">
@@ -74,50 +54,17 @@
                                     </ul>
                                     
                                 </div><!--/.nav-collapse -->
-                            </div><!--/.container-fluid -->
-                        </div>
-                    </div>
                 
                 
                     <div class="main" role="main">
                         <xsl:apply-templates select="tei:text"/>
                     </div>
-                </div>
 
 
                 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"/>
                 <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
                 <script src="foobar.js"></script>
-<!--<script>
-    $(function() {
-    // Stick the #nav to the top of the window
-    var nav = $('#navbar.navbar-default');
-    var navHomeY = nav.offset().top;
-    var isFixed = false;
-    var $w = $(window);
-    $w.scroll(function() {
-    var scrollTop = $w.scrollTop();
-    var shouldBeFixed = scrollTop > navHomeY;
-    if (shouldBeFixed &amp;&amp; !isFixed) 
-    {
-    nav.css({
-    position: 'fixed',
-    top: 0,
-    left: nav.offset().left,
-    width: nav.width()
-    });
-    isFixed = true;
-    }
-    else if (!shouldBeFixed &amp;&amp; isFixed)
-    {
-    nav.css({
-    position: 'static'
-    });
-    isFixed = false;
-    }
-    });
-    });
-</script>-->
+
             </body>
 
         </html>
