@@ -10,6 +10,8 @@ $('.rdg').click(function(){
 
   console.log($(this));
 });
+
+
   //console.log('witnesses', witnesses.join(','));
 
   $('.K,.MS,.A1,.B1,.F1,.P1,.P2').hide();
