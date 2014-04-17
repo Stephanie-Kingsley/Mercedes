@@ -9,7 +9,7 @@ html {
 	font-size: 100%;
 }
 
-#books {
+img {
 	max-width: 35%;
 	float: right;
 }
@@ -170,7 +170,7 @@ p {
 	font-size: 16px;
 }
 
-header, nav, footer, img {text-align: center;}
+header, nav, footer {text-align: center;}
 
 a:link {color: #8B0000}
 a:visited {color: #8E388E}
