@@ -28,14 +28,14 @@
                 <h1>Mercedes of Castile: A Digital Edition</h1>
                 <h5>A Project for the Rare Book School by Stephanie Kingsley</h5>
                 
-                <hr/>
-                <nav>
-                    <a href="home.html">Home</a>
-                    <a href="index.html">The Digital Edition</a>
-                    <a href="history.html">History of <i>Mercedes</i></a>
-                    <a href="textual.html">Textual Commentary</a>
-                </nav>
-                <hr/>
+<hr/>
+<nav>
+    <a href="index.html">Home</a>
+    <a href="edition.html">The Digital Edition</a>
+    <a href="history.html">History of <i>Mercedes</i></a>
+    <a href="textual.html">Textual Commentary</a>
+</nav>
+<hr/>
                 
 
                                 <div class="navbar-collapse collapse">
