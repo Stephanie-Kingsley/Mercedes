@@ -16,7 +16,6 @@ html {
 
 h1 {
 	font: Times;
-	text-align: center;
 }
 h2 {
 	font: Times;
@@ -27,8 +26,8 @@ body {
 	background-color: #FAEBD7;
 	padding-left: 10px;
 	padding-right: 10px;
-	padding-top: 1px;
-	padding-bottom: 1px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 	font-family: "Times New Roman", "Georgia", Arial, sans-serif, cursive;
 	width: 68%;
 	margin: 50px auto;
@@ -56,15 +55,6 @@ footer {
 	clear: both;
 	padding-top: 10px}
 
-h1 {font-family: Century, Times, Garamond;
-text-align: left;}
-h2 {
-	font-family: Century, Times, Garamond; 
-	padding-bottom: 10px;
-	text-align: center;
-	margin-left: 12%;
-	margin-right: 12%;}
-
 .navbar-collapse {
 	float: left;
 	width: 20%;
@@ -77,6 +67,7 @@ h2 {
     position:fixed;
     top: 10px;
     width: 13.25%;
+    height: 420px !important;
 }
 
 .navbar-collapse ul {
@@ -88,7 +79,7 @@ h2 {
 }
 
 .navbar-nav > li > a {
-    padding: 5px;
+    padding: 1.2px;
     display:block !important;
 }
 
@@ -127,13 +118,13 @@ a.active {
 	cursor: pointer;
 }
 
-.rev {color:purple;}
+.rev {color:#990099;}
 .punc {color:blue;}
 .cap {color:aqua;}
-.comp_err {color:orange}
-.auth_err {color:olive}
-.pub {color:fuchsia}
-.style {}
+.comp_err {color:orange;}
+.auth_err {color:olive;}
+.pub {color:fuchsia;}
+.orth {color:#CC3300;}
 
 a {cursor: pointer;}
 
@@ -145,10 +136,6 @@ del {
 
 header {
   text-align: left;
-}
-h1 {font-size: 20px;
-	font-weight: bold;
-	text-align: center;
 }
 blockquote {
 	text-align: left;

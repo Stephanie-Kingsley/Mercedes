@@ -57,7 +57,16 @@
                                         <a class="active" id="app-toggle-on">ON  </a>
                                         <a class="active" id="app-toggle-off">OFF</a>
                                     </div>
-                                    
+                                    Color Key
+                                    <ul id="key">
+                                        <li style="color:#990099">Author Revision</li>
+                                        <li style="color:olive">Author Error</li>
+                                        <li style="color:orange">Compositor Error</li>
+                                        <li style="color:fuchsia">Publisher Change</li>
+                                        <li style="color:blue">Punctuation</li>
+                                        <li style="color:aqua">Capitalization</li>
+                                        <li style="color:#CC3300">Orthography</li>
+                                    </ul>
                                 </div><!--/.nav-collapse -->
                 
                 

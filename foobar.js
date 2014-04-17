@@ -15,16 +15,17 @@ $('.rdg').click(function(){
 
 $('#app-toggle-off').click(function(){
   console.log($(this));
-  $('.rev, .punc,.cap,.comp_err,.auth_err,.pub').css('color', 'black');
+  $('.rev, .punc,.cap,.comp_err,.auth_err,.pub,.orth').css('color', 'black');
 });
 $('#app-toggle-on').click(function(){
   console.log($(this));
-  $('.rev').css('color', 'purple');
+  $('.rev').css('color', '#990099');
   $('.punc').css('color', 'blue');
   $('.cap').css('color', 'aqua');
   $('.comp_err').css('color', 'orange');
   $('.auth_err').css('color', 'olive');
   $('.pub').css('color', 'fuchsia');
+  $('.orth').css('color',"#CC3300");
 });
 
 
